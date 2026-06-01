@@ -1,0 +1,9 @@
+iso3,country,in_P1,in_P2,cluster
+AFG,Afghanistan,True,False,1
+MAR,Morocco,True,True,2
+MDG,Madagascar,True,False,2
+MWI,Malawi,True,False,2
+BEN,Benin,False,True,2
+ETH,Ethiopia,False,True,2
+NER,Niger,False,True,2
+SEN,Senegal,False,True,2

@@ -1,0 +1,28 @@
+feature,importance
+cat__Question_... for at least one specific reason,0.22684806706288543
+cat__Question_... if she neglects the children,0.1642571200668139
+cat__Gender_F,0.15947073972455988
+cat__Gender_M,0.13970080060593795
+"cat__Demographics Response_Widowed, divorced, separated",0.13895512357542855
+cat__Question_... if she burns the food,0.038654736265448866
+cat__Question_... if she refuses to have sex with him,0.03519163054657032
+cat__Question_... if she argues with him,0.019021886348438547
+cat__Demographics Question_Marital status,0.014483225379974918
+cat__Question_... if she goes out without telling him,0.011736503138094358
+cat__Demographics Response_Employed for kind,0.008869763457579156
+cat__Demographics Response_25-34,0.006799381939586833
+cat__Demographics Response_Rural,0.00601501511747917
+cat__Demographics Response_15-24,0.004865163103464008
+cat__Demographics Response_Secondary,0.0044690741459417005
+cat__Demographics Response_Higher,0.004039903055502157
+cat__Demographics Question_Education,0.003572523938135044
+cat__Demographics Response_Married or living together,0.002824481880047814
+cat__Demographics Question_Employment,0.002157551185042989
+cat__Demographics Question_Age,0.0015188390918281622
+cat__Demographics Response_Never married,0.0014414963201662915
+cat__Demographics Response_35-49,0.0013308212821413312
+cat__Demographics Question_Residence,0.0013304199401294617
+cat__Demographics Response_Urban,0.0011639435301347783
+cat__Demographics Response_Unemployed,0.0008077492683085018
+cat__Demographics Response_Employed for cash,0.00047404003035971974
+num__SurveyYear,0.0

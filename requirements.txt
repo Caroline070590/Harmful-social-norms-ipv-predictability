@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+statsmodels
+geopandas
+shapely
+pycountry
+jupyter
+notebook
+nbformat
+openpyxl

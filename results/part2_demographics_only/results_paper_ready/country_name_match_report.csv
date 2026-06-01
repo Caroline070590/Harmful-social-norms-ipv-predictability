@@ -1,0 +1,71 @@
+Country_in_dataset,Country_NE,is_in_NaturalEarth_ADMIN
+Afghanistan,Afghanistan,True
+Albania,Albania,True
+Angola,Angola,True
+Armenia,Armenia,True
+Azerbaijan,Azerbaijan,True
+Bangladesh,Bangladesh,True
+Benin,Benin,True
+Bolivia,"Bolivia, Plurinational State of",False
+Burkina Faso,Burkina Faso,True
+Burundi,Burundi,True
+Cambodia,Cambodia,True
+Cameroon,Cameroon,True
+Chad,Chad,True
+Colombia,Colombia,True
+Comoros,Comoros,False
+Congo,Congo,False
+Congo Democratic Republic,Democratic Republic of the Congo,True
+Cote d'Ivoire,Ivory Coast,True
+Dominican Republic,Dominican Republic,True
+Egypt,Egypt,True
+Eritrea,Eritrea,True
+Eswatini,Eswatini,False
+Ethiopia,Ethiopia,True
+Gabon,Gabon,True
+Gambia,Gambia,True
+Ghana,Ghana,True
+Guatemala,Guatemala,True
+Guinea,Guinea,True
+Guyana,Guyana,True
+Haiti,Haiti,True
+Honduras,Honduras,True
+India,India,True
+Indonesia,Indonesia,True
+Jordan,Jordan,True
+Kenya,Kenya,True
+Kyrgyz Republic,Kyrgyzstan,True
+Lesotho,Lesotho,True
+Liberia,Liberia,True
+Madagascar,Madagascar,True
+Malawi,Malawi,True
+Maldives,Maldives,False
+Mali,Mali,True
+Moldova,"Moldova, Republic of",False
+Morocco,Morocco,True
+Mozambique,Mozambique,True
+Myanmar,Myanmar,True
+Namibia,Namibia,True
+Nepal,Nepal,True
+Nicaragua,Nicaragua,True
+Niger,Niger,True
+Nigeria,Nigeria,True
+Pakistan,Pakistan,True
+Peru,Peru,True
+Philippines,Philippines,True
+Rwanda,Rwanda,True
+Sao Tome and Principe,São Tomé and Príncipe,False
+Senegal,Senegal,True
+Sierra Leone,Sierra Leone,True
+South Africa,South Africa,True
+Tajikistan,Tajikistan,True
+Tanzania,"Tanzania, United Republic of",False
+Timor-Leste,East Timor,True
+Togo,Togo,True
+Turkey,Turkey,True
+Turkmenistan,Turkmenistan,True
+Uganda,Uganda,True
+Ukraine,Ukraine,True
+Yemen,Yemen,True
+Zambia,Zambia,True
+Zimbabwe,Zimbabwe,True

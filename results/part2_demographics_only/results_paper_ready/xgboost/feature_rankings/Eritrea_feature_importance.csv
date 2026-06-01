@@ -1,0 +1,23 @@
+feature,importance
+cat__Demographics Response_Higher,0.5802912
+cat__Demographics Response_Secondary,0.12965481
+cat__Demographics Response_Urban,0.04773716
+cat__Demographics Response_Employed for cash,0.03143561
+cat__Demographics Response_Employed for kind,0.03057425
+cat__Demographics Question_Employment,0.029271314
+cat__Demographics Response_Never married,0.02729375
+cat__Demographics Response_Married or living together,0.021129427
+cat__Demographics Response_Rural,0.01646495
+cat__Demographics Response_No education,0.014753352
+cat__Demographics Response_15-24,0.0139800785
+cat__Demographics Question_Age,0.013080199
+cat__Demographics Question_Education,0.012732269
+cat__Demographics Response_25-34,0.012043409
+cat__Demographics Response_Primary,0.0111003695
+cat__Demographics Question_Marital status,0.0052947304
+cat__Demographics Response_35-49,0.0031631258
+"cat__Demographics Response_Widowed, divorced, separated",0.0
+cat__Gender_F,0.0
+cat__Demographics Response_Unemployed,0.0
+cat__Demographics Question_Residence,0.0
+num__SurveyYear,0.0

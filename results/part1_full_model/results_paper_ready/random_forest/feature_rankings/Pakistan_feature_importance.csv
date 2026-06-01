@@ -1,0 +1,29 @@
+feature,importance
+cat__Question_... for at least one specific reason,0.18695387577196843
+cat__Question_... if she burns the food,0.12642801501828427
+cat__Demographics Response_Higher,0.10173897193995717
+cat__Demographics Response_Employed for kind,0.08511534262068247
+cat__Gender_M,0.07652751555681198
+cat__Demographics Response_No education,0.06447225004024058
+cat__Question_... if she refuses to have sex with him,0.06315619720302529
+cat__Gender_F,0.062399635887876295
+cat__Demographics Response_Urban,0.049446239202424115
+cat__Question_... if she goes out without telling him,0.031605265826508466
+cat__Demographics Response_Secondary,0.030846281833765768
+cat__Demographics Response_Unemployed,0.01837405004816777
+cat__Demographics Response_Rural,0.01502219168720414
+cat__Demographics Question_Education,0.013914667089854879
+"cat__Demographics Response_Widowed, divorced, separated",0.012931457517465543
+cat__Question_... if she neglects the children,0.011829397386133231
+cat__Demographics Question_Residence,0.01114744014412233
+cat__Question_... if she argues with him,0.008378384801300725
+cat__Demographics Response_15-24,0.006750002955393547
+cat__Demographics Question_Employment,0.004891131972911321
+cat__Demographics Question_Age,0.004018669431801636
+cat__Demographics Question_Marital status,0.003766486167781533
+cat__Demographics Response_Primary,0.003319109586532129
+cat__Demographics Response_35-49,0.0030751009448937963
+cat__Demographics Response_Employed for cash,0.0018383149837738132
+cat__Demographics Response_Married or living together,0.001132802443047717
+cat__Demographics Response_25-34,0.0009212019380711867
+num__SurveyYear,0.0

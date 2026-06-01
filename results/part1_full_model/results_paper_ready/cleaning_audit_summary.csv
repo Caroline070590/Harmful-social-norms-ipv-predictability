@@ -1,0 +1,2 @@
+n_raw_rows,n_after_column_select,n_clean_rows,n_dropped,dropped_bad_country,dropped_bad_gender,dropped_bad_demo_question,dropped_bad_demo_response,dropped_bad_question,dropped_bad_year,dropped_bad_value
+12600,12600,11187,1413,0,0,0,0,0,0,1413

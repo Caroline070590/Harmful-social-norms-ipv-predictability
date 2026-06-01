@@ -1,0 +1,1414 @@
+Country,Gender,Demographics Question,Demographics Response,Question,Survey Year,Value,SurveyYear_raw,Value_raw,SurveyYear,ok_country,ok_gender,ok_demo_q,ok_demo_r,ok_question,ok_year,ok_value,is_valid_row
+Afghanistan,F,Marital status,Never married,... if she burns the food,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,M,Marital status,Never married,... if she burns the food,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,F,Marital status,Never married,... for at least one specific reason,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,F,Marital status,Never married,... if she argues with him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,F,Marital status,Never married,... if she goes out without telling him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,F,Marital status,Never married,... if she neglects the children,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,F,Marital status,Never married,... if she refuses to have sex with him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,M,Marital status,Never married,... for at least one specific reason,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,M,Marital status,Never married,... if she argues with him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,M,Marital status,Never married,... if she goes out without telling him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,M,Marital status,Never married,... if she neglects the children,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Afghanistan,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,F,Education,No education,... if she burns the food,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,M,Education,No education,... if she burns the food,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,F,Education,No education,... for at least one specific reason,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,F,Education,No education,... if she argues with him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,F,Education,No education,... if she goes out without telling him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,F,Education,No education,... if she neglects the children,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,F,Education,No education,... if she refuses to have sex with him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,M,Education,No education,... for at least one specific reason,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,M,Education,No education,... if she argues with him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,M,Education,No education,... if she goes out without telling him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,M,Education,No education,... if she neglects the children,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Armenia,M,Education,No education,... if she refuses to have sex with him,01/01/2015,,01/01/2015,,2015,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,No education,... if she burns the food,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,Primary,... if she burns the food,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,No education,... for at least one specific reason,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,Primary,... for at least one specific reason,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,No education,... if she argues with him,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,Primary,... if she argues with him,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,No education,... if she goes out without telling him,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,Primary,... if she goes out without telling him,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,No education,... if she neglects the children,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,Primary,... if she neglects the children,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,No education,... if she refuses to have sex with him,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Azerbaijan,M,Education,Primary,... if she refuses to have sex with him,01/01/2006,,01/01/2006,,2006,True,True,True,True,True,True,False,False
+Bangladesh,F,Marital status,Never married,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,15-24,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,25-34,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,35-49,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Higher,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,No education,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Primary,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Secondary,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for cash,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for kind,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Unemployed,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Married or living together,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Never married,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Rural,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Urban,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,F,Marital status,Never married,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,F,Marital status,Never married,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,F,Marital status,Never married,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,F,Marital status,Never married,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,F,Marital status,Never married,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,15-24,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,25-34,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,35-49,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,15-24,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,25-34,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,35-49,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,15-24,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,25-34,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,35-49,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,15-24,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,25-34,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,35-49,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,15-24,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,25-34,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Age,35-49,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Higher,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,No education,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Primary,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Secondary,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Higher,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,No education,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Primary,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Secondary,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Higher,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,No education,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Primary,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Secondary,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Higher,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,No education,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Primary,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Secondary,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Higher,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,No education,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Primary,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Education,Secondary,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for cash,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for kind,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Unemployed,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for cash,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for kind,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Unemployed,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Unemployed,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for cash,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for kind,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Unemployed,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Married or living together,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Never married,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Married or living together,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Never married,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Never married,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Married or living together,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Never married,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Rural,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Urban,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Rural,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Urban,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Rural,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Urban,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Rural,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Urban,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Rural,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bangladesh,M,Residence,Urban,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Bolivia,M,Age,15-24,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,25-34,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,35-49,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Higher,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,No education,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Primary,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Secondary,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for cash,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for kind,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Unemployed,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Married or living together,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Never married,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Rural,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Urban,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,15-24,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,25-34,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,35-49,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,15-24,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,25-34,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,35-49,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,15-24,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,25-34,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,35-49,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,15-24,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,25-34,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,35-49,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,15-24,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,25-34,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Age,35-49,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Higher,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,No education,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Primary,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Secondary,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Higher,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,No education,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Primary,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Secondary,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Higher,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,No education,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Primary,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Secondary,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Higher,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,No education,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Primary,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Secondary,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Higher,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,No education,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Primary,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Education,Secondary,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for cash,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for kind,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Unemployed,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for cash,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for kind,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Unemployed,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Unemployed,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for cash,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for kind,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Unemployed,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Married or living together,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Never married,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Married or living together,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Never married,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Never married,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Married or living together,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Never married,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Rural,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Urban,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Rural,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Urban,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Rural,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Urban,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Rural,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Urban,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Rural,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Bolivia,M,Residence,Urban,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Congo,F,Age,15-24,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Age,25-34,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Age,35-49,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Education,Higher,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Education,No education,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Education,Primary,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Education,Secondary,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Employment,Employed for cash,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Employment,Employed for kind,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Employment,Unemployed,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Marital status,Married or living together,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Marital status,Never married,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Residence,Rural,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Residence,Urban,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Age,15-24,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Age,25-34,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Age,35-49,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Education,Higher,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Education,No education,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Education,Primary,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Education,Secondary,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Employment,Employed for cash,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Employment,Employed for kind,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Employment,Unemployed,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Marital status,Married or living together,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Marital status,Never married,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Residence,Rural,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Residence,Urban,... if she burns the food,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Age,15-24,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Age,25-34,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Age,35-49,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Education,Higher,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Education,No education,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Education,Primary,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Education,Secondary,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Employment,Employed for cash,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Employment,Employed for kind,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Employment,Unemployed,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Marital status,Married or living together,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Marital status,Never married,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Residence,Rural,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,F,Residence,Urban,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Age,15-24,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Age,25-34,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Age,35-49,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Education,Higher,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Education,No education,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Education,Primary,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Education,Secondary,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Employment,Employed for cash,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Employment,Employed for kind,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Employment,Unemployed,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Marital status,Married or living together,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Marital status,Never married,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Residence,Rural,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Congo,M,Residence,Urban,... if she argues with him,01/01/2011,,01/01/2011,,2011,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for cash,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for kind,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for cash,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for kind,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for cash,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for kind,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for cash,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for kind,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Dominican Republic,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Egypt,F,Marital status,Never married,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,15-24,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,25-34,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,35-49,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Higher,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,No education,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Primary,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Secondary,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for cash,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for kind,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Unemployed,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Married or living together,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Never married,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Rural,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Urban,... if she burns the food,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,F,Marital status,Never married,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,F,Marital status,Never married,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,F,Marital status,Never married,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,F,Marital status,Never married,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,F,Marital status,Never married,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,15-24,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,25-34,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,35-49,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,15-24,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,25-34,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,35-49,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,15-24,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,25-34,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,35-49,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,15-24,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,25-34,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,35-49,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,15-24,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,25-34,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Age,35-49,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Higher,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,No education,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Primary,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Secondary,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Higher,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,No education,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Primary,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Secondary,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Higher,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,No education,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Primary,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Secondary,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Higher,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,No education,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Primary,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Secondary,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Higher,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,No education,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Primary,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Education,Secondary,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for cash,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for kind,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Unemployed,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for cash,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for kind,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Unemployed,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Unemployed,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for cash,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for kind,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Unemployed,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Married or living together,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Never married,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Married or living together,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Never married,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Never married,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Married or living together,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Never married,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Rural,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Urban,... for at least one specific reason,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Rural,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Urban,... if she argues with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Rural,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Urban,... if she goes out without telling him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Rural,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Urban,... if she neglects the children,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Rural,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Egypt,M,Residence,Urban,... if she refuses to have sex with him,01/01/2014,,01/01/2014,,2014,True,True,True,True,True,True,False,False
+Eritrea,M,Age,15-24,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,25-34,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,35-49,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Higher,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,No education,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Primary,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Secondary,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for cash,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for kind,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Unemployed,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Married or living together,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Never married,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Rural,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Urban,... if she burns the food,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,15-24,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,25-34,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,35-49,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,15-24,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,25-34,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,35-49,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,15-24,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,25-34,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,35-49,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,15-24,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,25-34,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,35-49,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,15-24,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,25-34,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Age,35-49,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Higher,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,No education,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Primary,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Secondary,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Higher,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,No education,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Primary,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Secondary,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Higher,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,No education,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Primary,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Secondary,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Higher,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,No education,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Primary,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Secondary,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Higher,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,No education,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Primary,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Education,Secondary,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for cash,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for kind,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Unemployed,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for cash,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for kind,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Unemployed,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Unemployed,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for cash,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for kind,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Unemployed,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Married or living together,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Never married,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Married or living together,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Never married,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Never married,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Married or living together,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Never married,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Rural,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Urban,... for at least one specific reason,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Rural,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Urban,... if she argues with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Rural,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Urban,... if she goes out without telling him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Rural,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Urban,... if she neglects the children,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Rural,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Eritrea,M,Residence,Urban,... if she refuses to have sex with him,01/01/2002,,01/01/2002,,2002,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,Never married,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,Never married,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,Never married,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,Never married,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,Never married,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Indonesia,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Jordan,F,Employment,Employed for cash,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Marital status,Never married,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Age,15-24,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Age,25-34,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Age,35-49,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Education,Higher,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Education,No education,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Education,Primary,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Education,Secondary,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Employment,Employed for cash,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Employment,Employed for cash,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Employment,Employed for cash,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Employment,Employed for cash,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Employment,Unemployed,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Marital status,Never married,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Marital status,Never married,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Marital status,Never married,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Marital status,Never married,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Marital status,Never married,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Residence,Rural,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,F,Residence,Urban,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Age,15-24,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Age,25-34,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Age,35-49,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Education,Higher,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Education,No education,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Education,Primary,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Education,Secondary,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Employment,Employed for cash,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Employment,Employed for cash,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Employment,Employed for cash,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Employment,Employed for cash,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Residence,Rural,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Jordan,M,Residence,Urban,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Kyrgyz Republic,F,Education,No education,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,F,Education,No education,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,F,Education,No education,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,F,Education,No education,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,F,Education,No education,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,F,Education,No education,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,No education,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,Primary,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,No education,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,Primary,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,No education,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,Primary,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,No education,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,Primary,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,No education,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,Primary,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,No education,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Kyrgyz Republic,M,Education,Primary,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Maldives,F,Age,15-24,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Age,25-34,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Age,35-49,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Age,15-24,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Age,25-34,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Age,35-49,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Education,Higher,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Education,No education,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Education,Primary,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Education,Secondary,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Education,Higher,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Education,No education,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Education,Primary,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Education,Secondary,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Employment,Employed for cash,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Employment,Employed for kind,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Employment,Unemployed,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Employment,Employed for cash,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Employment,Employed for kind,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Employment,Unemployed,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Marital status,Married or living together,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Marital status,Never married,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Marital status,Married or living together,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Marital status,Never married,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Residence,Rural,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Residence,Urban,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Residence,Rural,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,F,Residence,Urban,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Age,15-24,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Age,25-34,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Age,35-49,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Age,15-24,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Age,25-34,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Age,35-49,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Education,Higher,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Education,No education,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Education,Primary,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Education,Secondary,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Education,Higher,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Education,No education,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Education,Primary,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Education,Secondary,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Employment,Employed for cash,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Employment,Employed for kind,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Employment,Unemployed,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Employment,Employed for cash,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Employment,Employed for kind,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Employment,Unemployed,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Marital status,Married or living together,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Marital status,Never married,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Marital status,Married or living together,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Marital status,Never married,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Residence,Rural,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Residence,Urban,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Residence,Rural,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Maldives,M,Residence,Urban,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Moldova,F,Education,No education,... for at least one specific reason,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,F,Education,No education,... if she argues with him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,F,Education,No education,... if she burns the food,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,F,Education,No education,... if she goes out without telling him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,F,Education,No education,... if she neglects the children,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,F,Education,No education,... if she refuses to have sex with him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,No education,... for at least one specific reason,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,Primary,... for at least one specific reason,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,No education,... if she argues with him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,Primary,... if she argues with him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,No education,... if she burns the food,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,Primary,... if she burns the food,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,No education,... if she goes out without telling him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,Primary,... if she goes out without telling him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,No education,... if she neglects the children,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,Primary,... if she neglects the children,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,No education,... if she refuses to have sex with him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Moldova,M,Education,Primary,... if she refuses to have sex with him,01/01/2005,,01/01/2005,,2005,True,True,True,True,True,True,False,False
+Morocco,M,Age,15-24,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,25-34,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,35-49,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,15-24,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,25-34,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,35-49,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,15-24,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,25-34,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,35-49,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,15-24,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,25-34,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,35-49,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,15-24,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,25-34,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,35-49,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,15-24,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,25-34,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Age,35-49,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Higher,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,No education,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Primary,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Secondary,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Higher,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,No education,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Primary,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Secondary,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Higher,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,No education,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Primary,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Secondary,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Higher,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,No education,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Primary,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Secondary,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Higher,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,No education,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Primary,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Secondary,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Higher,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,No education,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Primary,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Education,Secondary,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for cash,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for kind,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Unemployed,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for cash,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for kind,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Unemployed,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for cash,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for kind,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Unemployed,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Unemployed,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for cash,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for kind,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Unemployed,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Married or living together,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Never married,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Married or living together,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Never married,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Married or living together,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Never married,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Never married,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Married or living together,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Never married,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Rural,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Urban,... for at least one specific reason,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Rural,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Urban,... if she argues with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Rural,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Urban,... if she burns the food,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Rural,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Urban,... if she goes out without telling him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Rural,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Urban,... if she neglects the children,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Rural,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Morocco,M,Residence,Urban,... if she refuses to have sex with him,01/01/2003,,01/01/2003,,2003,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,15-24,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,25-34,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,35-49,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,15-24,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,25-34,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,35-49,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,15-24,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,25-34,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,35-49,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,15-24,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,25-34,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,35-49,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,15-24,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,25-34,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,35-49,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,15-24,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,25-34,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Age,35-49,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Higher,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,No education,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Primary,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Secondary,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Higher,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,No education,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Primary,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Secondary,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Higher,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,No education,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Primary,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Secondary,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Higher,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,No education,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Primary,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Secondary,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Higher,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,No education,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Primary,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Secondary,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Higher,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,No education,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Primary,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Education,Secondary,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for cash,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for kind,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Unemployed,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for cash,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for kind,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Unemployed,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for cash,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for kind,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Unemployed,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Unemployed,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for cash,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for kind,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Unemployed,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Married or living together,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Never married,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Married or living together,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Never married,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Married or living together,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Never married,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Never married,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Married or living together,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Never married,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Rural,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Urban,... for at least one specific reason,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Rural,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Urban,... if she argues with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Rural,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Urban,... if she burns the food,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Rural,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Urban,... if she goes out without telling him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Rural,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Urban,... if she neglects the children,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Rural,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Nicaragua,M,Residence,Urban,... if she refuses to have sex with him,01/01/2001,,01/01/2001,,2001,True,True,True,True,True,True,False,False
+Pakistan,F,Marital status,Never married,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,F,Marital status,Never married,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,F,Marital status,Never married,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,F,Marital status,Never married,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,F,Marital status,Never married,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,F,Marital status,Never married,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,M,Marital status,Never married,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,M,Marital status,Never married,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,M,Marital status,Never married,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,M,Marital status,Never married,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,M,Marital status,Never married,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Pakistan,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Peru,M,Age,15-24,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,25-34,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,35-49,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,15-24,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,25-34,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,35-49,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,15-24,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,25-34,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,35-49,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,15-24,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,25-34,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,35-49,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,15-24,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,25-34,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,35-49,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,15-24,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,25-34,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Age,35-49,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Higher,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,No education,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Primary,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Secondary,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Higher,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,No education,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Primary,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Secondary,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Higher,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,No education,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Primary,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Secondary,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Higher,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,No education,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Primary,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Secondary,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Higher,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,No education,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Primary,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Secondary,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Higher,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,No education,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Primary,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Education,Secondary,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for cash,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for kind,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Unemployed,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for cash,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for kind,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Unemployed,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for cash,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for kind,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Unemployed,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Unemployed,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for cash,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for kind,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Unemployed,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Married or living together,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Never married,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Married or living together,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Never married,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Married or living together,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Never married,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Never married,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Married or living together,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Never married,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Rural,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Urban,... for at least one specific reason,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Rural,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Urban,... if she argues with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Rural,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Urban,... if she burns the food,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Rural,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Urban,... if she goes out without telling him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Rural,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Urban,... if she neglects the children,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Rural,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Peru,M,Residence,Urban,... if she refuses to have sex with him,01/01/2012,,01/01/2012,,2012,True,True,True,True,True,True,False,False
+Philippines,M,Age,15-24,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,25-34,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,35-49,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,15-24,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,25-34,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,35-49,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,15-24,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,25-34,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,35-49,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,15-24,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,25-34,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,35-49,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,15-24,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,25-34,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,35-49,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,15-24,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,25-34,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Age,35-49,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Higher,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,No education,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Primary,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Secondary,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Higher,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,No education,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Primary,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Secondary,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Higher,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,No education,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Primary,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Secondary,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Higher,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,No education,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Primary,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Secondary,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Higher,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,No education,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Primary,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Secondary,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Higher,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,No education,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Primary,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Education,Secondary,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for cash,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for kind,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Unemployed,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for cash,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for kind,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Unemployed,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for cash,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for kind,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Unemployed,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Unemployed,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for cash,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for kind,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Unemployed,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Married or living together,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Never married,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Married or living together,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Never married,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Married or living together,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Never married,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Never married,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Married or living together,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Never married,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Rural,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Urban,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Rural,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Urban,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Rural,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Urban,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Rural,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Urban,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Rural,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Urban,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Rural,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Philippines,M,Residence,Urban,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Sao Tome and Principe,F,Education,Higher,... for at least one specific reason,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Sao Tome and Principe,F,Education,Higher,... if she argues with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Sao Tome and Principe,F,Education,Higher,... if she burns the food,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Sao Tome and Principe,F,Education,Higher,... if she goes out without telling him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Sao Tome and Principe,F,Education,Higher,... if she neglects the children,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+Sao Tome and Principe,F,Education,Higher,... if she refuses to have sex with him,01/01/2008,,01/01/2008,,2008,True,True,True,True,True,True,False,False
+South Africa,M,Employment,Employed for kind,... for at least one specific reason,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+South Africa,M,Employment,Employed for kind,... if she argues with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+South Africa,M,Employment,Employed for kind,... if she burns the food,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+South Africa,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+South Africa,M,Employment,Employed for kind,... if she neglects the children,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+South Africa,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2016,,01/01/2016,,2016,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,15-24,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,25-34,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,35-49,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,15-24,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,25-34,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,35-49,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,15-24,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,25-34,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,35-49,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,15-24,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,25-34,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,35-49,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,15-24,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,25-34,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,35-49,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,15-24,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,25-34,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Age,35-49,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Higher,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,No education,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Primary,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Secondary,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Higher,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,No education,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Primary,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Secondary,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Higher,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,No education,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Primary,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Secondary,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Higher,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,No education,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Primary,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Secondary,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Higher,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,No education,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Primary,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Secondary,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Higher,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,No education,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Primary,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Education,Secondary,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for cash,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for kind,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Unemployed,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for cash,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for kind,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Unemployed,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for cash,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for kind,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Unemployed,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Unemployed,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for cash,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for kind,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Unemployed,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Married or living together,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Never married,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Married or living together,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Never married,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Married or living together,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Never married,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Never married,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Married or living together,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Never married,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Rural,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Urban,... for at least one specific reason,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Rural,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Urban,... if she argues with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Rural,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Urban,... if she burns the food,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Rural,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Urban,... if she goes out without telling him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Rural,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Urban,... if she neglects the children,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Rural,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Tajikistan,M,Residence,Urban,... if she refuses to have sex with him,01/01/2017,,01/01/2017,,2017,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for cash,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for kind,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for cash,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for kind,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for cash,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for kind,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for cash,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for kind,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for cash,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for kind,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,F,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,15-24,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,25-34,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,35-49,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,15-24,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,25-34,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,35-49,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,15-24,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,25-34,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,35-49,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,15-24,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,25-34,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,35-49,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,15-24,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,25-34,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,35-49,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,15-24,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,25-34,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Age,35-49,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Higher,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,No education,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Primary,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Secondary,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Higher,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,No education,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Primary,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Secondary,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Higher,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,No education,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Primary,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Secondary,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Higher,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,No education,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Primary,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Secondary,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Higher,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,No education,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Primary,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Secondary,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Higher,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,No education,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Primary,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Education,Secondary,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for cash,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for kind,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Unemployed,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for cash,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for kind,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Unemployed,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for cash,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for kind,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Unemployed,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Unemployed,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for cash,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for kind,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Unemployed,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Married or living together,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Never married,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Married or living together,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Never married,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Married or living together,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Never married,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Never married,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Married or living together,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Never married,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Rural,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Urban,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Rural,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Urban,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Rural,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Urban,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Rural,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Urban,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Rural,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Urban,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Rural,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkey,M,Residence,Urban,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,15-24,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,25-34,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,35-49,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,15-24,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,25-34,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,35-49,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,15-24,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,25-34,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,35-49,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,15-24,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,25-34,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,35-49,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,15-24,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,25-34,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,35-49,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,15-24,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,25-34,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Age,35-49,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Higher,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,No education,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Primary,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Secondary,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Higher,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,No education,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Primary,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Secondary,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Higher,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,No education,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Primary,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Secondary,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Higher,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,No education,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Primary,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Secondary,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Higher,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,No education,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Primary,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Secondary,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Higher,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,No education,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Primary,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Education,Secondary,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for cash,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for kind,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Unemployed,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for cash,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for kind,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Unemployed,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for cash,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for kind,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Unemployed,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Unemployed,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for cash,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for kind,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Unemployed,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Married or living together,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Never married,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Married or living together,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Never married,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Married or living together,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Never married,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Never married,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Married or living together,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Never married,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Rural,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Urban,... for at least one specific reason,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Rural,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Urban,... if she argues with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Rural,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Urban,... if she burns the food,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Rural,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Urban,... if she goes out without telling him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Rural,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Urban,... if she neglects the children,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Rural,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Turkmenistan,M,Residence,Urban,... if she refuses to have sex with him,01/01/2000,,01/01/2000,,2000,True,True,True,True,True,True,False,False
+Ukraine,F,Education,No education,... for at least one specific reason,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,Primary,... for at least one specific reason,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,No education,... if she argues with him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,Primary,... if she argues with him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,No education,... if she burns the food,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,Primary,... if she burns the food,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,No education,... if she goes out without telling him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,Primary,... if she goes out without telling him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,No education,... if she neglects the children,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,Primary,... if she neglects the children,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,No education,... if she refuses to have sex with him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,F,Education,Primary,... if she refuses to have sex with him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,No education,... for at least one specific reason,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,Primary,... for at least one specific reason,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,No education,... if she argues with him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,Primary,... if she argues with him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,No education,... if she burns the food,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,Primary,... if she burns the food,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,No education,... if she goes out without telling him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,Primary,... if she goes out without telling him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,No education,... if she neglects the children,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,Primary,... if she neglects the children,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,No education,... if she refuses to have sex with him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Ukraine,M,Education,Primary,... if she refuses to have sex with him,01/01/2007,,01/01/2007,,2007,True,True,True,True,True,True,False,False
+Yemen,M,Age,15-24,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,25-34,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,35-49,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,15-24,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,25-34,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,35-49,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,15-24,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,25-34,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,35-49,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,15-24,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,25-34,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,35-49,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,15-24,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,25-34,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,35-49,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,15-24,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,25-34,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Age,35-49,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Higher,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,No education,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Primary,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Secondary,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Higher,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,No education,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Primary,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Secondary,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Higher,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,No education,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Primary,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Secondary,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Higher,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,No education,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Primary,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Secondary,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Higher,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,No education,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Primary,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Secondary,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Higher,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,No education,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Primary,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Education,Secondary,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for cash,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for kind,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Unemployed,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for cash,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for kind,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Unemployed,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for cash,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for kind,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Unemployed,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for cash,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for kind,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Unemployed,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for cash,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for kind,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Unemployed,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for cash,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Employed for kind,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Employment,Unemployed,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Married or living together,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Never married,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,"Widowed, divorced, separated",... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Married or living together,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Never married,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,"Widowed, divorced, separated",... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Married or living together,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Never married,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,"Widowed, divorced, separated",... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Married or living together,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Never married,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,"Widowed, divorced, separated",... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Married or living together,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Never married,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,"Widowed, divorced, separated",... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Married or living together,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,Never married,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Marital status,"Widowed, divorced, separated",... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Rural,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Urban,... for at least one specific reason,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Rural,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Urban,... if she argues with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Rural,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Urban,... if she burns the food,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Rural,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Urban,... if she goes out without telling him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Rural,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Urban,... if she neglects the children,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Rural,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False
+Yemen,M,Residence,Urban,... if she refuses to have sex with him,01/01/2013,,01/01/2013,,2013,True,True,True,True,True,True,False,False

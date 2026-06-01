@@ -1,0 +1,11 @@
+RF_rank,RF_country,DT_rank,DT_country,XGB_rank,XGB_country
+1,Afghanistan,1,Afghanistan,1,Afghanistan
+2,Madagascar,2,Chad,2,Madagascar
+3,Chad,3,Congo,3,Gambia
+4,Congo Democratic Republic,4,Madagascar,4,Mali
+5,Niger,5,Indonesia,5,Morocco
+6,Congo,6,Sierra Leone,6,Congo Democratic Republic
+7,Sierra Leone,7,Myanmar,7,Sierra Leone
+8,Armenia,8,Liberia,8,India
+9,Liberia,9,Cameroon,9,Gabon
+10,Myanmar,10,Gabon,10,Angola

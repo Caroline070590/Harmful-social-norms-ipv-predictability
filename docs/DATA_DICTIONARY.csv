@@ -1,0 +1,82 @@
+file,column,example_values
+data/raw/violence_against_women_girls_original.csv,RecordID,1 | 1 | 1
+data/raw/violence_against_women_girls_original.csv,Country,Afghanistan | Afghanistan | Afghanistan
+data/raw/violence_against_women_girls_original.csv,Gender,F | F | F
+data/raw/violence_against_women_girls_original.csv,Demographics Question,Marital status | Education | Education
+data/raw/violence_against_women_girls_original.csv,Demographics Response,Never married | Higher | Secondary
+data/raw/violence_against_women_girls_original.csv,Question,... if she burns the food | ... if she burns the food | ... if she burns the food
+data/raw/violence_against_women_girls_original.csv,Survey Year,01/01/2015 | 01/01/2015 | 01/01/2015
+data/raw/violence_against_women_girls_original.csv,Value,10.1 | 13.7 | 13.8
+data/processed/clean_modeling_table.csv,Country,Afghanistan | Afghanistan | Afghanistan
+data/processed/clean_modeling_table.csv,Gender,F | F | F
+data/processed/clean_modeling_table.csv,Demographics Question,Education | Education | Education
+data/processed/clean_modeling_table.csv,Demographics Response,Higher | Secondary | Primary
+data/processed/clean_modeling_table.csv,Question,... if she burns the food | ... if she burns the food | ... if she burns the food
+data/processed/clean_modeling_table.csv,Survey Year,01/01/2015 | 01/01/2015 | 01/01/2015
+data/processed/clean_modeling_table.csv,Value,10.1 | 13.7 | 13.8
+data/processed/clean_modeling_table.csv,SurveyYear_raw,01/01/2015 | 01/01/2015 | 01/01/2015
+data/processed/clean_modeling_table.csv,Value_raw,10.1 | 13.7 | 13.8
+data/processed/clean_modeling_table.csv,SurveyYear,2015 | 2015 | 2015
+data/processed/clean_modeling_table.csv,ok_country,True | True | True
+data/processed/clean_modeling_table.csv,ok_gender,True | True | True
+data/processed/clean_modeling_table.csv,ok_demo_q,True | True | True
+data/processed/clean_modeling_table.csv,ok_demo_r,True | True | True
+data/processed/clean_modeling_table.csv,ok_question,True | True | True
+data/processed/clean_modeling_table.csv,ok_year,True | True | True
+data/processed/clean_modeling_table.csv,ok_value,True | True | True
+data/processed/clean_modeling_table.csv,is_valid_row,True | True | True
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,country,Afghanistan | Afghanistan | Afghanistan
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,iso3,AFG | AFG | AFG
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,year,2003 | 2004 | 2005
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,n_measures_total,1 | 5 | 3
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,child_early_and_forced_marriage,0 | 0 | 1
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,domestic_violence_intimate_partner_violence,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,female_genital_mutilation,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,femicide,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,forced_pregnancy,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,forced_sterilization,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,other_harmful_practices,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,sexual_harassment,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,sexual_violence,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,stalking,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,technology_facilitated_violence_against_women,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,technology_facilitated_violence_against_women_and_girls,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,trafficking,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,violence_against_women,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,violence_against_women_and_girls,1 | 5 | 2
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,child_early_and_forced_marriage.1,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,femicide.1,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,nan,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,other_harmful_practices.1,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,sexual_harrassment,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,sexual_harassment.1,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,sexual_violence.1,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,trafficking.1,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,violence_against_women_and_girls.1,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,administrative_data,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,budgets,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,insitutional_mechanism,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,institutional_mechanisms,0 | 1 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,laws,0 | 4 | 2
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,monitoring_and_evaluation,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,perpetrators_programme,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,policies,0 | 0 | 1
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,prevention,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,regional_initiatives,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,regional_international_initiatives,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,research_and_statistical_data,1 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,services,0 | 0 | 0
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,institutional_depth,1 | 6 | 9
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,hdi,0.392 | 0.408 | 0.417
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,gdi,0.69
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,gii,0.69
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,electoral_democracy,0.227 | 0.238 | 0.319
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,liberal_democracy,0.086 | 0.091 | 0.113
+data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv,women_political_empowerment,0.293 | 0.293 | 0.314
+data/external/Hofstede/hofstede_country_scores.csv,country,Albania | Algeria | Angola
+data/external/Hofstede/hofstede_country_scores.csv,pdi,90 | 80 | 83
+data/external/Hofstede/hofstede_country_scores.csv,idv,27 | 29 | 18
+data/external/Hofstede/hofstede_country_scores.csv,mas,80 | 35 | 20
+data/external/Hofstede/hofstede_country_scores.csv,uai,70 | 70 | 60
+data/external/Hofstede/hofstede_country_scores.csv,lto,56 | 25 | 15
+data/external/Hofstede/hofstede_country_scores.csv,ivr,15 | 32 | 83

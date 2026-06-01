@@ -1,0 +1,21 @@
+name: vaw-hssc-revision
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - xgboost
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - geopandas
+  - shapely
+  - pycountry
+  - jupyter
+  - notebook
+  - nbformat
+  - openpyxl

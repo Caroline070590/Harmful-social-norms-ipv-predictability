@@ -68,12 +68,16 @@ The `scripts/` folder contains auto-extracted `.py` versions of these notebooks 
 - Some legacy exploratory notebooks are retained in `notebooks/legacy/` for transparency but are not required for reproducing the manuscript figures.
 - Duplicate `.ipynb_checkpoints` and redundant nested zip archives were intentionally removed from this organized repository.
 
-## Suggested citation of the preprint
+## Suggested citation
 
-A preprint link supplied by the author can be added in the GitHub repository description and/or README after confirming the final public URL/DOI:
-
-`https://www.medrxiv.org/content/10.64898/2026.01.25.26344795v1.full`
+Alves, C. L. *When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence*. medRxiv preprint. Available at: https://www.medrxiv.org/content/10.64898/2026.01.25.26344795v1.full
 
 ## License
 
-Please add the intended license before public release, for example MIT for code and CC-BY 4.0 for documentation/figures, unless journal or data-source restrictions require a different license.
+This repository uses a mixed-license structure:
+
+- Code, scripts, and computational notebooks are released under the MIT License.
+- Documentation, README files, manuscript-supporting text, and generated figures are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+- Data files are shared for transparency, peer review, and reproducibility. Reuse of third-party datasets remains subject to the terms and conditions of the original data providers, including the DHS-derived source dataset and external country-level indicator sources.
+
+Please cite the associated preprint and this repository when reusing the code, documentation, figures, or processed materials.

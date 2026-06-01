@@ -4,7 +4,6 @@ This repository contains the data tables, analysis notebooks, extracted Python s
 
 **When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence**
 
-The package was organized for the minor-revision technical check at *Humanities and Social Sciences Communications*, especially the request to provide all datasets/materials underpinning the research, coding definitions, transformations, statistical scripts, and figure-generation material.
 
 ## Repository structure
 

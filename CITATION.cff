@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the information below."
+title: "Harmful Social Norms IPV Predictability"
+authors:
+  - family-names: "Alves"
+    given-names: "Caroline Lourenco"
+version: "1.0.0"
+date-released: "2026-06-16"
+url: "https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability"
+repository-code: "https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability"
+abstract: "Reproducibility package containing code, processed data, external country-level indicators, analysis outputs, figures, and documentation for the manuscript: When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence."
+keywords:
+  - gender norms
+  - intimate partner violence
+  - violence against women
+  - social norms
+  - machine learning
+  - cross-national analysis
+  - demographic stratification
+  - reproducibility

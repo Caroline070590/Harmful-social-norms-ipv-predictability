@@ -68,9 +68,19 @@ The `scripts/` folder contains auto-extracted `.py` versions of these notebooks 
 - Some legacy exploratory notebooks are retained in `notebooks/legacy/` for transparency but are not required for reproducing the manuscript figures.
 - Duplicate `.ipynb_checkpoints` and redundant nested zip archives were intentionally removed from this organized repository.
 
-## Suggested citation
+## Citation
+
+If you use this repository, including the code, processed data, analysis scripts, figures, or reproducibility documentation, please cite the repository release:
+
+**Alves, Caroline Lourenco. (2026). *Harmful Social Norms IPV Predictability* (v1.0.0). GitHub.**
+https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability
+
+This repository corresponds to the manuscript:
 
 Alves, C. L. *When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence*. medRxiv preprint. Available at: https://www.medrxiv.org/content/10.64898/2026.01.25.26344795v1.full
+
+A machine-readable citation file is provided in [`CITATION.cff`](CITATION.cff).
+
 
 ## License
 

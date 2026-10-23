@@ -1,0 +1,7 @@
+fold,train_women,test_women,train_positive,test_positive,train_PSUs,test_PSUs,shared_PSUs,demo_dimensions,attitude_dimensions,neighbours,self_or_ownPSU_donors,heldout_donors
+primary_0,8224,2043,768,186,2492,624,0,44,49,8,0,0
+primary_1,8185,2082,768,186,2493,623,0,44,49,8,0,0
+primary_2,8250,2017,763,191,2493,623,0,44,49,8,0,0
+primary_3,8215,2052,750,204,2493,623,0,44,49,8,0,0
+primary_4,8194,2073,767,187,2493,623,0,44,49,8,0,0
+temporal,10259,9847,954,851,3115,3072,1967,44,49,8,0,0

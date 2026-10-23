@@ -1,0 +1,677 @@
+country,survey_id,iso3,feature,value,source_year,fieldwork_start_year,lag_years,missing
+Albania,AL2008DHS,ALB,hdi,0.742,2007.0,2008,1.0,False
+Albania,AL2008DHS,ALB,electoral_democracy,0.551,2007.0,2008,1.0,False
+Albania,AL2008DHS,ALB,liberal_democracy,0.446,2007.0,2008,1.0,False
+Albania,AL2008DHS,ALB,women_political_empowerment,0.753,2007.0,2008,1.0,False
+Albania,AL2017DHS,ALB,hdi,0.797,2016.0,2017,1.0,False
+Albania,AL2017DHS,ALB,electoral_democracy,0.52,2016.0,2017,1.0,False
+Albania,AL2017DHS,ALB,liberal_democracy,0.436,2016.0,2017,1.0,False
+Albania,AL2017DHS,ALB,women_political_empowerment,0.827,2016.0,2017,1.0,False
+Angola,AO2015DHS,AGO,hdi,0.577,2014.0,2015,1.0,False
+Angola,AO2015DHS,AGO,electoral_democracy,0.29,2014.0,2015,1.0,False
+Angola,AO2015DHS,AGO,liberal_democracy,0.122,2014.0,2015,1.0,False
+Angola,AO2015DHS,AGO,women_political_empowerment,0.694,2014.0,2015,1.0,False
+Angola,AO2023DHS,AGO,hdi,0.615,2022.0,2023,1.0,False
+Angola,AO2023DHS,AGO,electoral_democracy,0.326,2022.0,2023,1.0,False
+Angola,AO2023DHS,AGO,liberal_democracy,0.153,2022.0,2023,1.0,False
+Angola,AO2023DHS,AGO,women_political_empowerment,0.736,2022.0,2023,1.0,False
+Armenia,AM2000DHS,ARM,hdi,0.661,1999.0,2000,1.0,False
+Armenia,AM2000DHS,ARM,electoral_democracy,0.413,1999.0,2000,1.0,False
+Armenia,AM2000DHS,ARM,liberal_democracy,0.211,1999.0,2000,1.0,False
+Armenia,AM2000DHS,ARM,women_political_empowerment,0.67,1999.0,2000,1.0,False
+Armenia,AM2005DHS,ARM,hdi,0.7,2004.0,2005,1.0,False
+Armenia,AM2005DHS,ARM,electoral_democracy,0.34,2004.0,2005,1.0,False
+Armenia,AM2005DHS,ARM,liberal_democracy,0.181,2004.0,2005,1.0,False
+Armenia,AM2005DHS,ARM,women_political_empowerment,0.681,2004.0,2005,1.0,False
+Armenia,AM2010DHS,ARM,hdi,0.741,2009.0,2010,1.0,False
+Armenia,AM2010DHS,ARM,electoral_democracy,0.318,2009.0,2010,1.0,False
+Armenia,AM2010DHS,ARM,liberal_democracy,0.18,2009.0,2010,1.0,False
+Armenia,AM2010DHS,ARM,women_political_empowerment,0.718,2009.0,2010,1.0,False
+Armenia,AM2016DHS,ARM,hdi,0.772,2014.0,2015,1.0,False
+Armenia,AM2016DHS,ARM,electoral_democracy,0.342,2014.0,2015,1.0,False
+Armenia,AM2016DHS,ARM,liberal_democracy,0.201,2014.0,2015,1.0,False
+Armenia,AM2016DHS,ARM,women_political_empowerment,0.74,2014.0,2015,1.0,False
+Azerbaijan,AZ2006DHS,AZE,hdi,0.692,2005.0,2006,1.0,False
+Azerbaijan,AZ2006DHS,AZE,electoral_democracy,0.221,2005.0,2006,1.0,False
+Azerbaijan,AZ2006DHS,AZE,liberal_democracy,0.074,2005.0,2006,1.0,False
+Azerbaijan,AZ2006DHS,AZE,women_political_empowerment,0.621,2005.0,2006,1.0,False
+Benin,BJ2001DHS,BEN,hdi,0.415,2000.0,2001,1.0,False
+Benin,BJ2001DHS,BEN,electoral_democracy,0.611,2000.0,2001,1.0,False
+Benin,BJ2001DHS,BEN,liberal_democracy,0.501,2000.0,2001,1.0,False
+Benin,BJ2001DHS,BEN,women_political_empowerment,0.831,2000.0,2001,1.0,False
+Benin,BJ2006DHS,BEN,hdi,0.456,2005.0,2006,1.0,False
+Benin,BJ2006DHS,BEN,electoral_democracy,0.622,2005.0,2006,1.0,False
+Benin,BJ2006DHS,BEN,liberal_democracy,0.508,2005.0,2006,1.0,False
+Benin,BJ2006DHS,BEN,women_political_empowerment,0.835,2005.0,2006,1.0,False
+Benin,BJ2012DHS,BEN,hdi,0.485,2010.0,2011,1.0,False
+Benin,BJ2012DHS,BEN,electoral_democracy,0.635,2010.0,2011,1.0,False
+Benin,BJ2012DHS,BEN,liberal_democracy,0.516,2010.0,2011,1.0,False
+Benin,BJ2012DHS,BEN,women_political_empowerment,0.854,2010.0,2011,1.0,False
+Benin,BJ2017DHS,BEN,hdi,0.51,2016.0,2017,1.0,False
+Benin,BJ2017DHS,BEN,electoral_democracy,0.712,2016.0,2017,1.0,False
+Benin,BJ2017DHS,BEN,liberal_democracy,0.579,2016.0,2017,1.0,False
+Benin,BJ2017DHS,BEN,women_political_empowerment,0.833,2016.0,2017,1.0,False
+Bolivia,BO2003DHS,BOL,hdi,0.642,2002.0,2003,1.0,False
+Bolivia,BO2003DHS,BOL,electoral_democracy,0.719,2002.0,2003,1.0,False
+Bolivia,BO2003DHS,BOL,liberal_democracy,0.51,2002.0,2003,1.0,False
+Bolivia,BO2003DHS,BOL,women_political_empowerment,0.692,2002.0,2003,1.0,False
+Bolivia,BO2008DHS,BOL,hdi,0.664,2007.0,2008,1.0,False
+Bolivia,BO2008DHS,BOL,electoral_democracy,0.719,2007.0,2008,1.0,False
+Bolivia,BO2008DHS,BOL,liberal_democracy,0.458,2007.0,2008,1.0,False
+Bolivia,BO2008DHS,BOL,women_political_empowerment,0.708,2007.0,2008,1.0,False
+Burkina Faso,BF2003DHS,BFA,hdi,,,2003,,True
+Burkina Faso,BF2003DHS,BFA,electoral_democracy,0.517,2002.0,2003,1.0,False
+Burkina Faso,BF2003DHS,BFA,liberal_democracy,0.325,2002.0,2003,1.0,False
+Burkina Faso,BF2003DHS,BFA,women_political_empowerment,0.766,2002.0,2003,1.0,False
+Burkina Faso,BF2010DHS,BFA,hdi,0.366,2009.0,2010,1.0,False
+Burkina Faso,BF2010DHS,BFA,electoral_democracy,0.537,2009.0,2010,1.0,False
+Burkina Faso,BF2010DHS,BFA,liberal_democracy,0.334,2009.0,2010,1.0,False
+Burkina Faso,BF2010DHS,BFA,women_political_empowerment,0.784,2009.0,2010,1.0,False
+Burkina Faso,BF2021DHS,BFA,hdi,0.453,2020.0,2021,1.0,False
+Burkina Faso,BF2021DHS,BFA,electoral_democracy,0.662,2020.0,2021,1.0,False
+Burkina Faso,BF2021DHS,BFA,liberal_democracy,0.486,2020.0,2021,1.0,False
+Burkina Faso,BF2021DHS,BFA,women_political_empowerment,0.63,2020.0,2021,1.0,False
+Burundi,BU2010DHS,BDI,hdi,0.409,2009.0,2010,1.0,False
+Burundi,BU2010DHS,BDI,electoral_democracy,0.397,2009.0,2010,1.0,False
+Burundi,BU2010DHS,BDI,liberal_democracy,0.175,2009.0,2010,1.0,False
+Burundi,BU2010DHS,BDI,women_political_empowerment,0.653,2009.0,2010,1.0,False
+Burundi,BU2016DHS,BDI,hdi,0.432,2015.0,2016,1.0,False
+Burundi,BU2016DHS,BDI,electoral_democracy,0.196,2015.0,2016,1.0,False
+Burundi,BU2016DHS,BDI,liberal_democracy,0.063,2015.0,2016,1.0,False
+Burundi,BU2016DHS,BDI,women_political_empowerment,0.592,2015.0,2016,1.0,False
+Cambodia,KH2010DHS,KHM,hdi,0.539,2009.0,2010,1.0,False
+Cambodia,KH2010DHS,KHM,electoral_democracy,0.308,2009.0,2010,1.0,False
+Cambodia,KH2010DHS,KHM,liberal_democracy,0.118,2009.0,2010,1.0,False
+Cambodia,KH2010DHS,KHM,women_political_empowerment,0.598,2009.0,2010,1.0,False
+Cambodia,KH2014DHS,KHM,hdi,0.554,2013.0,2014,1.0,False
+Cambodia,KH2014DHS,KHM,electoral_democracy,0.297,2013.0,2014,1.0,False
+Cambodia,KH2014DHS,KHM,liberal_democracy,0.114,2013.0,2014,1.0,False
+Cambodia,KH2014DHS,KHM,women_political_empowerment,0.597,2013.0,2014,1.0,False
+Cambodia,KH2021DHS,KHM,hdi,0.595,2020.0,2021,1.0,False
+Cambodia,KH2021DHS,KHM,electoral_democracy,0.191,2020.0,2021,1.0,False
+Cambodia,KH2021DHS,KHM,liberal_democracy,0.063,2020.0,2021,1.0,False
+Cambodia,KH2021DHS,KHM,women_political_empowerment,0.58,2020.0,2021,1.0,False
+Cameroon,CM2004DHS,CMR,hdi,0.465,2003.0,2004,1.0,False
+Cameroon,CM2004DHS,CMR,electoral_democracy,0.309,2003.0,2004,1.0,False
+Cameroon,CM2004DHS,CMR,liberal_democracy,0.157,2003.0,2004,1.0,False
+Cameroon,CM2004DHS,CMR,women_political_empowerment,0.7,2003.0,2004,1.0,False
+Cameroon,CM2011DHS,CMR,hdi,0.529,2010.0,2011,1.0,False
+Cameroon,CM2011DHS,CMR,electoral_democracy,0.314,2010.0,2011,1.0,False
+Cameroon,CM2011DHS,CMR,liberal_democracy,0.154,2010.0,2011,1.0,False
+Cameroon,CM2011DHS,CMR,women_political_empowerment,0.746,2010.0,2011,1.0,False
+Cameroon,CM2018DHS,CMR,hdi,0.581,2017.0,2018,1.0,False
+Cameroon,CM2018DHS,CMR,electoral_democracy,0.298,2017.0,2018,1.0,False
+Cameroon,CM2018DHS,CMR,liberal_democracy,0.131,2017.0,2018,1.0,False
+Cameroon,CM2018DHS,CMR,women_political_empowerment,0.751,2017.0,2018,1.0,False
+Chad,TD2014DHS,TCD,hdi,0.396,2013.0,2014,1.0,False
+Chad,TD2014DHS,TCD,electoral_democracy,0.277,2013.0,2014,1.0,False
+Chad,TD2014DHS,TCD,liberal_democracy,0.093,2013.0,2014,1.0,False
+Chad,TD2014DHS,TCD,women_political_empowerment,0.554,2013.0,2014,1.0,False
+Comoros,KM2012DHS,COM,hdi,0.541,2011.0,2012,1.0,False
+Comoros,KM2012DHS,COM,electoral_democracy,0.446,2011.0,2012,1.0,False
+Comoros,KM2012DHS,COM,liberal_democracy,0.256,2011.0,2012,1.0,False
+Comoros,KM2012DHS,COM,women_political_empowerment,0.49,2011.0,2012,1.0,False
+Congo Democratic Republic,CD2007DHS,COD,hdi,0.413,2006.0,2007,1.0,False
+Congo Democratic Republic,CD2007DHS,COD,electoral_democracy,0.251,2006.0,2007,1.0,False
+Congo Democratic Republic,CD2007DHS,COD,liberal_democracy,0.116,2006.0,2007,1.0,False
+Congo Democratic Republic,CD2007DHS,COD,women_political_empowerment,0.455,2006.0,2007,1.0,False
+Congo Democratic Republic,CD2013DHS,COD,hdi,0.451,2012.0,2013,1.0,False
+Congo Democratic Republic,CD2013DHS,COD,electoral_democracy,0.321,2012.0,2013,1.0,False
+Congo Democratic Republic,CD2013DHS,COD,liberal_democracy,0.141,2012.0,2013,1.0,False
+Congo Democratic Republic,CD2013DHS,COD,women_political_empowerment,0.479,2012.0,2013,1.0,False
+Congo Democratic Republic,CD2023DHS,COD,hdi,0.514,2022.0,2023,1.0,False
+Congo Democratic Republic,CD2023DHS,COD,electoral_democracy,0.336,2022.0,2023,1.0,False
+Congo Democratic Republic,CD2023DHS,COD,liberal_democracy,0.15,2022.0,2023,1.0,False
+Congo Democratic Republic,CD2023DHS,COD,women_political_empowerment,0.561,2022.0,2023,1.0,False
+Cote d'Ivoire,CI2012DHS,CIV,hdi,0.465,2010.0,2011,1.0,False
+Cote d'Ivoire,CI2012DHS,CIV,electoral_democracy,0.446,2010.0,2011,1.0,False
+Cote d'Ivoire,CI2012DHS,CIV,liberal_democracy,0.284,2010.0,2011,1.0,False
+Cote d'Ivoire,CI2012DHS,CIV,women_political_empowerment,0.651,2010.0,2011,1.0,False
+Cote d'Ivoire,CI2021DHS,CIV,hdi,0.553,2020.0,2021,1.0,False
+Cote d'Ivoire,CI2021DHS,CIV,electoral_democracy,0.499,2020.0,2021,1.0,False
+Cote d'Ivoire,CI2021DHS,CIV,liberal_democracy,0.261,2020.0,2021,1.0,False
+Cote d'Ivoire,CI2021DHS,CIV,women_political_empowerment,0.62,2020.0,2021,1.0,False
+Dominican Republic,DR2002DHS,DOM,hdi,0.663,2001.0,2002,1.0,False
+Dominican Republic,DR2002DHS,DOM,electoral_democracy,0.673,2001.0,2002,1.0,False
+Dominican Republic,DR2002DHS,DOM,liberal_democracy,0.391,2001.0,2002,1.0,False
+Dominican Republic,DR2002DHS,DOM,women_political_empowerment,0.767,2001.0,2002,1.0,False
+Dominican Republic,DR2007DHS,DOM,hdi,0.691,2006.0,2007,1.0,False
+Dominican Republic,DR2007DHS,DOM,electoral_democracy,0.644,2006.0,2007,1.0,False
+Dominican Republic,DR2007DHS,DOM,liberal_democracy,0.378,2006.0,2007,1.0,False
+Dominican Republic,DR2007DHS,DOM,women_political_empowerment,0.776,2006.0,2007,1.0,False
+Dominican Republic,DR2013DHS,DOM,hdi,0.727,2012.0,2013,1.0,False
+Dominican Republic,DR2013DHS,DOM,electoral_democracy,0.612,2012.0,2013,1.0,False
+Dominican Republic,DR2013DHS,DOM,liberal_democracy,0.366,2012.0,2013,1.0,False
+Dominican Republic,DR2013DHS,DOM,women_political_empowerment,0.782,2012.0,2013,1.0,False
+Eritrea,ER2002DHS,ERI,hdi,,,2002,,True
+Eritrea,ER2002DHS,ERI,electoral_democracy,0.103,2001.0,2002,1.0,False
+Eritrea,ER2002DHS,ERI,liberal_democracy,0.016,2001.0,2002,1.0,False
+Eritrea,ER2002DHS,ERI,women_political_empowerment,0.306,2001.0,2002,1.0,False
+Eswatini,SZ2006DHS,SWZ,hdi,0.472,2005.0,2006,1.0,False
+Eswatini,SZ2006DHS,SWZ,electoral_democracy,0.128,2005.0,2006,1.0,False
+Eswatini,SZ2006DHS,SWZ,liberal_democracy,0.096,2005.0,2006,1.0,False
+Eswatini,SZ2006DHS,SWZ,women_political_empowerment,0.343,2005.0,2006,1.0,False
+Ethiopia,ET2000DHS,ETH,hdi,,,2000,,True
+Ethiopia,ET2000DHS,ETH,electoral_democracy,0.245,1999.0,2000,1.0,False
+Ethiopia,ET2000DHS,ETH,liberal_democracy,0.111,1999.0,2000,1.0,False
+Ethiopia,ET2000DHS,ETH,women_political_empowerment,0.48,1999.0,2000,1.0,False
+Ethiopia,ET2005DHS,ETH,hdi,0.331,2004.0,2005,1.0,False
+Ethiopia,ET2005DHS,ETH,electoral_democracy,0.241,2004.0,2005,1.0,False
+Ethiopia,ET2005DHS,ETH,liberal_democracy,0.11,2004.0,2005,1.0,False
+Ethiopia,ET2005DHS,ETH,women_political_empowerment,0.516,2004.0,2005,1.0,False
+Ethiopia,ET2011DHS,ETH,hdi,0.405,2009.0,2010,1.0,False
+Ethiopia,ET2011DHS,ETH,electoral_democracy,0.244,2009.0,2010,1.0,False
+Ethiopia,ET2011DHS,ETH,liberal_democracy,0.113,2009.0,2010,1.0,False
+Ethiopia,ET2011DHS,ETH,women_political_empowerment,0.599,2009.0,2010,1.0,False
+Ethiopia,ET2016DHS,ETH,hdi,0.456,2015.0,2016,1.0,False
+Ethiopia,ET2016DHS,ETH,electoral_democracy,0.228,2015.0,2016,1.0,False
+Ethiopia,ET2016DHS,ETH,liberal_democracy,0.102,2015.0,2016,1.0,False
+Ethiopia,ET2016DHS,ETH,women_political_empowerment,0.669,2015.0,2016,1.0,False
+Ethiopia,ET2024DHS,ETH,hdi,0.497,2023.0,2024,1.0,False
+Ethiopia,ET2024DHS,ETH,electoral_democracy,0.279,2023.0,2024,1.0,False
+Ethiopia,ET2024DHS,ETH,liberal_democracy,0.106,2023.0,2024,1.0,False
+Ethiopia,ET2024DHS,ETH,women_political_empowerment,0.735,2023.0,2024,1.0,False
+Gabon,GA2012DHS,GAB,hdi,0.69,2011.0,2012,1.0,False
+Gabon,GA2012DHS,GAB,electoral_democracy,0.37,2011.0,2012,1.0,False
+Gabon,GA2012DHS,GAB,liberal_democracy,0.206,2011.0,2012,1.0,False
+Gabon,GA2012DHS,GAB,women_political_empowerment,0.702,2011.0,2012,1.0,False
+Gambia,GM2013DHS,GMB,hdi,0.469,2012.0,2013,1.0,False
+Gambia,GM2013DHS,GMB,electoral_democracy,0.243,2012.0,2013,1.0,False
+Gambia,GM2013DHS,GMB,liberal_democracy,0.113,2012.0,2013,1.0,False
+Gambia,GM2013DHS,GMB,women_political_empowerment,0.548,2012.0,2013,1.0,False
+Gambia,GM2019DHS,GMB,hdi,0.5,2018.0,2019,1.0,False
+Gambia,GM2019DHS,GMB,electoral_democracy,0.538,2018.0,2019,1.0,False
+Gambia,GM2019DHS,GMB,liberal_democracy,0.422,2018.0,2019,1.0,False
+Gambia,GM2019DHS,GMB,women_political_empowerment,0.749,2018.0,2019,1.0,False
+Ghana,GH2003DHS,GHA,hdi,0.493,2002.0,2003,1.0,False
+Ghana,GH2003DHS,GHA,electoral_democracy,0.731,2002.0,2003,1.0,False
+Ghana,GH2003DHS,GHA,liberal_democracy,0.629,2002.0,2003,1.0,False
+Ghana,GH2003DHS,GHA,women_political_empowerment,0.79,2002.0,2003,1.0,False
+Ghana,GH2008DHS,GHA,hdi,0.534,2007.0,2008,1.0,False
+Ghana,GH2008DHS,GHA,electoral_democracy,0.736,2007.0,2008,1.0,False
+Ghana,GH2008DHS,GHA,liberal_democracy,0.636,2007.0,2008,1.0,False
+Ghana,GH2008DHS,GHA,women_political_empowerment,0.801,2007.0,2008,1.0,False
+Ghana,GH2014DHS,GHA,hdi,0.582,2013.0,2014,1.0,False
+Ghana,GH2014DHS,GHA,electoral_democracy,0.75,2013.0,2014,1.0,False
+Ghana,GH2014DHS,GHA,liberal_democracy,0.635,2013.0,2014,1.0,False
+Ghana,GH2014DHS,GHA,women_political_empowerment,0.8,2013.0,2014,1.0,False
+Ghana,GH2022DHS,GHA,hdi,0.618,2021.0,2022,1.0,False
+Ghana,GH2022DHS,GHA,electoral_democracy,0.659,2021.0,2022,1.0,False
+Ghana,GH2022DHS,GHA,liberal_democracy,0.554,2021.0,2022,1.0,False
+Ghana,GH2022DHS,GHA,women_political_empowerment,0.788,2021.0,2022,1.0,False
+Guatemala,GU2015DHS,GTM,hdi,0.633,2013.0,2014,1.0,False
+Guatemala,GU2015DHS,GTM,electoral_democracy,0.574,2013.0,2014,1.0,False
+Guatemala,GU2015DHS,GTM,liberal_democracy,0.41,2013.0,2014,1.0,False
+Guatemala,GU2015DHS,GTM,women_political_empowerment,0.66,2013.0,2014,1.0,False
+Guinea,GN2005DHS,GIN,hdi,0.391,2004.0,2005,1.0,False
+Guinea,GN2005DHS,GIN,electoral_democracy,0.274,2004.0,2005,1.0,False
+Guinea,GN2005DHS,GIN,liberal_democracy,0.116,2004.0,2005,1.0,False
+Guinea,GN2005DHS,GIN,women_political_empowerment,0.434,2004.0,2005,1.0,False
+Guinea,GN2012DHS,GIN,hdi,0.436,2011.0,2012,1.0,False
+Guinea,GN2012DHS,GIN,electoral_democracy,0.318,2011.0,2012,1.0,False
+Guinea,GN2012DHS,GIN,liberal_democracy,0.115,2011.0,2012,1.0,False
+Guinea,GN2012DHS,GIN,women_political_empowerment,0.346,2011.0,2012,1.0,False
+Guinea,GN2018DHS,GIN,hdi,0.482,2017.0,2018,1.0,False
+Guinea,GN2018DHS,GIN,electoral_democracy,0.369,2017.0,2018,1.0,False
+Guinea,GN2018DHS,GIN,liberal_democracy,0.161,2017.0,2018,1.0,False
+Guinea,GN2018DHS,GIN,women_political_empowerment,0.497,2017.0,2018,1.0,False
+Guyana,GY2009DHS,GUY,hdi,0.632,2008.0,2009,1.0,False
+Guyana,GY2009DHS,GUY,electoral_democracy,0.576,2008.0,2009,1.0,False
+Guyana,GY2009DHS,GUY,liberal_democracy,0.366,2008.0,2009,1.0,False
+Guyana,GY2009DHS,GUY,women_political_empowerment,0.852,2008.0,2009,1.0,False
+Haiti,HT2000DHS,HTI,hdi,0.493,1999.0,2000,1.0,False
+Haiti,HT2000DHS,HTI,electoral_democracy,0.442,1999.0,2000,1.0,False
+Haiti,HT2000DHS,HTI,liberal_democracy,0.282,1999.0,2000,1.0,False
+Haiti,HT2000DHS,HTI,women_political_empowerment,0.496,1999.0,2000,1.0,False
+Haiti,HT2006DHS,HTI,hdi,0.505,2004.0,2005,1.0,False
+Haiti,HT2006DHS,HTI,electoral_democracy,0.249,2004.0,2005,1.0,False
+Haiti,HT2006DHS,HTI,liberal_democracy,0.108,2004.0,2005,1.0,False
+Haiti,HT2006DHS,HTI,women_political_empowerment,0.456,2004.0,2005,1.0,False
+Haiti,HT2012DHS,HTI,hdi,0.536,2011.0,2012,1.0,False
+Haiti,HT2012DHS,HTI,electoral_democracy,0.431,2011.0,2012,1.0,False
+Haiti,HT2012DHS,HTI,liberal_democracy,0.262,2011.0,2012,1.0,False
+Haiti,HT2012DHS,HTI,women_political_empowerment,0.511,2011.0,2012,1.0,False
+Haiti,HT2016DHS,HTI,hdi,0.552,2015.0,2016,1.0,False
+Haiti,HT2016DHS,HTI,electoral_democracy,0.425,2015.0,2016,1.0,False
+Haiti,HT2016DHS,HTI,liberal_democracy,0.243,2015.0,2016,1.0,False
+Haiti,HT2016DHS,HTI,women_political_empowerment,0.487,2015.0,2016,1.0,False
+Honduras,HN2005DHS,HND,hdi,0.573,2004.0,2005,1.0,False
+Honduras,HN2005DHS,HND,electoral_democracy,0.565,2004.0,2005,1.0,False
+Honduras,HN2005DHS,HND,liberal_democracy,0.333,2004.0,2005,1.0,False
+Honduras,HN2005DHS,HND,women_political_empowerment,0.634,2004.0,2005,1.0,False
+Honduras,HN2011DHS,HND,hdi,0.596,2010.0,2011,1.0,False
+Honduras,HN2011DHS,HND,electoral_democracy,0.408,2010.0,2011,1.0,False
+Honduras,HN2011DHS,HND,liberal_democracy,0.239,2010.0,2011,1.0,False
+Honduras,HN2011DHS,HND,women_political_empowerment,0.675,2010.0,2011,1.0,False
+India,IA2006DHS,IND,hdi,0.538,2004.0,2005,1.0,False
+India,IA2006DHS,IND,electoral_democracy,0.731,2004.0,2005,1.0,False
+India,IA2006DHS,IND,liberal_democracy,0.578,2004.0,2005,1.0,False
+India,IA2006DHS,IND,women_political_empowerment,0.672,2004.0,2005,1.0,False
+India,IA2015DHS,IND,hdi,0.625,2014.0,2015,1.0,False
+India,IA2015DHS,IND,electoral_democracy,0.617,2014.0,2015,1.0,False
+India,IA2015DHS,IND,liberal_democracy,0.488,2014.0,2015,1.0,False
+India,IA2015DHS,IND,women_political_empowerment,0.655,2014.0,2015,1.0,False
+India,IA2020DHS,IND,hdi,0.648,2018.0,2019,1.0,False
+India,IA2020DHS,IND,electoral_democracy,0.482,2018.0,2019,1.0,False
+India,IA2020DHS,IND,liberal_democracy,0.363,2018.0,2019,1.0,False
+India,IA2020DHS,IND,women_political_empowerment,0.662,2018.0,2019,1.0,False
+Indonesia,ID2012DHS,IDN,hdi,0.678,2011.0,2012,1.0,False
+Indonesia,ID2012DHS,IDN,electoral_democracy,0.686,2011.0,2012,1.0,False
+Indonesia,ID2012DHS,IDN,liberal_democracy,0.538,2011.0,2012,1.0,False
+Indonesia,ID2012DHS,IDN,women_political_empowerment,0.723,2011.0,2012,1.0,False
+Indonesia,ID2017DHS,IDN,hdi,0.705,2016.0,2017,1.0,False
+Indonesia,ID2017DHS,IDN,electoral_democracy,0.639,2016.0,2017,1.0,False
+Indonesia,ID2017DHS,IDN,liberal_democracy,0.496,2016.0,2017,1.0,False
+Indonesia,ID2017DHS,IDN,women_political_empowerment,0.732,2016.0,2017,1.0,False
+Kenya,KE2003DHS,KEN,hdi,0.504,2002.0,2003,1.0,False
+Kenya,KE2003DHS,KEN,electoral_democracy,0.419,2002.0,2003,1.0,False
+Kenya,KE2003DHS,KEN,liberal_democracy,0.291,2002.0,2003,1.0,False
+Kenya,KE2003DHS,KEN,women_political_empowerment,0.615,2002.0,2003,1.0,False
+Kenya,KE2008DHS,KEN,hdi,0.548,2007.0,2008,1.0,False
+Kenya,KE2008DHS,KEN,electoral_democracy,0.511,2007.0,2008,1.0,False
+Kenya,KE2008DHS,KEN,liberal_democracy,0.356,2007.0,2008,1.0,False
+Kenya,KE2008DHS,KEN,women_political_empowerment,0.641,2007.0,2008,1.0,False
+Kenya,KE2014DHS,KEN,hdi,0.57,2013.0,2014,1.0,False
+Kenya,KE2014DHS,KEN,electoral_democracy,0.524,2013.0,2014,1.0,False
+Kenya,KE2014DHS,KEN,liberal_democracy,0.413,2013.0,2014,1.0,False
+Kenya,KE2014DHS,KEN,women_political_empowerment,0.743,2013.0,2014,1.0,False
+Kenya,KE2022DHS,KEN,hdi,0.608,2021.0,2022,1.0,False
+Kenya,KE2022DHS,KEN,electoral_democracy,0.507,2021.0,2022,1.0,False
+Kenya,KE2022DHS,KEN,liberal_democracy,0.423,2021.0,2022,1.0,False
+Kenya,KE2022DHS,KEN,women_political_empowerment,0.782,2021.0,2022,1.0,False
+Kyrgyz Republic,KY2012DHS,KGZ,hdi,0.67,2011.0,2012,1.0,False
+Kyrgyz Republic,KY2012DHS,KGZ,electoral_democracy,0.473,2011.0,2012,1.0,False
+Kyrgyz Republic,KY2012DHS,KGZ,liberal_democracy,0.333,2011.0,2012,1.0,False
+Kyrgyz Republic,KY2012DHS,KGZ,women_political_empowerment,0.781,2011.0,2012,1.0,False
+Lesotho,LS2004DHS,LSO,hdi,0.456,2003.0,2004,1.0,False
+Lesotho,LS2004DHS,LSO,electoral_democracy,0.614,2003.0,2004,1.0,False
+Lesotho,LS2004DHS,LSO,liberal_democracy,0.45,2003.0,2004,1.0,False
+Lesotho,LS2004DHS,LSO,women_political_empowerment,0.75,2003.0,2004,1.0,False
+Lesotho,LS2009DHS,LSO,hdi,0.463,2008.0,2009,1.0,False
+Lesotho,LS2009DHS,LSO,electoral_democracy,0.561,2008.0,2009,1.0,False
+Lesotho,LS2009DHS,LSO,liberal_democracy,0.415,2008.0,2009,1.0,False
+Lesotho,LS2009DHS,LSO,women_political_empowerment,0.789,2008.0,2009,1.0,False
+Lesotho,LS2014DHS,LSO,hdi,0.502,2013.0,2014,1.0,False
+Lesotho,LS2014DHS,LSO,electoral_democracy,0.619,2013.0,2014,1.0,False
+Lesotho,LS2014DHS,LSO,liberal_democracy,0.477,2013.0,2014,1.0,False
+Lesotho,LS2014DHS,LSO,women_political_empowerment,0.806,2013.0,2014,1.0,False
+Lesotho,LS2023DHS,LSO,hdi,0.547,2022.0,2023,1.0,False
+Lesotho,LS2023DHS,LSO,electoral_democracy,0.648,2022.0,2023,1.0,False
+Lesotho,LS2023DHS,LSO,liberal_democracy,0.509,2022.0,2023,1.0,False
+Lesotho,LS2023DHS,LSO,women_political_empowerment,0.835,2022.0,2023,1.0,False
+Liberia,LB2007DHS,LBR,hdi,0.446,2005.0,2006,1.0,False
+Liberia,LB2007DHS,LBR,electoral_democracy,0.276,2005.0,2006,1.0,False
+Liberia,LB2007DHS,LBR,liberal_democracy,0.267,2005.0,2006,1.0,False
+Liberia,LB2007DHS,LBR,women_political_empowerment,0.851,2005.0,2006,1.0,False
+Liberia,LB2013DHS,LBR,hdi,0.475,2012.0,2013,1.0,False
+Liberia,LB2013DHS,LBR,electoral_democracy,0.64,2012.0,2013,1.0,False
+Liberia,LB2013DHS,LBR,liberal_democracy,0.482,2012.0,2013,1.0,False
+Liberia,LB2013DHS,LBR,women_political_empowerment,0.86,2012.0,2013,1.0,False
+Liberia,LB2019DHS,LBR,hdi,0.495,2018.0,2019,1.0,False
+Liberia,LB2019DHS,LBR,electoral_democracy,0.621,2018.0,2019,1.0,False
+Liberia,LB2019DHS,LBR,liberal_democracy,0.425,2018.0,2019,1.0,False
+Liberia,LB2019DHS,LBR,women_political_empowerment,0.831,2018.0,2019,1.0,False
+Madagascar,MD2004DHS,MDG,hdi,0.448,2002.0,2003,1.0,False
+Madagascar,MD2004DHS,MDG,electoral_democracy,0.432,2002.0,2003,1.0,False
+Madagascar,MD2004DHS,MDG,liberal_democracy,0.245,2002.0,2003,1.0,False
+Madagascar,MD2004DHS,MDG,women_political_empowerment,0.636,2002.0,2003,1.0,False
+Madagascar,MD2008DHS,MDG,hdi,0.482,2007.0,2008,1.0,False
+Madagascar,MD2008DHS,MDG,electoral_democracy,0.495,2007.0,2008,1.0,False
+Madagascar,MD2008DHS,MDG,liberal_democracy,0.274,2007.0,2008,1.0,False
+Madagascar,MD2008DHS,MDG,women_political_empowerment,0.711,2007.0,2008,1.0,False
+Madagascar,MD2021DHS,MDG,hdi,0.483,2020.0,2021,1.0,False
+Madagascar,MD2021DHS,MDG,electoral_democracy,0.486,2020.0,2021,1.0,False
+Madagascar,MD2021DHS,MDG,liberal_democracy,0.246,2020.0,2021,1.0,False
+Madagascar,MD2021DHS,MDG,women_political_empowerment,0.753,2020.0,2021,1.0,False
+Malawi,MW2000DHS,MWI,hdi,0.392,1999.0,2000,1.0,False
+Malawi,MW2000DHS,MWI,electoral_democracy,0.512,1999.0,2000,1.0,False
+Malawi,MW2000DHS,MWI,liberal_democracy,0.401,1999.0,2000,1.0,False
+Malawi,MW2000DHS,MWI,women_political_empowerment,0.636,1999.0,2000,1.0,False
+Malawi,MW2004DHS,MWI,hdi,0.414,2003.0,2004,1.0,False
+Malawi,MW2004DHS,MWI,electoral_democracy,0.478,2003.0,2004,1.0,False
+Malawi,MW2004DHS,MWI,liberal_democracy,0.387,2003.0,2004,1.0,False
+Malawi,MW2004DHS,MWI,women_political_empowerment,0.716,2003.0,2004,1.0,False
+Malawi,MW2010DHS,MWI,hdi,0.465,2009.0,2010,1.0,False
+Malawi,MW2010DHS,MWI,electoral_democracy,0.5,2009.0,2010,1.0,False
+Malawi,MW2010DHS,MWI,liberal_democracy,0.4,2009.0,2010,1.0,False
+Malawi,MW2010DHS,MWI,women_political_empowerment,0.768,2009.0,2010,1.0,False
+Malawi,MW2015DHS,MWI,hdi,0.5,2014.0,2015,1.0,False
+Malawi,MW2015DHS,MWI,electoral_democracy,0.547,2014.0,2015,1.0,False
+Malawi,MW2015DHS,MWI,liberal_democracy,0.437,2014.0,2015,1.0,False
+Malawi,MW2015DHS,MWI,women_political_empowerment,0.758,2014.0,2015,1.0,False
+Malawi,MW2024DHS,MWI,hdi,0.517,2023.0,2024,1.0,False
+Malawi,MW2024DHS,MWI,electoral_democracy,0.571,2023.0,2024,1.0,False
+Malawi,MW2024DHS,MWI,liberal_democracy,0.479,2023.0,2024,1.0,False
+Malawi,MW2024DHS,MWI,women_political_empowerment,0.775,2023.0,2024,1.0,False
+Mali,ML2001DHS,MLI,hdi,0.32,2000.0,2001,1.0,False
+Mali,ML2001DHS,MLI,electoral_democracy,0.519,2000.0,2001,1.0,False
+Mali,ML2001DHS,MLI,liberal_democracy,0.37,2000.0,2001,1.0,False
+Mali,ML2001DHS,MLI,women_political_empowerment,0.725,2000.0,2001,1.0,False
+Mali,ML2006DHS,MLI,hdi,0.368,2005.0,2006,1.0,False
+Mali,ML2006DHS,MLI,electoral_democracy,0.624,2005.0,2006,1.0,False
+Mali,ML2006DHS,MLI,liberal_democracy,0.416,2005.0,2006,1.0,False
+Mali,ML2006DHS,MLI,women_political_empowerment,0.715,2005.0,2006,1.0,False
+Mali,ML2012DHS,MLI,hdi,0.415,2011.0,2012,1.0,False
+Mali,ML2012DHS,MLI,electoral_democracy,0.611,2011.0,2012,1.0,False
+Mali,ML2012DHS,MLI,liberal_democracy,0.407,2011.0,2012,1.0,False
+Mali,ML2012DHS,MLI,women_political_empowerment,0.712,2011.0,2012,1.0,False
+Mali,ML2018DHS,MLI,hdi,0.416,2017.0,2018,1.0,False
+Mali,ML2018DHS,MLI,electoral_democracy,0.54,2017.0,2018,1.0,False
+Mali,ML2018DHS,MLI,liberal_democracy,0.328,2017.0,2018,1.0,False
+Mali,ML2018DHS,MLI,women_political_empowerment,0.682,2017.0,2018,1.0,False
+Moldova,MB2005DHS,MDA,hdi,,,2005,,True
+Moldova,MB2005DHS,MDA,electoral_democracy,0.506,2004.0,2005,1.0,False
+Moldova,MB2005DHS,MDA,liberal_democracy,0.381,2004.0,2005,1.0,False
+Moldova,MB2005DHS,MDA,women_political_empowerment,0.81,2004.0,2005,1.0,False
+Morocco,MA2003DHS,MAR,hdi,0.55,2002.0,2003,1.0,False
+Morocco,MA2003DHS,MAR,electoral_democracy,0.243,2002.0,2003,1.0,False
+Morocco,MA2003DHS,MAR,liberal_democracy,0.221,2002.0,2003,1.0,False
+Morocco,MA2003DHS,MAR,women_political_empowerment,0.647,2002.0,2003,1.0,False
+Mozambique,MZ2003DHS,MOZ,hdi,0.335,2002.0,2003,1.0,False
+Mozambique,MZ2003DHS,MOZ,electoral_democracy,0.419,2002.0,2003,1.0,False
+Mozambique,MZ2003DHS,MOZ,liberal_democracy,0.294,2002.0,2003,1.0,False
+Mozambique,MZ2003DHS,MOZ,women_political_empowerment,0.763,2002.0,2003,1.0,False
+Mozambique,MZ2011DHS,MOZ,hdi,0.419,2010.0,2011,1.0,False
+Mozambique,MZ2011DHS,MOZ,electoral_democracy,0.425,2010.0,2011,1.0,False
+Mozambique,MZ2011DHS,MOZ,liberal_democracy,0.293,2010.0,2011,1.0,False
+Mozambique,MZ2011DHS,MOZ,women_political_empowerment,0.778,2010.0,2011,1.0,False
+Mozambique,MZ2022DHS,MOZ,hdi,0.478,2021.0,2022,1.0,False
+Mozambique,MZ2022DHS,MOZ,electoral_democracy,0.367,2021.0,2022,1.0,False
+Mozambique,MZ2022DHS,MOZ,liberal_democracy,0.244,2021.0,2022,1.0,False
+Mozambique,MZ2022DHS,MOZ,women_political_empowerment,0.738,2021.0,2022,1.0,False
+Myanmar,MM2016DHS,MMR,hdi,0.557,2014.0,2015,1.0,False
+Myanmar,MM2016DHS,MMR,electoral_democracy,0.357,2014.0,2015,1.0,False
+Myanmar,MM2016DHS,MMR,liberal_democracy,0.163,2014.0,2015,1.0,False
+Myanmar,MM2016DHS,MMR,women_political_empowerment,0.499,2014.0,2015,1.0,False
+Namibia,NM2006DHS,NAM,hdi,0.564,2005.0,2006,1.0,False
+Namibia,NM2006DHS,NAM,electoral_democracy,0.664,2005.0,2006,1.0,False
+Namibia,NM2006DHS,NAM,liberal_democracy,0.55,2005.0,2006,1.0,False
+Namibia,NM2006DHS,NAM,women_political_empowerment,0.784,2005.0,2006,1.0,False
+Namibia,NM2013DHS,NAM,hdi,0.607,2012.0,2013,1.0,False
+Namibia,NM2013DHS,NAM,electoral_democracy,0.644,2012.0,2013,1.0,False
+Namibia,NM2013DHS,NAM,liberal_democracy,0.533,2012.0,2013,1.0,False
+Namibia,NM2013DHS,NAM,women_political_empowerment,0.805,2012.0,2013,1.0,False
+Nepal,NP2006DHS,NPL,hdi,0.5,2005.0,2006,1.0,False
+Nepal,NP2006DHS,NPL,electoral_democracy,0.222,2005.0,2006,1.0,False
+Nepal,NP2006DHS,NPL,liberal_democracy,0.149,2005.0,2006,1.0,False
+Nepal,NP2006DHS,NPL,women_political_empowerment,0.535,2005.0,2006,1.0,False
+Nepal,NP2011DHS,NPL,hdi,0.551,2010.0,2011,1.0,False
+Nepal,NP2011DHS,NPL,electoral_democracy,0.554,2010.0,2011,1.0,False
+Nepal,NP2011DHS,NPL,liberal_democracy,0.465,2010.0,2011,1.0,False
+Nepal,NP2011DHS,NPL,women_political_empowerment,0.773,2010.0,2011,1.0,False
+Nepal,NP2016DHS,NPL,hdi,0.575,2015.0,2016,1.0,False
+Nepal,NP2016DHS,NPL,electoral_democracy,0.643,2015.0,2016,1.0,False
+Nepal,NP2016DHS,NPL,liberal_democracy,0.534,2015.0,2016,1.0,False
+Nepal,NP2016DHS,NPL,women_political_empowerment,0.776,2015.0,2016,1.0,False
+Nepal,NP2022DHS,NPL,hdi,0.596,2021.0,2022,1.0,False
+Nepal,NP2022DHS,NPL,electoral_democracy,0.609,2021.0,2022,1.0,False
+Nepal,NP2022DHS,NPL,liberal_democracy,0.491,2021.0,2022,1.0,False
+Nepal,NP2022DHS,NPL,women_political_empowerment,0.764,2021.0,2022,1.0,False
+Nicaragua,NC2001DHS,NIC,hdi,0.593,2000.0,2001,1.0,False
+Nicaragua,NC2001DHS,NIC,electoral_democracy,0.586,2000.0,2001,1.0,False
+Nicaragua,NC2001DHS,NIC,liberal_democracy,0.378,2000.0,2001,1.0,False
+Nicaragua,NC2001DHS,NIC,women_political_empowerment,0.614,2000.0,2001,1.0,False
+Niger,NI2006DHS,NER,hdi,0.302,2005.0,2006,1.0,False
+Niger,NI2006DHS,NER,electoral_democracy,0.573,2005.0,2006,1.0,False
+Niger,NI2006DHS,NER,liberal_democracy,0.425,2005.0,2006,1.0,False
+Niger,NI2006DHS,NER,women_political_empowerment,0.681,2005.0,2006,1.0,False
+Niger,NI2012DHS,NER,hdi,0.346,2011.0,2012,1.0,False
+Niger,NI2012DHS,NER,electoral_democracy,0.541,2011.0,2012,1.0,False
+Niger,NI2012DHS,NER,liberal_democracy,0.39,2011.0,2012,1.0,False
+Niger,NI2012DHS,NER,women_political_empowerment,0.676,2011.0,2012,1.0,False
+Nigeria,NG2003DHS,NGA,hdi,0.451,2002.0,2003,1.0,False
+Nigeria,NG2003DHS,NGA,electoral_democracy,0.471,2002.0,2003,1.0,False
+Nigeria,NG2003DHS,NGA,liberal_democracy,0.327,2002.0,2003,1.0,False
+Nigeria,NG2003DHS,NGA,women_political_empowerment,0.695,2002.0,2003,1.0,False
+Nigeria,NG2008DHS,NGA,hdi,0.492,2007.0,2008,1.0,False
+Nigeria,NG2008DHS,NGA,electoral_democracy,0.408,2007.0,2008,1.0,False
+Nigeria,NG2008DHS,NGA,liberal_democracy,0.297,2007.0,2008,1.0,False
+Nigeria,NG2008DHS,NGA,women_political_empowerment,0.718,2007.0,2008,1.0,False
+Nigeria,NG2013DHS,NGA,hdi,0.512,2012.0,2013,1.0,False
+Nigeria,NG2013DHS,NGA,electoral_democracy,0.506,2012.0,2013,1.0,False
+Nigeria,NG2013DHS,NGA,liberal_democracy,0.36,2012.0,2013,1.0,False
+Nigeria,NG2013DHS,NGA,women_political_empowerment,0.705,2012.0,2013,1.0,False
+Nigeria,NG2018DHS,NGA,hdi,0.534,2017.0,2018,1.0,False
+Nigeria,NG2018DHS,NGA,electoral_democracy,0.556,2017.0,2018,1.0,False
+Nigeria,NG2018DHS,NGA,liberal_democracy,0.393,2017.0,2018,1.0,False
+Nigeria,NG2018DHS,NGA,women_political_empowerment,0.732,2017.0,2018,1.0,False
+Nigeria,NG2024DHS,NGA,hdi,0.557,2022.0,2023,1.0,False
+Nigeria,NG2024DHS,NGA,electoral_democracy,0.49,2022.0,2023,1.0,False
+Nigeria,NG2024DHS,NGA,liberal_democracy,0.321,2022.0,2023,1.0,False
+Nigeria,NG2024DHS,NGA,women_political_empowerment,0.713,2022.0,2023,1.0,False
+Peru,PE2004DHS,PER,hdi,0.69,2002.0,2003,1.0,False
+Peru,PE2004DHS,PER,electoral_democracy,0.792,2002.0,2003,1.0,False
+Peru,PE2004DHS,PER,liberal_democracy,0.648,2002.0,2003,1.0,False
+Peru,PE2004DHS,PER,women_political_empowerment,0.756,2002.0,2003,1.0,False
+Peru,PE2007DHS,PER,hdi,0.697,2006.0,2007,1.0,False
+Peru,PE2007DHS,PER,electoral_democracy,0.792,2006.0,2007,1.0,False
+Peru,PE2007DHS,PER,liberal_democracy,0.652,2006.0,2007,1.0,False
+Peru,PE2007DHS,PER,women_political_empowerment,0.784,2006.0,2007,1.0,False
+Peru,PE2009DHS,PER,hdi,0.714,2008.0,2009,1.0,False
+Peru,PE2009DHS,PER,electoral_democracy,0.801,2008.0,2009,1.0,False
+Peru,PE2009DHS,PER,liberal_democracy,0.65,2008.0,2009,1.0,False
+Peru,PE2009DHS,PER,women_political_empowerment,0.783,2008.0,2009,1.0,False
+Peru,PE2010DHS,PER,hdi,0.717,2009.0,2010,1.0,False
+Peru,PE2010DHS,PER,electoral_democracy,0.8,2009.0,2010,1.0,False
+Peru,PE2010DHS,PER,liberal_democracy,0.649,2009.0,2010,1.0,False
+Peru,PE2010DHS,PER,women_political_empowerment,0.78,2009.0,2010,1.0,False
+Peru,PE2011DHS,PER,hdi,0.731,2010.0,2011,1.0,False
+Peru,PE2011DHS,PER,electoral_democracy,0.804,2010.0,2011,1.0,False
+Peru,PE2011DHS,PER,liberal_democracy,0.658,2010.0,2011,1.0,False
+Peru,PE2011DHS,PER,women_political_empowerment,0.781,2010.0,2011,1.0,False
+Peru,PE2012DHS,PER,hdi,0.738,2011.0,2012,1.0,False
+Peru,PE2012DHS,PER,electoral_democracy,0.812,2011.0,2012,1.0,False
+Peru,PE2012DHS,PER,liberal_democracy,0.67,2011.0,2012,1.0,False
+Peru,PE2012DHS,PER,women_political_empowerment,0.771,2011.0,2012,1.0,False
+Philippines,PH2003DHS,PHL,hdi,0.643,2002.0,2003,1.0,False
+Philippines,PH2003DHS,PHL,electoral_democracy,0.531,2002.0,2003,1.0,False
+Philippines,PH2003DHS,PHL,liberal_democracy,0.394,2002.0,2003,1.0,False
+Philippines,PH2003DHS,PHL,women_political_empowerment,0.82,2002.0,2003,1.0,False
+Philippines,PH2008DHS,PHL,hdi,0.659,2007.0,2008,1.0,False
+Philippines,PH2008DHS,PHL,electoral_democracy,0.459,2007.0,2008,1.0,False
+Philippines,PH2008DHS,PHL,liberal_democracy,0.346,2007.0,2008,1.0,False
+Philippines,PH2008DHS,PHL,women_political_empowerment,0.828,2007.0,2008,1.0,False
+Philippines,PH2013DHS,PHL,hdi,0.681,2012.0,2013,1.0,False
+Philippines,PH2013DHS,PHL,electoral_democracy,0.524,2012.0,2013,1.0,False
+Philippines,PH2013DHS,PHL,liberal_democracy,0.413,2012.0,2013,1.0,False
+Philippines,PH2013DHS,PHL,women_political_empowerment,0.849,2012.0,2013,1.0,False
+Philippines,PH2017DHS,PHL,hdi,0.69,2016.0,2017,1.0,False
+Philippines,PH2017DHS,PHL,electoral_democracy,0.485,2016.0,2017,1.0,False
+Philippines,PH2017DHS,PHL,liberal_democracy,0.346,2016.0,2017,1.0,False
+Philippines,PH2017DHS,PHL,women_political_empowerment,0.844,2016.0,2017,1.0,False
+Philippines,PH2022DHS,PHL,hdi,0.69,2021.0,2022,1.0,False
+Philippines,PH2022DHS,PHL,electoral_democracy,0.411,2021.0,2022,1.0,False
+Philippines,PH2022DHS,PHL,liberal_democracy,0.271,2021.0,2022,1.0,False
+Philippines,PH2022DHS,PHL,women_political_empowerment,0.788,2021.0,2022,1.0,False
+Rwanda,RW2000DHS,RWA,hdi,0.317,1999.0,2000,1.0,False
+Rwanda,RW2000DHS,RWA,electoral_democracy,0.107,1999.0,2000,1.0,False
+Rwanda,RW2000DHS,RWA,liberal_democracy,0.125,1999.0,2000,1.0,False
+Rwanda,RW2000DHS,RWA,women_political_empowerment,0.681,1999.0,2000,1.0,False
+Rwanda,RW2005DHS,RWA,hdi,0.417,2004.0,2005,1.0,False
+Rwanda,RW2005DHS,RWA,electoral_democracy,0.198,2004.0,2005,1.0,False
+Rwanda,RW2005DHS,RWA,liberal_democracy,0.123,2004.0,2005,1.0,False
+Rwanda,RW2005DHS,RWA,women_political_empowerment,0.813,2004.0,2005,1.0,False
+Rwanda,RW2010DHS,RWA,hdi,0.493,2009.0,2010,1.0,False
+Rwanda,RW2010DHS,RWA,electoral_democracy,0.22,2009.0,2010,1.0,False
+Rwanda,RW2010DHS,RWA,liberal_democracy,0.13,2009.0,2010,1.0,False
+Rwanda,RW2010DHS,RWA,women_political_empowerment,0.81,2009.0,2010,1.0,False
+Rwanda,RW2015DHS,RWA,hdi,0.499,2013.0,2014,1.0,False
+Rwanda,RW2015DHS,RWA,electoral_democracy,0.221,2013.0,2014,1.0,False
+Rwanda,RW2015DHS,RWA,liberal_democracy,0.136,2013.0,2014,1.0,False
+Rwanda,RW2015DHS,RWA,women_political_empowerment,0.853,2013.0,2014,1.0,False
+Rwanda,RW2019DHS,RWA,hdi,0.54,2018.0,2019,1.0,False
+Rwanda,RW2019DHS,RWA,electoral_democracy,0.226,2018.0,2019,1.0,False
+Rwanda,RW2019DHS,RWA,liberal_democracy,0.118,2018.0,2019,1.0,False
+Rwanda,RW2019DHS,RWA,women_political_empowerment,0.819,2018.0,2019,1.0,False
+Rwanda,RW2025DHS,RWA,hdi,0.578,2023.0,2025,2.0,False
+Rwanda,RW2025DHS,RWA,electoral_democracy,0.201,2024.0,2025,1.0,False
+Rwanda,RW2025DHS,RWA,liberal_democracy,0.091,2024.0,2025,1.0,False
+Rwanda,RW2025DHS,RWA,women_political_empowerment,0.613,2024.0,2025,1.0,False
+Sao Tome and Principe,ST2008DHS,STP,hdi,0.552,2007.0,2008,1.0,False
+Sao Tome and Principe,ST2008DHS,STP,electoral_democracy,0.643,2007.0,2008,1.0,False
+Sao Tome and Principe,ST2008DHS,STP,liberal_democracy,0.527,2007.0,2008,1.0,False
+Sao Tome and Principe,ST2008DHS,STP,women_political_empowerment,0.749,2007.0,2008,1.0,False
+Senegal,SN2005DHS,SEN,hdi,0.423,2004.0,2005,1.0,False
+Senegal,SN2005DHS,SEN,electoral_democracy,0.685,2004.0,2005,1.0,False
+Senegal,SN2005DHS,SEN,liberal_democracy,0.536,2004.0,2005,1.0,False
+Senegal,SN2005DHS,SEN,women_political_empowerment,0.784,2004.0,2005,1.0,False
+Senegal,SN2010DHS,SEN,hdi,0.47,2009.0,2010,1.0,False
+Senegal,SN2010DHS,SEN,electoral_democracy,0.668,2009.0,2010,1.0,False
+Senegal,SN2010DHS,SEN,liberal_democracy,0.52,2009.0,2010,1.0,False
+Senegal,SN2010DHS,SEN,women_political_empowerment,0.796,2009.0,2010,1.0,False
+Senegal,SN2012DHS,SEN,hdi,0.491,2011.0,2012,1.0,False
+Senegal,SN2012DHS,SEN,electoral_democracy,0.684,2011.0,2012,1.0,False
+Senegal,SN2012DHS,SEN,liberal_democracy,0.532,2011.0,2012,1.0,False
+Senegal,SN2012DHS,SEN,women_political_empowerment,0.809,2011.0,2012,1.0,False
+Senegal,SN2014DHS,SEN,hdi,0.504,2013.0,2014,1.0,False
+Senegal,SN2014DHS,SEN,electoral_democracy,0.722,2013.0,2014,1.0,False
+Senegal,SN2014DHS,SEN,liberal_democracy,0.585,2013.0,2014,1.0,False
+Senegal,SN2014DHS,SEN,women_political_empowerment,0.825,2013.0,2014,1.0,False
+Senegal,SN2015DHS,SEN,hdi,0.508,2014.0,2015,1.0,False
+Senegal,SN2015DHS,SEN,electoral_democracy,0.726,2014.0,2015,1.0,False
+Senegal,SN2015DHS,SEN,liberal_democracy,0.584,2014.0,2015,1.0,False
+Senegal,SN2015DHS,SEN,women_political_empowerment,0.825,2014.0,2015,1.0,False
+Senegal,SN2016DHS,SEN,hdi,0.509,2015.0,2016,1.0,False
+Senegal,SN2016DHS,SEN,electoral_democracy,0.726,2015.0,2016,1.0,False
+Senegal,SN2016DHS,SEN,liberal_democracy,0.586,2015.0,2016,1.0,False
+Senegal,SN2016DHS,SEN,women_political_empowerment,0.825,2015.0,2016,1.0,False
+Senegal,SN2017DHS,SEN,hdi,0.516,2016.0,2017,1.0,False
+Senegal,SN2017DHS,SEN,electoral_democracy,0.726,2016.0,2017,1.0,False
+Senegal,SN2017DHS,SEN,liberal_democracy,0.578,2016.0,2017,1.0,False
+Senegal,SN2017DHS,SEN,women_political_empowerment,0.831,2016.0,2017,1.0,False
+Senegal,SN2018DHS,SEN,hdi,0.517,2017.0,2018,1.0,False
+Senegal,SN2018DHS,SEN,electoral_democracy,0.701,2017.0,2018,1.0,False
+Senegal,SN2018DHS,SEN,liberal_democracy,0.556,2017.0,2018,1.0,False
+Senegal,SN2018DHS,SEN,women_political_empowerment,0.849,2017.0,2018,1.0,False
+Senegal,SN2019DHS,SEN,hdi,0.522,2018.0,2019,1.0,False
+Senegal,SN2019DHS,SEN,electoral_democracy,0.688,2018.0,2019,1.0,False
+Senegal,SN2019DHS,SEN,liberal_democracy,0.536,2018.0,2019,1.0,False
+Senegal,SN2019DHS,SEN,women_political_empowerment,0.829,2018.0,2019,1.0,False
+Senegal,SN2023DHS,SEN,hdi,0.526,2022.0,2023,1.0,False
+Senegal,SN2023DHS,SEN,electoral_democracy,0.686,2022.0,2023,1.0,False
+Senegal,SN2023DHS,SEN,liberal_democracy,0.536,2022.0,2023,1.0,False
+Senegal,SN2023DHS,SEN,women_political_empowerment,0.867,2022.0,2023,1.0,False
+Sierra Leone,SL2008DHS,SLE,hdi,0.391,2007.0,2008,1.0,False
+Sierra Leone,SL2008DHS,SLE,electoral_democracy,0.539,2007.0,2008,1.0,False
+Sierra Leone,SL2008DHS,SLE,liberal_democracy,0.346,2007.0,2008,1.0,False
+Sierra Leone,SL2008DHS,SLE,women_political_empowerment,0.7,2007.0,2008,1.0,False
+Sierra Leone,SL2013DHS,SLE,hdi,0.418,2012.0,2013,1.0,False
+Sierra Leone,SL2013DHS,SLE,electoral_democracy,0.508,2012.0,2013,1.0,False
+Sierra Leone,SL2013DHS,SLE,liberal_democracy,0.324,2012.0,2013,1.0,False
+Sierra Leone,SL2013DHS,SLE,women_political_empowerment,0.728,2012.0,2013,1.0,False
+Sierra Leone,SL2019DHS,SLE,hdi,0.451,2018.0,2019,1.0,False
+Sierra Leone,SL2019DHS,SLE,electoral_democracy,0.548,2018.0,2019,1.0,False
+Sierra Leone,SL2019DHS,SLE,liberal_democracy,0.38,2018.0,2019,1.0,False
+Sierra Leone,SL2019DHS,SLE,women_political_empowerment,0.773,2018.0,2019,1.0,False
+South Africa,ZA2016DHS,ZAF,hdi,0.722,2015.0,2016,1.0,False
+South Africa,ZA2016DHS,ZAF,electoral_democracy,0.755,2015.0,2016,1.0,False
+South Africa,ZA2016DHS,ZAF,liberal_democracy,0.649,2015.0,2016,1.0,False
+South Africa,ZA2016DHS,ZAF,women_political_empowerment,0.858,2015.0,2016,1.0,False
+Tajikistan,TJ2012DHS,TJK,hdi,0.644,2011.0,2012,1.0,False
+Tajikistan,TJ2012DHS,TJK,electoral_democracy,0.225,2011.0,2012,1.0,False
+Tajikistan,TJ2012DHS,TJK,liberal_democracy,0.064,2011.0,2012,1.0,False
+Tajikistan,TJ2012DHS,TJK,women_political_empowerment,0.462,2011.0,2012,1.0,False
+Tajikistan,TJ2017DHS,TJK,hdi,0.661,2016.0,2017,1.0,False
+Tajikistan,TJ2017DHS,TJK,electoral_democracy,0.174,2016.0,2017,1.0,False
+Tajikistan,TJ2017DHS,TJK,liberal_democracy,0.039,2016.0,2017,1.0,False
+Tajikistan,TJ2017DHS,TJK,women_political_empowerment,0.417,2016.0,2017,1.0,False
+Tajikistan,TJ2023DHS,TJK,hdi,0.687,2022.0,2023,1.0,False
+Tajikistan,TJ2023DHS,TJK,electoral_democracy,0.164,2022.0,2023,1.0,False
+Tajikistan,TJ2023DHS,TJK,liberal_democracy,0.036,2022.0,2023,1.0,False
+Tajikistan,TJ2023DHS,TJK,women_political_empowerment,0.413,2022.0,2023,1.0,False
+Tanzania,TZ2004DHS,TZA,hdi,0.444,2003.0,2004,1.0,False
+Tanzania,TZ2004DHS,TZA,electoral_democracy,0.44,2003.0,2004,1.0,False
+Tanzania,TZ2004DHS,TZA,liberal_democracy,0.373,2003.0,2004,1.0,False
+Tanzania,TZ2004DHS,TZA,women_political_empowerment,0.793,2003.0,2004,1.0,False
+Tanzania,TZ2010DHS,TZA,hdi,0.495,2008.0,2009,1.0,False
+Tanzania,TZ2010DHS,TZA,electoral_democracy,0.464,2008.0,2009,1.0,False
+Tanzania,TZ2010DHS,TZA,liberal_democracy,0.396,2008.0,2009,1.0,False
+Tanzania,TZ2010DHS,TZA,women_political_empowerment,0.816,2008.0,2009,1.0,False
+Tanzania,TZ2015DHS,TZA,hdi,0.521,2014.0,2015,1.0,False
+Tanzania,TZ2015DHS,TZA,electoral_democracy,0.467,2014.0,2015,1.0,False
+Tanzania,TZ2015DHS,TZA,liberal_democracy,0.394,2014.0,2015,1.0,False
+Tanzania,TZ2015DHS,TZA,women_political_empowerment,0.817,2014.0,2015,1.0,False
+Tanzania,TZ2022DHS,TZA,hdi,0.548,2021.0,2022,1.0,False
+Tanzania,TZ2022DHS,TZA,electoral_democracy,0.366,2021.0,2022,1.0,False
+Tanzania,TZ2022DHS,TZA,liberal_democracy,0.324,2021.0,2022,1.0,False
+Tanzania,TZ2022DHS,TZA,women_political_empowerment,0.819,2021.0,2022,1.0,False
+Timor-Leste,TL2009DHS,TLS,hdi,0.634,2008.0,2009,1.0,False
+Timor-Leste,TL2009DHS,TLS,electoral_democracy,0.618,2008.0,2009,1.0,False
+Timor-Leste,TL2009DHS,TLS,liberal_democracy,0.46,2008.0,2009,1.0,False
+Timor-Leste,TL2009DHS,TLS,women_political_empowerment,0.754,2008.0,2009,1.0,False
+Timor-Leste,TL2016DHS,TLS,hdi,0.628,2015.0,2016,1.0,False
+Timor-Leste,TL2016DHS,TLS,electoral_democracy,0.644,2015.0,2016,1.0,False
+Timor-Leste,TL2016DHS,TLS,liberal_democracy,0.466,2015.0,2016,1.0,False
+Timor-Leste,TL2016DHS,TLS,women_political_empowerment,0.739,2015.0,2016,1.0,False
+Togo,TG2013DHS,TGO,hdi,0.5,2012.0,2013,1.0,False
+Togo,TG2013DHS,TGO,electoral_democracy,0.412,2012.0,2013,1.0,False
+Togo,TG2013DHS,TGO,liberal_democracy,0.235,2012.0,2013,1.0,False
+Togo,TG2013DHS,TGO,women_political_empowerment,0.754,2012.0,2013,1.0,False
+Turkey,TR2013DHS,TUR,hdi,0.772,2012.0,2013,1.0,False
+Turkey,TR2013DHS,TUR,electoral_democracy,0.508,2012.0,2013,1.0,False
+Turkey,TR2013DHS,TUR,liberal_democracy,0.346,2012.0,2013,1.0,False
+Turkey,TR2013DHS,TUR,women_political_empowerment,0.646,2012.0,2013,1.0,False
+Turkmenistan,TM2000DHS,TKM,hdi,,,2000,,True
+Turkmenistan,TM2000DHS,TKM,electoral_democracy,0.143,1999.0,2000,1.0,False
+Turkmenistan,TM2000DHS,TKM,liberal_democracy,0.024,1999.0,2000,1.0,False
+Turkmenistan,TM2000DHS,TKM,women_political_empowerment,0.373,1999.0,2000,1.0,False
+Uganda,UG2000DHS,UGA,hdi,0.398,1999.0,2000,1.0,False
+Uganda,UG2000DHS,UGA,electoral_democracy,0.305,1999.0,2000,1.0,False
+Uganda,UG2000DHS,UGA,liberal_democracy,0.239,1999.0,2000,1.0,False
+Uganda,UG2000DHS,UGA,women_political_empowerment,0.772,1999.0,2000,1.0,False
+Uganda,UG2006DHS,UGA,hdi,0.47,2005.0,2006,1.0,False
+Uganda,UG2006DHS,UGA,electoral_democracy,0.294,2005.0,2006,1.0,False
+Uganda,UG2006DHS,UGA,liberal_democracy,0.231,2005.0,2006,1.0,False
+Uganda,UG2006DHS,UGA,women_political_empowerment,0.811,2005.0,2006,1.0,False
+Uganda,UG2011DHS,UGA,hdi,0.514,2010.0,2011,1.0,False
+Uganda,UG2011DHS,UGA,electoral_democracy,0.317,2010.0,2011,1.0,False
+Uganda,UG2011DHS,UGA,liberal_democracy,0.238,2010.0,2011,1.0,False
+Uganda,UG2011DHS,UGA,women_political_empowerment,0.816,2010.0,2011,1.0,False
+Uganda,UG2016DHS,UGA,hdi,0.547,2015.0,2016,1.0,False
+Uganda,UG2016DHS,UGA,electoral_democracy,0.3,2015.0,2016,1.0,False
+Uganda,UG2016DHS,UGA,liberal_democracy,0.222,2015.0,2016,1.0,False
+Uganda,UG2016DHS,UGA,women_political_empowerment,0.784,2015.0,2016,1.0,False
+Ukraine,UA2007DHS,UKR,hdi,0.762,2006.0,2007,1.0,False
+Ukraine,UA2007DHS,UKR,electoral_democracy,0.574,2006.0,2007,1.0,False
+Ukraine,UA2007DHS,UKR,liberal_democracy,0.376,2006.0,2007,1.0,False
+Ukraine,UA2007DHS,UKR,women_political_empowerment,0.854,2006.0,2007,1.0,False
+Yemen,YE2013DHS,YEM,hdi,0.503,2012.0,2013,1.0,False
+Yemen,YE2013DHS,YEM,electoral_democracy,0.357,2012.0,2013,1.0,False
+Yemen,YE2013DHS,YEM,liberal_democracy,0.164,2012.0,2013,1.0,False
+Yemen,YE2013DHS,YEM,women_political_empowerment,0.285,2012.0,2013,1.0,False
+Zambia,ZM2002DHS,ZMB,hdi,0.429,2000.0,2001,1.0,False
+Zambia,ZM2002DHS,ZMB,electoral_democracy,0.486,2000.0,2001,1.0,False
+Zambia,ZM2002DHS,ZMB,liberal_democracy,0.38,2000.0,2001,1.0,False
+Zambia,ZM2002DHS,ZMB,women_political_empowerment,0.68,2000.0,2001,1.0,False
+Zambia,ZM2007DHS,ZMB,hdi,0.492,2006.0,2007,1.0,False
+Zambia,ZM2007DHS,ZMB,electoral_democracy,0.498,2006.0,2007,1.0,False
+Zambia,ZM2007DHS,ZMB,liberal_democracy,0.418,2006.0,2007,1.0,False
+Zambia,ZM2007DHS,ZMB,women_political_empowerment,0.712,2006.0,2007,1.0,False
+Zambia,ZM2013DHS,ZMB,hdi,0.551,2012.0,2013,1.0,False
+Zambia,ZM2013DHS,ZMB,electoral_democracy,0.503,2012.0,2013,1.0,False
+Zambia,ZM2013DHS,ZMB,liberal_democracy,0.421,2012.0,2013,1.0,False
+Zambia,ZM2013DHS,ZMB,women_political_empowerment,0.695,2012.0,2013,1.0,False
+Zambia,ZM2018DHS,ZMB,hdi,0.57,2017.0,2018,1.0,False
+Zambia,ZM2018DHS,ZMB,electoral_democracy,0.36,2017.0,2018,1.0,False
+Zambia,ZM2018DHS,ZMB,liberal_democracy,0.294,2017.0,2018,1.0,False
+Zambia,ZM2018DHS,ZMB,women_political_empowerment,0.762,2017.0,2018,1.0,False
+Zambia,ZM2024DHS,ZMB,hdi,0.595,2023.0,2024,1.0,False
+Zambia,ZM2024DHS,ZMB,electoral_democracy,0.525,2023.0,2024,1.0,False
+Zambia,ZM2024DHS,ZMB,liberal_democracy,0.427,2023.0,2024,1.0,False
+Zambia,ZM2024DHS,ZMB,women_political_empowerment,0.807,2023.0,2024,1.0,False
+Zimbabwe,ZW1999DHS,ZWE,hdi,0.467,1998.0,1999,1.0,False
+Zimbabwe,ZW1999DHS,ZWE,electoral_democracy,0.308,1998.0,1999,1.0,False
+Zimbabwe,ZW1999DHS,ZWE,liberal_democracy,0.226,1998.0,1999,1.0,False
+Zimbabwe,ZW1999DHS,ZWE,women_political_empowerment,0.695,1998.0,1999,1.0,False
+Zimbabwe,ZW2005DHS,ZWE,hdi,0.453,2004.0,2005,1.0,False
+Zimbabwe,ZW2005DHS,ZWE,electoral_democracy,0.259,2004.0,2005,1.0,False
+Zimbabwe,ZW2005DHS,ZWE,liberal_democracy,0.154,2004.0,2005,1.0,False
+Zimbabwe,ZW2005DHS,ZWE,women_political_empowerment,0.71,2004.0,2005,1.0,False
+Zimbabwe,ZW2010DHS,ZWE,hdi,0.488,2009.0,2010,1.0,False
+Zimbabwe,ZW2010DHS,ZWE,electoral_democracy,0.254,2009.0,2010,1.0,False
+Zimbabwe,ZW2010DHS,ZWE,liberal_democracy,0.179,2009.0,2010,1.0,False
+Zimbabwe,ZW2010DHS,ZWE,women_political_empowerment,0.731,2009.0,2010,1.0,False
+Zimbabwe,ZW2015DHS,ZWE,hdi,0.56,2014.0,2015,1.0,False
+Zimbabwe,ZW2015DHS,ZWE,electoral_democracy,0.303,2014.0,2015,1.0,False
+Zimbabwe,ZW2015DHS,ZWE,liberal_democracy,0.213,2014.0,2015,1.0,False
+Zimbabwe,ZW2015DHS,ZWE,women_political_empowerment,0.803,2014.0,2015,1.0,False

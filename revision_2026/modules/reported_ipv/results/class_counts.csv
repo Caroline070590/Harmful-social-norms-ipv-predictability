@@ -1,0 +1,5 @@
+domain,women,positive,negative,PSUs,strata,any_attitude,actual_individual_years,actual_health_years
+primary,10267,954,9313,3116,239,169,2023;2024,2023;2024
+strict_training_2023,10259,954,9305,3115,239,169,2023,2023
+all_2024,9847,851,8996,3072,239,122,2024,2024
+new_psu_2024,3250,304,2946,1025,210,45,2024,2024

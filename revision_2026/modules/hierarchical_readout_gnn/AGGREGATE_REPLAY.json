@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "metric_bindings": 14274,
+  "max_score_error": 4.547473508864641e-13,
+  "paired_bootstrap_bindings": 840,
+  "coverage_rows": 156,
+  "scope": "aggregate table replay; excludes independent source recovery, encoder retraining and posterior interval resimulation"
+}

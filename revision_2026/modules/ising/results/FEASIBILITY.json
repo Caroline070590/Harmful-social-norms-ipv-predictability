@@ -1,0 +1,27 @@
+{
+  "status": "feasible_to_test_no_model_fitted",
+  "cohort_source": "revision_2026/04_mental_health/endes_education_attitudes_2026_10_21/data_local/attitude_cohort.csv.gz",
+  "cohort_sha256": "35e022e42c8c420eb17aab9c7d43ef4ad65443a805620e2a1ba027dbc9843828",
+  "women": 29102,
+  "PSUs": 3249,
+  "strata": 240,
+  "singleton_domain_strata": 18,
+  "any_endorsers": 433,
+  "observed_patterns": 23,
+  "zero_observed_patterns": 9,
+  "item_endorsers": {
+    "V744A": 230,
+    "V744B": 346,
+    "V744C": 199,
+    "V744D": 174,
+    "V744E": 199
+  },
+  "year_counts": {
+    "2023": 29068,
+    "2024": 34
+  },
+  "minimum_pair_11": 155,
+  "source_prior_gate": "revision_2026/04_mental_health/endes_education_attitudes_2026_10_21/SOURCE_GATE.json",
+  "national_variance": "unidentified singleton-stratum contribution; no national SE or pvalue",
+  "person_artifact_exported": false
+}

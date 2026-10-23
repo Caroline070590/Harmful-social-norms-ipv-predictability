@@ -1,93 +1,67 @@
-# When Are Harmful Social Norms Predictable? Reproducibility Package
+# Structural context and women’s endorsement of justifications for intimate partner violence
 
-This repository contains the data tables, analysis notebooks, extracted Python scripts, model outputs, and manuscript figures for the manuscript:
+Analysis code and public aggregate results for the current working manuscript by **Caroline L. Alves**, Department of Basic Neurosciences, University of Geneva, Switzerland.
 
-**When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence**
+The central question is whether structural context predicts both **women’s national average endorsement** of violence justifications and **the relative pattern across five situations**. The official-source analyses more consistently support gains in mean-endorsement prediction; added value for the relative scenario profile remains uncertain. The results do not establish causal effects, forecast future violence or demonstrate consistent graph-neural-network superiority.
 
+## Start with the current analysis
 
-## Repository structure
+The [`revision_2026/`](revision_2026/) directory supplies the updated, explicitly scoped workflow. The existing top-level notebooks, result folders and manuscript PDFs document the earlier analysis and are retained separately.
 
-```text
-data/
-  raw/                     Original public violence-attitudes CSV used as input.
-  processed/               Cleaned modeling tables and merged macro-structural panels.
-  external/                External indicators from Hofstede, UNDP/HDR, V-Dem/OWID, and Natural Earth.
-notebooks/                 Original analysis notebooks, renamed by analysis stage.
-scripts/                   Python scripts auto-extracted from the notebooks for easier inspection.
-figures/manuscript_figures/ Figure files mapped to manuscript figure panels.
-results/                   Model summaries, feature-importance outputs, macro-indicator analyses, and supplementary figures.
-docs/                      Data availability, declarations, file manifest, and response-letter draft.
-manuscript/                Submitted manuscript PDF and supporting PDFs from the analysis workflow.
-```
-
-## Main data files
-
-- `data/raw/violence_against_women_girls_original.csv`: original public survey compilation used as the source table.
-- `data/processed/clean_modeling_table.csv`: cleaned country-year-stratum-item modeling table used in Parts I-II.
-- `data/processed/MASTER_unwomen_HDR_VDEM_panel_CLEAN.csv`: merged country-year macro panel used for contextual analyses.
-- `data/external/Hofstede/hofstede_country_scores.csv`: Hofstede cultural-dimension country scores used in Part III.
-- `data/external/undp_hdr/HDR_composite_indices_complete_time_series.csv`: UNDP/HDR composite index data.
-- `data/external/vdem_owid/*.csv`: V-Dem/OWID democracy and women-political-empowerment indicators.
-
-## Reproducing the analyses
-
-1. Create the environment:
+From the repository root:
 
 ```bash
-conda env create -f environment.yml
-conda activate vaw-hssc-revision
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r revision_2026/requirements.txt
+python revision_2026/reproduce.py check
+python revision_2026/reproduce.py national --output reproduced/national
+python revision_2026/reproduce.py aggregates --output reproduced/aggregate_checks
 ```
 
-or install with pip:
+The check command validates the supplied inventory, Python syntax and declared replay entry points. The national command refits the fixed models from prepared official national inputs and checks predictions, scores and donor membership. Its bootstrap comparison replays saved country-error tables. The aggregates command checks supporting result calculations in temporary copies without retraining neural models. See [`docs/CURRENT_ANALYSES.md`](docs/CURRENT_ANALYSES.md) for the exact scope. These commands do not download respondent records or refit every model in the manuscript.
 
-```bash
-pip install -r requirements.txt
-```
+| Reproduction task | Scope |
+|---|---|
+| Current national mean/profile analysis | Official aggregate inputs and the documented public workflow in `revision_2026/`. |
+| Supporting aggregate comparisons | Public summaries and code identified in the current module inventory; saved-summary replay is distinguished from model fitting. |
+| Respondent-level model refitting | Requires original provider releases, source documentation and module-specific environments; individual records and private fitted states are not newly distributed here. |
+| Historical benchmark notebooks | Earlier interactive workflow under `notebooks/` and extracted scripts under `scripts/`; these are not the revised national-analysis entry point. |
 
-2. Run the notebooks in this approximate order:
+The primary official test contains **42 country-and-time targets**, predicted using earlier surveys from other countries. External evaluation contains **19 MICS targets**. These are **61 target evaluations in 58 distinct countries**, because three countries occur in both domains. Outcomes had been examined during earlier work, so the validation is retrospective and exploratory.
 
-```text
-01_data_explanation.ipynb
-02_country_record_maps.ipynb
-03_part1_full_model_RF_XGBoost_optimized.ipynb
-05_part1_model_agreement_heatmaps.ipynb
-06_part1_feature_importance_barplots.ipynb
-07_part2_demographics_only_xgboost.ipynb
-08_part2_barplots.ipynb
-09_part3_hofstede_macro_analysis.ipynb
-10_part3_external_hierarchy_analysis.ipynb
-11_country_clustering_macro_indicators.ipynb
-```
+## Why the historical Kaggle input is retained
 
-The `scripts/` folder contains auto-extracted `.py` versions of these notebooks to help editors/referees inspect the code outside Jupyter. The notebooks are retained as the authoritative executed workflow because figures and results were generated interactively from those analyses.
+The earlier workflow used the Kaggle-distributed *Violence Against Women & Girls* compilation. Each row is a published country/survey/sex/demographic-group/item **percentage**, not an individual woman or an observed violence event. The identified input permits reproduction and evaluation of the historical benchmark.
 
-## Notes for peer review
+Official estimates have authority for the revised source-based analyses. The complete comparison matched **11,187 nonmissing historical cells** to unique official DHS API records: **11,132 (99.51%)** agreed at one-decimal precision, and **55** differed, all in India or Turkey. Agreement does not establish questionnaire or population equivalence. The distributor’s extraction procedure and the original local download date remain unverified. Native age and employment categories are preserved rather than silently pooled.
 
-- The original public input data, cleaned modeling data, external indicator tables, and result summaries are included.
-- The package includes both raw/processed CSV files and model-output CSVs so reviewers can verify data transformations and downstream statistical outputs.
-- Some legacy exploratory notebooks are retained in `notebooks/legacy/` for transparency but are not required for reproducing the manuscript figures.
-- Duplicate `.ipynb_checkpoints` and redundant nested zip archives were intentionally removed from this organized repository.
+The historical repository already contains the compilation and processed aggregate tables. The current additions distinguish those existing assets from provider-retrieved respondent inputs. See [`docs/DATA_README.md`](docs/DATA_README.md) and [`docs/DATA_AVAILABILITY_STATEMENT.md`](docs/DATA_AVAILABILITY_STATEMENT.md) for provenance, access and reuse scope.
 
-## Citation
+## Current and historical materials
 
-If you use this repository, including the code, processed data, analysis scripts, figures, or reproducibility documentation, please cite the repository release:
+| Location | Purpose |
+|---|---|
+| `revision_2026/` | Current public code, aggregate inputs/results and scoped reproduction commands. |
+| `docs/CURRENT_ANALYSES.md` | Scientific analysis map and reproduction limits. |
+| `data/`, `results/`, `figures/` | Existing historical tables, outputs and artwork; earlier figure numbers do not identify current figures. |
+| `notebooks/`, `scripts/` | Earlier interactive analyses and extracted Python code, including legacy explorations. |
+| `manuscript/` | Historical submitted/supporting documents; these are not automatically the current focused draft. |
 
-**Alves, Caroline Lourenco. (2026). *Harmful Social Norms IPV Predictability* (v1.0.0). GitHub.**
-https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability
+Separate respondent studies supply individual-level checks and mental-health context. Their participants are not linked to the aggregate attitude samples. EEG and fMRI are outside the current focused paper.
 
-This repository corresponds to the manuscript:
+Top-level `requirements.txt` and `environment.yml` describe broad historical dependencies, not a pinned numerical environment for all current analyses. Use the current minimal requirements for the quick start and each module’s documented dependencies for additional fits.
 
-Alves, C. L. *When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence*. medRxiv preprint. Available at: https://www.medrxiv.org/content/10.64898/2026.01.25.26344795v1.full
+## Citation and status
 
-A machine-readable citation file is provided in [`CITATION.cff`](CITATION.cff).
+This is a working research-code repository, not a claim of journal acceptance or a new numbered software release. Machine-readable citation metadata are in [`CITATION.cff`](CITATION.cff).
 
+The earlier manuscript is:
 
-## License
+Alves, C. L. *When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence*. medRxiv, 2026. [Earlier preprint](https://www.medrxiv.org/content/10.64898/2026.01.25.26344795v1.full).
 
-This repository uses a mixed-license structure:
+The repository previously identified that historical package as v1.0.0, dated 16 June 2026. That metadata does not describe a new release of the revised manuscript. The current focused title appears at the top of this page.
 
-- Code, scripts, and computational notebooks are released under the MIT License.
-- Documentation, README files, manuscript-supporting text, and generated figures are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-- Data files are shared for transparency, peer review, and reproducibility. Reuse of third-party datasets remains subject to the terms and conditions of the original data providers, including the DHS-derived source dataset and external country-level indicator sources.
+## Reuse
 
-Please cite the associated preprint and this repository when reusing the code, documentation, figures, or processed materials.
+Earlier repository documentation declares MIT terms for code and computational notebooks and CC BY 4.0 for documentation and generated figures. Corresponding standalone license-text files are not presently included. These declarations do not relicense third-party datasets, dependencies, source documents or third-party artwork. Those materials retain their providers’ terms; public availability and aggregate format alone do not grant unrestricted reuse.

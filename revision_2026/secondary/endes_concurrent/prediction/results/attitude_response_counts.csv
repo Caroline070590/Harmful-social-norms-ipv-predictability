@@ -1,0 +1,17 @@
+variable,category,n,denominator,scope
+norm_score_0_5,0,10098,10267,unweighted observed linked analytical cohort
+norm_score_0_5,1,85,10267,unweighted observed linked analytical cohort
+norm_score_0_5,2,20,10267,unweighted observed linked analytical cohort
+norm_score_0_5,3,3,10267,unweighted observed linked analytical cohort
+norm_score_0_5,4,3,10267,unweighted observed linked analytical cohort
+norm_score_0_5,5,58,10267,unweighted observed linked analytical cohort
+att_goes_out,0,10180,10267,unweighted observed linked analytical cohort
+att_goes_out,1,87,10267,unweighted observed linked analytical cohort
+att_neglects_children,0,10124,10267,unweighted observed linked analytical cohort
+att_neglects_children,1,143,10267,unweighted observed linked analytical cohort
+att_argues,0,10194,10267,unweighted observed linked analytical cohort
+att_argues,1,73,10267,unweighted observed linked analytical cohort
+att_refuses_sex,0,10204,10267,unweighted observed linked analytical cohort
+att_refuses_sex,1,63,10267,unweighted observed linked analytical cohort
+att_burns_food,0,10197,10267,unweighted observed linked analytical cohort
+att_burns_food,1,70,10267,unweighted observed linked analytical cohort

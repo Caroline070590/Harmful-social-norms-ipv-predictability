@@ -1,0 +1,177 @@
+{
+  "status": "retrospective_exploratory_fixed_before_new_classifier_fits",
+  "source_study": "individual_replication_2026_10_22",
+  "source_cohort_sha256": "ade715a0b4b79f6e5174a02770648941ceae77b6a5ba62842723412a0fa93152",
+  "outcome": "Q52B always/sometimes (1/2) versus never (3)",
+  "women": 26602,
+  "countries": 39,
+  "donors_per_country": 100,
+  "cap_seed": 20261022,
+  "tie_seed": 20261022,
+  "random_graph_seed": 20261022,
+  "bootstrap_seed": 20261022,
+  "bootstrap_draws": 2000,
+  "neighbours": 10,
+  "distance_block_rows": 256,
+  "squared_distance_decimal_places": 12,
+  "categorical_valid_codes": {
+    "Q94": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "Q95": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      100,
+      420,
+      500,
+      740,
+      780,
+      820,
+      821,
+      822,
+      823,
+      9995
+    ],
+    "Q93A": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "URBRUR": [
+      1,
+      2,
+      3
+    ],
+    "Q20": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "Q21A": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "Q21B": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "categorical_variables": [
+    "Q94",
+    "Q95",
+    "Q93A",
+    "URBRUR",
+    "Q20",
+    "Q21A",
+    "Q21B"
+  ],
+  "numeric_variables": [
+    "age",
+    "age_squared",
+    "interview_year"
+  ],
+  "models": [
+    "P_cap",
+    "D1_cap",
+    "MLP",
+    "G_real",
+    "G_random",
+    "G_self"
+  ],
+  "neural_arms": [
+    "MLP",
+    "G_real",
+    "G_random",
+    "G_self"
+  ],
+  "initializations": [
+    101,
+    202,
+    303
+  ],
+  "epochs": 200,
+  "hidden_graph": 8,
+  "hidden_mlp": 16,
+  "learning_rate": 0.01,
+  "penalty_lambda": 0.01,
+  "logistic_maxiter": 2000,
+  "logistic_ftol": 1e-12,
+  "logistic_gtol": 1e-08,
+  "logistic_max_gradient": 1e-05,
+  "decision_threshold": 0.5,
+  "contrasts": [
+    [
+      "G_real",
+      "D1_cap"
+    ],
+    [
+      "G_real",
+      "MLP"
+    ],
+    [
+      "G_real",
+      "G_random"
+    ],
+    [
+      "G_real",
+      "G_self"
+    ],
+    [
+      "MLP",
+      "D1_cap"
+    ]
+  ],
+  "manuscript_integrated": false,
+  "new_downloads": false
+}

@@ -13,3 +13,5 @@ jupyter
 notebook
 nbformat
 openpyxl
+requests
+kagglehub

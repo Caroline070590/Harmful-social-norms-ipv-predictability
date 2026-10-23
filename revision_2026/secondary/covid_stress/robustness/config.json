@@ -1,0 +1,11 @@
+{
+  "status": "post-pilot exploratory robustness; not a fresh confirmatory evaluation",
+  "thresholds": [
+    50,
+    100,
+    200
+  ],
+  "additional_cohort": "minimum100 excluding Turkey",
+  "models": "training mean, ridge10, HGB fixed100/7leaves, PCA3+ridge10; no additional CEBRA tuning",
+  "independence": "country-held-out, convenience sample; country contexts eight or fewer"
+}

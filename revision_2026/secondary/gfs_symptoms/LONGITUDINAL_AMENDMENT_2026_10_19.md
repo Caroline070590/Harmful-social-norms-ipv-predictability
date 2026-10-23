@@ -1,0 +1,17 @@
+# Exploratory follow-up analysis amendment
+
+Recorded 19 October 2026 before fitting the models below. This is a post-primary exploratory extension after viewing the completed baseline findings and paired descriptive results. It is not a preregistration, independent replication or a replacement of the original baseline protocol.
+
+Question: among women in the nine-country cohort with observed follow-up, is baseline reported COVID bereavement associated with follow-up PHQ-4 conditional on baseline symptoms and measured covariates?
+
+Primary new outcome: continuous follow-up PHQ-4 (0–12). Exposure: reported death of family member/close friend from COVID at baseline. Adjustment: baseline PHQ-4, country fixed effects, age/decade and its square, education, employment, marital status, income difficulty, urbanicity and religious attendance. Complete cases; report the actual analysis sample, dates, design degrees of freedom, coefficient in PHQ-4 points, Taylor-linearized SE, t-based 95% CI and p value. No test of a historical national-norm coefficient with only nine country exposures.
+
+Use released positive longitudinal weights and valid baseline PSU/strata, constructing the full adult design before subsetting to women. Normalize full adult longitudinal weights to equal total mass per country for pooled analyses, consistent with the earlier pooling target. Primary inference is conditional on these nine countries. Retain explicit lonely-PSU adjustment and record design counts.
+
+Fixed sensitivities: add interview interval in years; replace linear baseline PHQ-4 adjustment with its categorical 0–12 score; restrict ages to 18–49. These are sensitivity estimates, not separate discoveries. No variable or subgroup selection based on results, and no p-value-driven model choice.
+
+Retention: describe by country the counts of baseline-eligible women with follow-up symptoms and valid longitudinal weight, reproducing the existing paired count before exclusions for model covariates. Compare baseline age, PHQ-4 and bereavement prevalence among observed/weighted follow-up participants versus others using baseline survey weights and full-design subsets. Report missing denominators. Also estimate the adjusted association of bereavement with observed/weighted follow-up retention on the baseline complete-case cohort; use baseline weights. That model diagnoses selection on measured characteristics, not the absence of attrition bias. Longitudinal weights already address aspects of follow-up selection; do not multiply in an additional attrition weight without documenting its target and overlap with the released weights.
+
+Interpretation: follow-up symptoms are measured after baseline symptoms, but bereavement dates and pre-bereavement symptoms are unavailable. Baseline symptom adjustment may condition on a consequence of prior bereavement; the coefficient describes residual follow-up differences, not the total effect of bereavement. Unmeasured confounding, follow-up selection and cross-language measurement equivalence remain limitations. Negative or inconclusive estimates must be reported. Do not call symptom screens diagnoses or infer personal beliefs/IPV from national attitude summaries.
+
+Outputs go in `longitudinal_extension/`, separate from completed baseline tables. Source and amendment hashes, R environment and warnings are recorded. No original baseline analysis output is overwritten.

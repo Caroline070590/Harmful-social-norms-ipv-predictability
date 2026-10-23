@@ -1,0 +1,13 @@
+{
+  "python": "3.9.7",
+  "numpy": "1.26.4",
+  "pandas": "2.1.4",
+  "scipy": "1.13.1",
+  "sklearn": "1.6.1",
+  "torch": "2.8.0+cu128",
+  "joblib": "1.4.2",
+  "cpu_threads": 1,
+  "platform": "Linux-5.15.0-139-generic-x86_64-with-glibc2.31",
+  "no_new_installation": true,
+  "no_download": true
+}

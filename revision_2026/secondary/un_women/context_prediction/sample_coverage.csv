@@ -1,0 +1,14 @@
+country,released_women,missing_symptoms,complete_symptoms_missing_predictors,otherwise_complete_invalid_weight,complete_women,national_context,all_contexts
+Albania,1210,21,2,0,1187,True,True
+Bangladesh,1242,0,0,0,1242,True,True
+Cameroon,1226,1226,0,0,0,True,True
+Colombia,1209,42,5,0,1162,True,True
+Cote d'Ivoire/Ivory Coast,1325,20,7,0,1298,True,True
+Jordan,1204,6,1,0,1197,True,False
+Kenya,1224,1224,0,0,0,True,True
+Kyrgyz Republic,1201,22,2,0,1177,True,False
+Morocco,1214,32,3,0,1179,True,True
+Nigeria,1482,25,1,0,1456,True,True
+Paraguay,1210,73,6,0,1131,False,False
+Thailand,1202,1202,0,0,0,False,False
+Ukraine,1205,1205,0,0,0,True,False

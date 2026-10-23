@@ -6,6 +6,8 @@
 
 # %% Cell 0
 # hofstede_vs_violence_jointplots.py
+from __future__ import annotations
+
 import re
 from pathlib import Path
 from typing import Optional, Tuple, Set
@@ -336,8 +338,6 @@ if __name__ == "__main__":
 #   - TOP_union_part2_joint_bestdim.(png/pdf)
 #   - merge_audit_*.csv
 # ------------------------------------------------------------
-
-from __future__ import annotations
 
 import re
 from pathlib import Path
@@ -803,8 +803,6 @@ if __name__ == "__main__":
 #   D) Avoid selection bias + robustness checks: all-countries baseline, top-performer subset flagged
 #      as exploratory, and stratification by data size (n_points) + weighted correlations.
 # ------------------------------------------------------------
-
-from __future__ import annotations
 
 import re
 from pathlib import Path
@@ -1742,8 +1740,6 @@ if __name__ == "__main__":
 #   - FIX 1: Deduplicate Hofstede by iso3 (prevents many-to-many merge expansion)
 #   - FIX 2: Audit table built from merged rows (always length-consistent)
 # ------------------------------------------------------------
-
-from __future__ import annotations
 
 import re
 from pathlib import Path

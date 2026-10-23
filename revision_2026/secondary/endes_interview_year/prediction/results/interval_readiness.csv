@@ -1,0 +1,5 @@
+domain,women,PSUs,intervals_available,reason
+all_2024,9847,3072,True,fixed count thresholds passed
+new_psu_2024,3250,1025,True,fixed count thresholds passed
+no_endorsement,9725,3065,True,fixed count thresholds passed
+any_endorsement,122,111,True,fixed count thresholds passed

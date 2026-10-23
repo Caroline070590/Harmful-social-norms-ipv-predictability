@@ -533,8 +533,6 @@ plt.show()
 #   pip install numpy pandas matplotlib
 # ------------------------------------------------------------
 
-from __future__ import annotations
-
 from pathlib import Path
 import numpy as np
 import pandas as pd
@@ -899,7 +897,6 @@ if __name__ == "__main__":
 #   pip install numpy pandas matplotlib
 # ------------------------------------------------------------
 
-from __future__ import annotations
 from pathlib import Path
 import numpy as np
 import pandas as pd
@@ -1202,8 +1199,6 @@ if __name__ == "__main__":
 # Dependencies:
 #   pip install pandas numpy matplotlib pycountry
 # ------------------------------------------------------------
-
-from __future__ import annotations
 
 from pathlib import Path
 import numpy as np

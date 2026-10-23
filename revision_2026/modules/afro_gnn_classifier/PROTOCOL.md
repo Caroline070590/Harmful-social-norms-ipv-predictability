@@ -1,0 +1,55 @@
+# Bounded inductive graph classifier protocol
+
+22 October 2026. This fixed retrospective exploratory design was reviewed before new optimization. Root approved the donor cap and fixed controls; its exact code/input hashes are recorded separately in FREEZE.json. The author requested a separate GNN classifier for the completed Afrobarometer approval/rejection task. Earlier logistic outcomes and this sample's outcomes have already been examined: the extension will be labelled retrospective exploratory. No manuscript integration is part of this task.
+
+## Outcome, source and held-out evaluation
+
+Reuse only the checked, retained cohort from `individual_replication_2026_10_22/`: 26,602 adult women in 39 countries. Preserve its source recodes, target (Q52B always/sometimes approval versus never), native education/religion/employment/residence and three nonviolence personal gender-role beliefs. Missing/unknown outcome responses remain excluded. No new download, country feature, violence-exposure outcome, five-scenario profile, mental-health or neural linkage is introduced.
+
+Leave each entire country out once. Every eligible woman in that country is evaluated. No held-out-country woman, label, predictor moment or graph node contributes to fitting. To bound computation, **select 100 donor women per country, without using outcomes**, using one fixed country-stratified sample drawn from the complete eligible cohort with seed 20261022. The same preselected donor sample is reused whenever that country is a donor; all of its women are omitted when it is the target. Each fold therefore trains on 3,800 women, while all 26,602 target women receive one out-of-country prediction. This training cap is declared before neural performance and limits conclusions about full-data neural performance. It will not be changed after scores are inspected.
+
+Within each selected donor country normalize the documented household-selection weights to sum one, then give each donor country equal total weight. Use the same capped donors, weights and targets for the new logistic and neural comparisons. The previously completed uncapped D1 logistic predictions can be displayed as a **separate, unmatched full-donor reference**, without overwriting or using them to select this architecture.
+
+## Predictor-only graph and train-only transformations
+
+Primary model features are exactly the prior D1 family: age, age squared, actual interview year, native categorical education, religion, employment and residence, plus Q20/Q21A/Q21B gender-role categories. Use the frozen source-defined vocabulary, reference-coded indicators and explicit missing indicators from the completed D1 model. Continuous missingness, weighted means/scales use capped donor women only. No country ID, respondent ID, target response or survey weight is an edge or node predictor.
+
+Graph distance uses a separate **full-one-hot representation** for each native categorical variable (including a missing category), avoiding arbitrary distances caused by omitting a reference category. Divide each categorical block by sqrt(2), so any mismatch contributes one squared-distance unit. Concatenate donor-standardized continuous features and their missing indicators. This fixed metric is not learned or tuned on outcomes; it is an engineering similarity definition, not proof of psychological equivalence. Age and age-squared are both retained because they belong to the declared D1 family.
+
+For each training woman, find her **10 nearest other capped donor women**. For a held-out woman, query only the capped donor women; there are no held-out-to-held-out edges, held-out nodes in the training graph or target labels in aggregation. Use chunked exact squared-Euclidean distances, with at most 256 query rows per block and a deterministic outcome-blind tie priority derived from seed 20261022 and stable source row keys. Round squared distances to 12 decimal places before applying the deterministic tie order, fixing numerically negligible tie differences. Discard distance blocks after selecting neighbours; never allocate or retain the full all-cohort distance matrix.
+
+Messages are the unweighted arithmetic mean of the neighbours' transformed D1 predictor vectors. Edges represent **constructed predictor similarity**, not observed social contacts, causal influence, anatomy or country relations. Query nodes do not update donor features. A one-message model can therefore precompute these raw-feature means while retaining a learned graph classifier.
+
+## Fixed models and controls
+
+New capped comparisons are:
+
+1. **P-cap:** weighted capped-donor approval rate.
+2. **D1-cap:** the same fixed weighted-mean logistic objective as before, with L2 coefficient penalty 0.01/2, unpenalized intercept, and donor-only D1 preprocessing. Refit on the capped donors so the primary reference is matched.
+3. **MLP:** own D1 predictors only, linear D to 16, ReLU, linear 16 to 1. This non-graph control has **16 more allocated parameters** than the graph models (16D+33 versus 16D+17), preventing a larger graph parameter budget from explaining a favorable comparison. It is approximately parameter-matched rather than falsely described as identical in functional capacity.
+4. **G-real:** one-message mean GraphSAGE: concatenate own D1 predictors and the mean D1 predictors of nearest donor neighbours, linear 2D to 8, ReLU, linear 8 to 1. Apply sigmoid externally.
+5. **G-random:** exactly the same architecture and own inputs, but replace each neighbour set with 10 uniformly sampled distinct capped donors, excluding self for training nodes. Use a single fixed outcome-blind graph-control realization. It preserves outgoing neighbour count, not degrees or the real distance distribution, and is not a permutation significance test.
+
+6. **G-self:** exactly the G-real architecture, with each neighbour-message vector replaced by its own D1 vector, giving concatenated `[x, x]`. This controls the allocated graph architecture without neighbour information. Its two input branches are redundant rather than an independent information source.
+
+The optional displayed seventh reference is the **unchanged uncapped D1** from the completed individual study. It is not a matched comparator and cannot supply training probabilities, graph edges or fit selection.
+
+Train each neural arm under seeds **101, 202, 303**, averaging probabilities rather than selecting restarts. Use deterministic CPU float64, one thread, full-batch Adam, learning rate 0.01, no optimizer weight decay, exactly **200 updates**. Objective: donor-weighted-mean BCEWithLogits plus explicit 0.01/2 times squared **weight matrices/readout weights**, excluding biases. Initialize weights from the seeded normal variance-scaled distribution, hidden biases zero, and the output intercept at the capped donor prevalence logit. No dropout, early stopping, class balancing, oversampling, decision-threshold tuning or architecture search.
+
+This is **468 neural fits and 39 new logistic fits**, with three fixed initializations per neural arm and the same 39 country targets. Fixed updates do not certify convergence. Save objective/BCE/penalty and gradient/finite diagnostics at initialization, 100 and 200 updates; record exact parameter counts and every restart, including unfavorable runs. Initializations and graphs are not independent samples.
+
+## Scores, uncertainty and interpretation
+
+Primary score remains the equal-country mean of household-weighted target Brier losses. Retain weighted log loss, within-country ROC-AUC/AP, mean probability bias, and TP/TN/FP/FN/sensitivity/specificity/ordinary and balanced accuracy at the **fixed 0.5 threshold (positive if p >= 0.5)**. Report raw integer TP/TN/FP/FN separately from household-weighted operating rates (positive-class weight denominator for sensitivity, negative-class weight denominator for specificity; weighted total for accuracy). ROC-AUC gives tied positive/negative scores half credit; weighted AP integrates step precision at each distinct score with all tied scores entering together. Also retain ordinary unweighted operating rates and clearly labelled macro-country means. Class counts and the training-prevalence reference remain visible. Do not infer utility from accuracy alone or interpret scores against EEG/fMRI as modality superiority.
+
+Prespecified paired contrasts: G-real minus D1-cap, MLP, G-random and G-self; MLP minus D1-cap. Retain Brier/log-loss differences for every country and 2,000 paired country-bootstrap percentile intervals, seed 20261022, conditioning on saved fitted predictions. They do not include model refitting, cap-selection, construction-metric, survey-design or population uncertainty. The uncapped D1 reference is contextual, not a new primary contrast. No improvement, interpretation guarantee or causal mechanism is promised.
+
+## Storage, runtime and verification gates
+
+Before any new neural or capped-logistic optimization, freeze the final protocol/config/producer/core/source inputs and selection/graph rules. Preparation may inspect predictor-only input schemas and benchmark graph construction without target optimization. The initial compute budget is 468 small neural fits/39 logistic fits, one CPU thread, with an expected order of minutes to tens of minutes. If resources prevent completion, stop and record the exact pending subset; do not adapt sample size, epochs, seeds or architecture to performance. Chunk distance storage is below 64MB; retain only sparse neighbour indices and compact matrices locally, not dense distances.
+
+All individual source/cap memberships, graphs, transforms, fit states and held-out probabilities stay in excluded `data_local/`. Public outputs contain code, aggregate metrics/contrasts, figures and scoped QC only. Root/source auditor will independently check source labels, exact folds/caps, train-only transformations, full-one-hot metric, real/control neighbours, stored neural forward/objective values and logistic solutions, plus metrics/resampling. Exactly one prespecified neural fit (Angola held out, G-real, seed101) will be independently coded and optimized; no replay of all neural training is implied. Existing analyses and manuscript remain untouched until explicit post-QC integration authorization.
+
+## Implementation and independent-replay decisions
+
+The final protocol will freeze exact files and input hashes after predictor-only preparation, before any optimization. Neural initialization constructs hidden then readout layers and overwrites weights in that order using a separately seeded Torch generator: independent normal weights with SD 1/sqrt(fan-in), zero hidden biases, output bias equal to the capped weighted-prevalence logit. L2 penalizes only hidden/readout weight arrays. Save private fold matrices/indices/transforms and each fit's four weight/bias arrays, logits and trace. Source cohort row keys remain local. A prespecified independent optimization replay is Angola/G-real/seed101. The four neural arms total468 fits plus39 capped logistic fits.

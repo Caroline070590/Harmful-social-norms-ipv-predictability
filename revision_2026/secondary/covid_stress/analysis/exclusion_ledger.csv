@@ -1,0 +1,7 @@
+step,before,retained,excluded
+female respondents in author-cleaned dataset,125306,90400,34906
+age 18–100,90400,90397,3
+all 10 PSS items present,90397,81278,9119
+recorded within documented collection window,81278,77561,3717
+exact or explicitly aliased legacy country match,77561,2962,74599
+at least 100 eligible women per country; feasibility threshold,2962,2510,452

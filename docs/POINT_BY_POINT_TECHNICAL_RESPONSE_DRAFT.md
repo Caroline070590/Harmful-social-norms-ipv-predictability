@@ -1,45 +1,13 @@
-# Point-by-point response draft for the technical check
+# Historical technical-response draft — superseded
 
-**Submission ID:** dcd27727-2fdc-4cce-a704-6430157a45d4  
-**Manuscript title:** When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence
+The earlier document at this path was a draft response for a previous submission under the title *When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence*. It is not a response letter for the current focused manuscript and is not current data-availability or ethics guidance.
 
-Dear Editor,
+The original draft remains in [the earlier repository version](https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability/blob/76847368cc0f3d0df91eaa1f907f5bc5133de7a2/docs/POINT_BY_POINT_TECHNICAL_RESPONSE_DRAFT.md). Its placeholders, submission-specific statements and earlier reproduction claims have not been carried forward as current assertions.
 
-Thank you for the careful technical check of the manuscript. I have revised the submission files and supporting documentation as requested. My responses to each point are provided below.
+For the current working analysis, use:
 
-## 1. Request for data and supporting documentation
+- [Current analyses and reproduction scope](CURRENT_ANALYSES.md).
+- [Data and code availability](DATA_AVAILABILITY_STATEMENT.md).
+- [Secondary-analysis declarations](ETHICS_INFORMED_CONSENT_AUTHOR_CONTRIBUTIONS.md).
 
-I have organized and made available the complete reproducibility package for the manuscript. The repository includes the original public input dataset, cleaned and refined modeling tables, external macro-structural indicator files, variable documentation, analysis notebooks, Python scripts, model outputs, statistical result tables, and generated figures. The repository also includes a README file describing the folder structure and the order in which the analyses can be reproduced.
-
-Repository link: **[insert GitHub repository URL]**
-
-## 2. Data Availability statement in the manuscript and submission system
-
-I have added the Data Availability statement to the manuscript and will enter the same statement under the Declarations section of the submission system.
-
-Suggested statement:
-
-All data and code necessary to reproduce the analyses reported in this manuscript are provided in the accompanying public repository. The repository includes: (i) the original public violence-against-women/girls attitudes dataset used as the raw input table; (ii) the cleaned modeling table used for the country-resolved supervised regression analyses; (iii) processed and merged country-level macro-structural indicator tables; (iv) external indicator files from Hofstede cultural dimensions, UNDP Human Development Reports, and V-Dem/Our World in Data; (v) all analysis notebooks and Python scripts used for preprocessing, model fitting, feature attribution, statistical association analyses, and figure generation; and (vi) the generated result tables and manuscript figures.
-
-The repository is publicly accessible at: **[insert GitHub repository URL]**.  
-A preprint version of the manuscript is available at: **https://www.medrxiv.org/content/10.64898/2026.01.25.26344795v1.full**.
-
-No restricted or personally identifiable individual-level data are included. The analyses use publicly available aggregated country-year-stratum prevalence estimates and public country-level contextual indicators.
-
-## 3. Ethical Approval and Informed Consent statements
-
-I have added two separate statements after the References section, as requested:
-
-**Ethical Approval**  
-This article does not contain any studies with human participants performed by any of the authors.
-
-**Informed Consent**  
-This article does not contain any studies with human participants performed by any of the authors.
-
-## 4. Author Contributions section
-
-I have added an Author Contributions section in the submission system. Because the manuscript is single-authored, the statement specifies that the author conceptualized the study, curated and harmonized the datasets, developed the analytical workflow, performed the machine-learning and statistical analyses, generated the figures, interpreted the results, and wrote and revised the manuscript.
-
-Kind regards,
-
-[Name only in cover letter, not in anonymized response files]
+No current response letter is supplied here. Repository maintenance does not constitute a journal submission, transfer or communication with an editor.

@@ -1,0 +1,728 @@
+{
+  "scope": "Current BMC supporting models: original readable scientific code plus minimal public aggregate replay closures. No source respondent records, scientific refitting or neural training performed. All original selected bytes preserved.",
+  "modules": [
+    {
+      "id": "afro_gnn_classifier",
+      "current_supplementary_section": "S30",
+      "replay_args": [],
+      "dependencies": [
+        "numpy",
+        "pandas"
+      ],
+      "scope": "Original classifier code and country aggregate outputs, with a new standalone public-table replay adapter. Full fitting requires provider-acquired Afrobarometer and upstream prepared records.",
+      "full_model_replay_self_contained": false,
+      "upstream_dependencies": "individual_replication_2026_10_22 and provider-acquired Afrobarometer Round9 source; private prepared matrices/states/probabilities excluded.",
+      "source_archive": "revision_2026/05_transportability/afrobarometer_gnn_classification_2026_10_22/Afrobarometer_GNN_classification_code_aggregate_2026_10_22.zip",
+      "source_archive_sha256": "cc9b45f96728053b97d5ef618b4fed59d83ddfb5d6d52e291293f0eae0a061c8",
+      "included_source_files": {
+        "ORIGINAL_README.md": {
+          "archive_member": "README.md",
+          "sha256": "f0ef94187a68e50d42ea0ac8f14ba1c2b56b8906d610a5aac3a17cac0faf9bbb",
+          "bytes": 3600
+        },
+        "PROTOCOL.md": {
+          "archive_member": "PROTOCOL.md",
+          "sha256": "43b7b25b8eaf56aecf374e9736eaa7d2e302d6db7beb9d2fb153e421c7eb7e85",
+          "bytes": 11048
+        },
+        "CONFIG.json": {
+          "archive_member": "CONFIG.json",
+          "sha256": "d1f91908c75684bef9ffd046b6bbf3883af84697805d16a383b41f418fcdc6ff",
+          "bytes": 2473
+        },
+        "ENVIRONMENT.json": {
+          "archive_member": "ENVIRONMENT.json",
+          "sha256": "494219661e8f0b791a43c4bf9d4be36d043bdbfc81b6cc25fe528bf56df575c1",
+          "bytes": 262
+        },
+        "core.py": {
+          "archive_member": "core.py",
+          "sha256": "c4ef687eae5aa1e92a2d3ea737fd3a069ab3537861062ce83add9bbfd2b8e25c",
+          "bytes": 5014
+        },
+        "run_analysis.py": {
+          "archive_member": "run_analysis.py",
+          "sha256": "574a3276ed12a074a12fd4473ffd513039d7d970e5b37d87248f9358406fffe2",
+          "bytes": 24907
+        },
+        "RESULTS.md": {
+          "archive_member": "RESULTS.md",
+          "sha256": "01b072cb86397274d220cbf986a88d0df27dc674ce35e270ff235ad163939aaf",
+          "bytes": 9723
+        },
+        "results/country_metrics.csv": {
+          "archive_member": "results/country_metrics.csv",
+          "sha256": "eca856ad61cf5d60020bf377a26f2261882dae6759442ac6baea7854ba72e0cb",
+          "bytes": 65253
+        },
+        "results/model_summary.csv": {
+          "archive_member": "results/model_summary.csv",
+          "sha256": "e0055d5c19ee4bd83f9c0b2f6a5b94056fc34f77a49aeb78b7172daa7c5547e3",
+          "bytes": 2324
+        },
+        "results/initialization_metrics.csv": {
+          "archive_member": "results/initialization_metrics.csv",
+          "sha256": "03cd954b2054dcdc7cb7e688a33336a2d602106abba46594e824429a15dd2165",
+          "bytes": 164882
+        },
+        "results/paired_summary.csv": {
+          "archive_member": "results/paired_summary.csv",
+          "sha256": "4235be00b04685d39929d640a94727718213034747cd89fd2f950ceb272f4413",
+          "bytes": 1692
+        },
+        "results/paired_country_differences.csv": {
+          "archive_member": "results/paired_country_differences.csv",
+          "sha256": "365a8d427623f0cf07e87b52a62f4dba1cecc17c66aed6146a03d18dc2eb09a8",
+          "bytes": 18232
+        },
+        "results/class_summary.csv": {
+          "archive_member": "results/class_summary.csv",
+          "sha256": "960f7a72db73a98507cedf35ecab7dd3a304ebeb50e178e44998c38974bd0e05",
+          "bytes": 843
+        },
+        "results/fold_inventory.csv": {
+          "archive_member": "results/fold_inventory.csv",
+          "sha256": "eb60bbb10ffb23bac57c1c934492053e7193acd4a2a4a80e09f6e532726a024c",
+          "bytes": 1969
+        }
+      },
+      "original_file_bytes": 312222,
+      "portable_replay_exit_code": null,
+      "folder": "modules/afro_gnn_classifier",
+      "replay_script": "replay_aggregates.py",
+      "replay_scope": "Public country-level model means, paired differences and conditional 2000-draw bootstrap intervals. No respondent reconstruction, fitting or neural retraining."
+    },
+    {
+      "id": "reported_ipv",
+      "current_supplementary_section": "S31",
+      "replay_args": [
+        "--check"
+      ],
+      "dependencies": [],
+      "scope": "Public reported preceding-year IPV classification score/calibration arithmetic, saved conditional contrasts and fold diagnostics. No participant-level fitting or prospective violence prediction.",
+      "full_model_replay_self_contained": false,
+      "upstream_dependencies": "endes_public and endes_temporal_replication with authorized provider source files; private linked rows/graphs/model states excluded.",
+      "source_archive": "revision_2026/04_mental_health/endes_ipv_graph_2026_10_22/ENDES_reported_IPV_graph_code_aggregate_2026_10_22.zip",
+      "source_archive_sha256": "19066947fa9e369bfb90ecad16c02fa524b0d364f3c9bc652e9dfd644360b6f0",
+      "included_source_files": {
+        "CONFIG.json": {
+          "archive_member": "CONFIG.json",
+          "sha256": "751f752a4395059e466969d874daf1b4c0c12ea25615a9027415386123dd060c",
+          "bytes": 1627
+        },
+        "ENVIRONMENT.json": {
+          "archive_member": "ENVIRONMENT.json",
+          "sha256": "d469194aeaf30b2471a076cd0dcbc442d25d260907eee44fddbc62210cf77f16",
+          "bytes": 294
+        },
+        "PROTOCOL.md": {
+          "archive_member": "PROTOCOL.md",
+          "sha256": "6284e79c254222842eca01fa00da09918d9f5d3b6c673c8e0d435d7666b6d095",
+          "bytes": 9115
+        },
+        "ORIGINAL_README.md": {
+          "archive_member": "README.md",
+          "sha256": "38501cd88b42079f03bee61ab79ee24e19a48c515bd6941b99c476d412508fb6",
+          "bytes": 2531
+        },
+        "RESULTS.md": {
+          "archive_member": "RESULTS.md",
+          "sha256": "305f6fc5ca956bf9f8186cf96e972558c85704700e09c7203427b046cde231b2",
+          "bytes": 3798
+        },
+        "core.py": {
+          "archive_member": "core.py",
+          "sha256": "3d656c465cff04633e08438d65b4428e94121da5854f945ff6e6ebd9bb5d1e6b",
+          "bytes": 3592
+        },
+        "replay_aggregates.py": {
+          "archive_member": "replay_aggregates.py",
+          "sha256": "23c2f178bb116ec404ba9a132efad2ad8d52f361b0abc344d355726aa36d0937",
+          "bytes": 21743
+        },
+        "results/bootstrap_draws.csv.gz": {
+          "archive_member": "results/bootstrap_draws.csv.gz",
+          "sha256": "cad227d353d5095f79fa262c1ce50ec21bcef4fe7ffda78cfbef08c4010ba885",
+          "bytes": 3359660
+        },
+        "results/calibration.csv": {
+          "archive_member": "results/calibration.csv",
+          "sha256": "4bbaeb9655b1518a045f6863fcee72350cb423e8cd3e8e0d604630c499554f99",
+          "bytes": 14873
+        },
+        "results/class_counts.csv": {
+          "archive_member": "results/class_counts.csv",
+          "sha256": "03b4da737c295f935dd735adc18facdb1e193c4f277a15c8e905f82180306763",
+          "bytes": 310
+        },
+        "results/fold_inventory.csv": {
+          "archive_member": "results/fold_inventory.csv",
+          "sha256": "670074c0de71faf008ce2e73fdfc10d0033d6ce6a20b4f67eb03bd93934b618f",
+          "bytes": 484
+        },
+        "results/fold_metrics.csv": {
+          "archive_member": "results/fold_metrics.csv",
+          "sha256": "426fcd73797791c35317965f0368b9750a379d8c3808e1135b8c1dd1d66a22c8",
+          "bytes": 11234
+        },
+        "results/initialization_metrics.csv": {
+          "archive_member": "results/initialization_metrics.csv",
+          "sha256": "3629c4f157ed3039b1d6c447be9993ab8836f764beacaacff9ac9e3c33acbf8a",
+          "bytes": 10779
+        },
+        "results/metrics.csv": {
+          "archive_member": "results/metrics.csv",
+          "sha256": "627511bfdaa94c7837a82742283453b908844814c005ef5d1dc52e1b281ed741",
+          "bytes": 6573
+        },
+        "results/paired_comparisons.csv": {
+          "archive_member": "results/paired_comparisons.csv",
+          "sha256": "ae9a0ff3c80e69f97d8dc131b9df3f73efc81d5f8dd752f91ae6c31c98103021",
+          "bytes": 28948
+        },
+        "run_analysis.py": {
+          "archive_member": "run_analysis.py",
+          "sha256": "a4a7aad90b4433dcee3deb586d6f505422f62b22b4ea197f3e2ff68c0fe0620d",
+          "bytes": 25500
+        }
+      },
+      "original_file_bytes": 3501061,
+      "portable_replay_exit_code": 0,
+      "portable_replay_last_output": "{\"source_preparation_and_model_fitting_replayed\": false, \"status\": \"passed\", \"verified_rows\": {\"bootstrap_draws\": 264000, \"calibration\": 330, \"class_counts\": 4, \"fold_inventory\": 6, \"fold_metrics\": 55, \"initialization_metrics\": 54, \"metrics\": 33, \"paired_comparisons\": 132}}\n",
+      "folder": "modules/reported_ipv",
+      "replay_script": "replay_aggregates.py",
+      "replay_scope": "Public reported preceding-year IPV classification score/calibration arithmetic, saved conditional contrasts and fold diagnostics. No participant-level fitting or prospective violence prediction."
+    },
+    {
+      "id": "ising",
+      "current_supplementary_section": "S33",
+      "replay_args": [],
+      "dependencies": [
+        "numpy",
+        "pandas"
+      ],
+      "scope": "Public joint probabilities, score decomposition, conditional saved-bootstrap ranges and report bindings. No respondent linkage, model optimization or survey-design replay.",
+      "full_model_replay_self_contained": false,
+      "upstream_dependencies": "ENDES2023 individual/women module linkage and folds in endes_public; private cohort/states excluded.",
+      "source_archive": "revision_2026/04_mental_health/endes_ising_2026_10_22/ENDES_Ising_justification_code_aggregate_2026_10_22.zip",
+      "source_archive_sha256": "a24e26617ac146f7e93096d90ddb96a1e4ad1662c4769c48346aad57a658b3f0",
+      "included_source_files": {
+        "CONFIG.json": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/CONFIG.json",
+          "sha256": "4c243583c8a385011370da297b1af7b5f44dbdc701ca7f8bcfca2540db376a8d",
+          "bytes": 1381
+        },
+        "NUMBER_TRACEABILITY.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/NUMBER_TRACEABILITY.csv",
+          "sha256": "ef700ebef34ba1f1ab1004155ced3229836d0b19ff686e863b3d6e2ac1477a3c",
+          "bytes": 3553
+        },
+        "PROTOCOL.md": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/PROTOCOL.md",
+          "sha256": "561f17e518207d4fb47b90972671cc1e70324c17c7932e773c569be9f8a017ad",
+          "bytes": 5271
+        },
+        "ORIGINAL_README.md": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/README.md",
+          "sha256": "8518b5ca5ebb483d20e5f7309d3196437c3200cb9f56c1954703a0b25f1ef648",
+          "bytes": 4555
+        },
+        "RESULTS.md": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/RESULTS.md",
+          "sha256": "6bb0eaa6c9f27e4cee43069128ad7834b9d6ef89959b5c7fcd300a658bd48ac0",
+          "bytes": 9478
+        },
+        "aggregate_replay.py": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/aggregate_replay.py",
+          "sha256": "5399b87d99339bbca1f18ed5a9466216c7a06d1360fa7e7767776bfcc79d4e46",
+          "bytes": 3579
+        },
+        "results/FEASIBILITY.json": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/FEASIBILITY.json",
+          "sha256": "a4552bfffc6c547637e497b3042ff294ebfd1abdfb371c7ff22dbe8e8331dd36",
+          "bytes": 872
+        },
+        "results/FIT_SUMMARY.json": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/FIT_SUMMARY.json",
+          "sha256": "0bee6682721db703e8a6920af17df6109817b63cfd3580ae88a75e4f9b0aa8c2",
+          "bytes": 51435
+        },
+        "results/full_pattern_probabilities_equal_person_common_acceptance.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/full_pattern_probabilities_equal_person_common_acceptance.csv",
+          "sha256": "9baa1edf1321a05227f20a2690ddfe020623dc73e68475439d6e2ad32d4e5c4b",
+          "bytes": 1826
+        },
+        "results/full_pattern_probabilities_equal_person_independent.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/full_pattern_probabilities_equal_person_independent.csv",
+          "sha256": "727dc714177995bbe3cec3a3946301dd13629723286b2b53bb526c87b76ff9b4",
+          "bytes": 1624
+        },
+        "results/full_pattern_probabilities_equal_person_ising.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/full_pattern_probabilities_equal_person_ising.csv",
+          "sha256": "095dbbb2211aeb40f371d5e884bfd58a7cc9ac029af52bbf788c8ec378c96795",
+          "bytes": 1444
+        },
+        "results/full_pattern_probabilities_released_weight_common_acceptance.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/full_pattern_probabilities_released_weight_common_acceptance.csv",
+          "sha256": "245e3b5771a2e7761435230a55d10c3298ee71acaf93c6b56e6ec3a6a6ae572b",
+          "bytes": 1922
+        },
+        "results/full_pattern_probabilities_released_weight_independent.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/full_pattern_probabilities_released_weight_independent.csv",
+          "sha256": "b1bf32ce5f442aedf5a797c4e3e7eba08b174e4f20f97dfb7956d1768b7c11c0",
+          "bytes": 1731
+        },
+        "results/full_pattern_probabilities_released_weight_ising.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/full_pattern_probabilities_released_weight_ising.csv",
+          "sha256": "2fd08dfef9ac8f7d3558dd1e312a9b7bda90199b137af69166561169d1f348f0",
+          "bytes": 1542
+        },
+        "results/heldout_metrics.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/heldout_metrics.csv",
+          "sha256": "79a0d44450913f851a303813984dba9e1ae4a2ded1dc5bb304802ffd6c3acb0d",
+          "bytes": 23063
+        },
+        "results/joint_pattern_feasibility.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/joint_pattern_feasibility.csv",
+          "sha256": "3b7c3358cd05b4bbbec5de4689f8652212b1b6389570680593949f1d7d6c1f75",
+          "bytes": 940
+        },
+        "results/network_edges.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/network_edges.csv",
+          "sha256": "2fe9e102aea6637a3e966f594086f78df0c802e0a039a938a6bf3f5b79f92b93",
+          "bytes": 1070
+        },
+        "results/paired_comparisons.csv": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/paired_comparisons.csv",
+          "sha256": "8af861f29b95553f057b4d9e44e4ff7dd80b2a50270b94f30f3a486929c45f26",
+          "bytes": 3512
+        },
+        "results/prediction_bootstrap_draws.csv.gz": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/results/prediction_bootstrap_draws.csv.gz",
+          "sha256": "ac34fe3ffa844729641aa5b17e8c615e6d55f4aa143502fe7aa14424a9ce803f",
+          "bytes": 572840
+        },
+        "run_analysis.py": {
+          "archive_member": "ENDES_Ising_justification_2026_10_22/run_analysis.py",
+          "sha256": "384bb8d2cd919b1566fbf8a06ec180bdc19a318cb8696e2118efa2b1a6c4d8df",
+          "bytes": 13080
+        }
+      },
+      "original_file_bytes": 704718,
+      "portable_replay_exit_code": 0,
+      "portable_replay_last_output": "{\n  \"mean_profile_decomposition_max_error\": 4.099368414167692e-15,\n  \"contrast_and_quantile_max_error\": 3.6817771054131754e-14,\n  \"status\": \"passed\",\n  \"metric_rows\": 252,\n  \"comparisons\": 28,\n  \"bootstrap_draw_rows\": 8000,\n  \"joint_pattern_rows\": 32,\n  \"full_distribution_rows\": 192,\n  \"edge_rows\": 10,\n  \"numerical_bindings\": 24,\n  \"scope\": \"Public aggregate identities, contrast points, saved-draw quantiles and report bindings only. Does not rerun source linkage, participant folds, model optimization or raw-data preparation.\"\n}\n",
+      "folder": "modules/ising",
+      "replay_script": "aggregate_replay.py",
+      "replay_scope": "Public joint probabilities, score decomposition, conditional saved-bootstrap ranges and report bindings. No respondent linkage, model optimization or survey-design replay."
+    },
+    {
+      "id": "bayesian_hierarchy",
+      "current_supplementary_section": "S32",
+      "replay_args": [],
+      "dependencies": [
+        "numpy",
+        "pandas"
+      ],
+      "scope": "Public prediction scores, seeded conditional country resampling, saved predictive-interval coverage. No posterior refitting or source extraction.",
+      "full_model_replay_self_contained": false,
+      "upstream_dependencies": "shared_context_shift, mics_external_evaluation and fixed source/protocol manifests; public posterior blocks omitted.",
+      "source_archive": "revision_2026/05_transportability/bayesian_country_scenario_2026_10_22/Bayesian_country_scenario_code_public_aggregate_2026_10_22.zip",
+      "source_archive_sha256": "39426820ae61d51084e2769a2801d64c2551b0fb6d30fa520b246a483cd78873",
+      "included_source_files": {
+        "CONFIG.json": {
+          "archive_member": "CONFIG.json",
+          "sha256": "dea303f85aa5b6e4ddd1529325309eb8a98f0fbb3882c157b9d04cdac9b7ba56",
+          "bytes": 2489
+        },
+        "PROTOCOL.md": {
+          "archive_member": "PROTOCOL.md",
+          "sha256": "cec752e8b072b661efa9d0908780f8c610a6fbdfc531e257b08f932187d0dd5c",
+          "bytes": 9513
+        },
+        "ORIGINAL_README.md": {
+          "archive_member": "README.md",
+          "sha256": "1f5865d7c9edc256a99cc8c1421242136e370b432f91ff1c81086576eb85353b",
+          "bytes": 6028
+        },
+        "RESULTS.md": {
+          "archive_member": "RESULTS.md",
+          "sha256": "e0f6395808052275939fc65a85230968bb1530547b1d2fbc3afb0212070303fa",
+          "bytes": 6399
+        },
+        "aggregate_replay.py": {
+          "archive_member": "aggregate_replay.py",
+          "sha256": "c487de4126f362af5a456ee6254eb2eba72113fa0d6da8af7abe98d22670fab4",
+          "bytes": 8308
+        },
+        "results/country_metrics.csv": {
+          "archive_member": "results/country_metrics.csv",
+          "sha256": "15baa2ac294a4314c74dcff36dcdd51623599cdc0adeb462e0934b1ce6bc8df7",
+          "bytes": 491299
+        },
+        "results/model_summary.csv": {
+          "archive_member": "results/model_summary.csv",
+          "sha256": "4756231b186f90a40b74232a0b1d7def0398bf36e248ca8e25846b6b691bb61c",
+          "bytes": 13872
+        },
+        "results/paired_comparisons.csv": {
+          "archive_member": "results/paired_comparisons.csv",
+          "sha256": "2cb380d22e936356c0d54728b5547f430dcc9b7a2b898854c47dc1c55c68c552",
+          "bytes": 126255
+        },
+        "results/paired_country_differences.csv": {
+          "archive_member": "results/paired_country_differences.csv",
+          "sha256": "62bd6b9726a963ca6ffe8882328d12952e59a96c6b9eb51c0e51481d6383ef6d",
+          "bytes": 1815447
+        },
+        "results/predictions.csv": {
+          "archive_member": "results/predictions.csv",
+          "sha256": "bd40899b98823ffeaa6273f4f92f1e2da6f1240d96c9b855a7e0f635dce1c548",
+          "bytes": 802330
+        },
+        "results/predictive_coverage.csv": {
+          "archive_member": "results/predictive_coverage.csv",
+          "sha256": "e1ee0a223069cc7f7a1c4e405c2408e946ab2b08e333b345589e034176fef2cd",
+          "bytes": 25548
+        },
+        "results/predictive_intervals.csv": {
+          "archive_member": "results/predictive_intervals.csv",
+          "sha256": "0fc79c949c546fb22875d6237d4cd0382fa169ce93c19795b0c6e05d9b457fa6",
+          "bytes": 6282302
+        },
+        "results/reference_country_metrics.csv": {
+          "archive_member": "results/reference_country_metrics.csv",
+          "sha256": "0a9abf4e724a50f7503d134ea98e4827a9a802fdea63af99ff7d367e35e7077b",
+          "bytes": 83912
+        },
+        "run_analysis.py": {
+          "archive_member": "run_analysis.py",
+          "sha256": "a513f34603b90b996c99887086f15df058ba4d928fcb4dff7f7fa170d50f899d",
+          "bytes": 28243
+        }
+      },
+      "original_file_bytes": 9701945,
+      "portable_replay_exit_code": 0,
+      "portable_replay_last_output": "{\n  \"status\": \"passed\",\n  \"prediction_cells\": 5490,\n  \"country_score_rows\": 2196,\n  \"summary_rows\": 72,\n  \"paired_comparisons\": 588,\n  \"paired_country_differences\": 17934,\n  \"coverage_rows\": 216,\n  \"maximum_country_metric_difference\": 6.821210263296962e-13,\n  \"maximum_summary_difference\": 5.684341886080802e-14,\n  \"maximum_comparison_difference\": 1.1368683772161603e-13,\n  \"maximum_country_difference_discrepancy\": 6.821210263296962e-13,\n  \"maximum_coverage_difference\": 7.105427357601002e-15,\n  \"scope\": \"Public aggregate point scores, model summaries, all fixed bootstrap comparisons, exact-identity normalization and saved-interval coverage aggregation. No original source extraction, posterior/model refitting or predictive-draw regeneration.\"\n}\n",
+      "folder": "modules/bayesian_hierarchy",
+      "replay_script": "aggregate_replay.py",
+      "replay_scope": "Public prediction scores, seeded conditional country resampling, saved predictive-interval coverage. No posterior refitting or source extraction."
+    },
+    {
+      "id": "ising_informed_gnn",
+      "current_supplementary_section": "S34",
+      "replay_args": [
+        "--check"
+      ],
+      "dependencies": [
+        "numpy",
+        "pandas"
+      ],
+      "scope": "Aggregate masked-response score differences and all stored conditional percentile ranges. No GNN retraining or individual prediction recovery.",
+      "full_model_replay_self_contained": false,
+      "upstream_dependencies": "Upstream ENDES complete-response cohort and matched Ising fold states; participant records/model states excluded.",
+      "source_archive": "revision_2026/04_mental_health/endes_ising_gnn_2026_10_22/ENDES_Ising_informed_GNN_code_aggregate_2026_10_22.zip",
+      "source_archive_sha256": "700e87cf2c1e9a5b4acc2fec0c14c66403fba5bf75283a766584a35394703df5",
+      "included_source_files": {
+        "PROTOCOL.md": {
+          "archive_member": "PROTOCOL.md",
+          "sha256": "eada37d05fa1f1fe5cf7021828686caf7fdad98d7bd0d0abaa8aaaa90fb44bdc",
+          "bytes": 8356
+        },
+        "ORIGINAL_README.md": {
+          "archive_member": "README.md",
+          "sha256": "2388fbb61a0ef32c0e612469e4f76782cfdb2d728eae9d1a2f77dd68a4361e46",
+          "bytes": 838
+        },
+        "run_analysis.py": {
+          "archive_member": "run_analysis.py",
+          "sha256": "2352d7f0899e288ade2bc5ceada8fc89e8e20721f3bd76b3828aafeda2fa684c",
+          "bytes": 7726
+        },
+        "CONFIG.json": {
+          "archive_member": "CONFIG.json",
+          "sha256": "9e688fc22517e059fb1703f1866b4ac49893ae688d2db59576451598a8f95477",
+          "bytes": 933
+        },
+        "ENVIRONMENT.json": {
+          "archive_member": "ENVIRONMENT.json",
+          "sha256": "41d5474cb201a82d472ea9c831dc8adfd322202a2faf896bb90ed1250b4bd7ac",
+          "bytes": 157
+        },
+        "replay_aggregates.py": {
+          "archive_member": "replay_aggregates.py",
+          "sha256": "0e7b802d32b51ddef8ee014650e16f01ea9abb956209bf3d3ce3d282e80b0d01",
+          "bytes": 1806
+        },
+        "RESULTS.md": {
+          "archive_member": "RESULTS.md",
+          "sha256": "189af72498232011dd991d332a3e45f3a113478aca991e5a101647885916810e",
+          "bytes": 6404
+        },
+        "core.py": {
+          "archive_member": "core.py",
+          "sha256": "4ac80406d588609eef629674ac808ec5f0fd5bbdf97ecac4f3edfd54a242028d",
+          "bytes": 4919
+        },
+        "prepare_and_freeze.py": {
+          "archive_member": "prepare_and_freeze.py",
+          "sha256": "bbe7cd63a15d1b9b02a72b53ae9734eee6c0d49f22b31ee29212e461426f6a16",
+          "bytes": 4314
+        },
+        "results/fold_counts.csv": {
+          "archive_member": "results/fold_counts.csv",
+          "sha256": "c5aaed4759e86e3e500aedf2872a9ab4bd673465395aeea732da7c34ea481153",
+          "bytes": 1249
+        },
+        "results/paired_comparisons.csv": {
+          "archive_member": "results/paired_comparisons.csv",
+          "sha256": "3cebbe955b8dd631db331f1a8d36c864a2334960cc0117bef30183aecc2663f2",
+          "bytes": 10888
+        },
+        "results/bootstrap_contrasts.csv.gz": {
+          "archive_member": "results/bootstrap_contrasts.csv.gz",
+          "sha256": "72d63d15d9cf2fb1fc69a2469994f687028a68e6d257fc80e2199343f3d2f728",
+          "bytes": 2180452
+        },
+        "results/heldout_metrics.csv": {
+          "archive_member": "results/heldout_metrics.csv",
+          "sha256": "7f49f8d56dd9307c0a54aab3a25af20b6e007f91e02760538f9118bdf430c240",
+          "bytes": 224144
+        }
+      },
+      "original_file_bytes": 2452186,
+      "portable_replay_exit_code": 0,
+      "portable_replay_last_output": "{\n  \"status\": \"passed\",\n  \"scope\": \"Aggregate score differences and all stored conditional percentile ranges only; no original-source, individual-prediction or model retraining replay.\",\n  \"metric_rows\": 2304,\n  \"paired_rows\": 84,\n  \"bootstrap_rows\": 168000\n}\n",
+      "folder": "modules/ising_informed_gnn",
+      "replay_script": "replay_aggregates.py",
+      "replay_scope": "Aggregate masked-response score differences and all stored conditional percentile ranges. No GNN retraining or individual prediction recovery."
+    },
+    {
+      "id": "hierarchical_readout_gnn",
+      "current_supplementary_section": "S35",
+      "replay_args": [
+        "--check"
+      ],
+      "dependencies": [
+        "numpy",
+        "pandas",
+        "scipy"
+      ],
+      "scope": "Coordinate-to-component point scores, conditional country-bootstrap summaries and saved interval coverage. No neural encoder retraining or posterior resimulation.",
+      "full_model_replay_self_contained": false,
+      "upstream_dependencies": "Upstream national hierarchy and original country/time/external donor inputs; deterministic encoder fitted states excluded.",
+      "source_archive": "revision_2026/05_transportability/hierarchical_readout_gnn_2026_10_22/Country_hierarchical_readout_GNN_code_public_aggregate_2026_10_22.zip",
+      "source_archive_sha256": "8cc441d08f9de5a360a0722f0bbc87746ca13680543a83395054b027adb1cfbd",
+      "included_source_files": {
+        "CONFIG.json": {
+          "archive_member": "CONFIG.json",
+          "sha256": "3ad2805ad8047bd45041ea17db963fa1a3ebe7c06d5335488d7081b9ede0b040",
+          "bytes": 1536
+        },
+        "PROTOCOL.md": {
+          "archive_member": "PROTOCOL.md",
+          "sha256": "f8a3a5767f90f8968b42ebe06b43fdf8c8847b00adb4171a2df833cb19d92a5f",
+          "bytes": 8785
+        },
+        "ORIGINAL_README.md": {
+          "archive_member": "README.md",
+          "sha256": "439597e0288fd50b3fe45df6993f960bf4cf5afd131c6ccf5ad4186c8ce1c6a2",
+          "bytes": 1724
+        },
+        "RESULTS.md": {
+          "archive_member": "RESULTS.md",
+          "sha256": "9568e485a79d13870563eca918b04c23b29193c24a5037902184e17b06f45dfe",
+          "bytes": 6178
+        },
+        "aggregate.py": {
+          "archive_member": "aggregate.py",
+          "sha256": "0941b1393e0732068008e2189ba6d53458b428beb64868bf3088339b0b14030c",
+          "bytes": 7425
+        },
+        "common.py": {
+          "archive_member": "common.py",
+          "sha256": "834525b3231eb25dcac536dc711cccf93d6b3556c0e242e711e50a5128d93dac",
+          "bytes": 11262
+        },
+        "replay_aggregates.py": {
+          "archive_member": "replay_aggregates.py",
+          "sha256": "4b52e7fbd86054fd5f7ca0acdae0b00129b5e6b1dfb870222c996deec189f342",
+          "bytes": 3893
+        },
+        "results/coordinate_predictions.csv": {
+          "archive_member": "results/coordinate_predictions.csv",
+          "sha256": "be01f72993cfa88fb13eee76b7641b399910640504de63ae75a720700b3bf91f",
+          "bytes": 125506
+        },
+        "results/country_metrics.csv": {
+          "archive_member": "results/country_metrics.csv",
+          "sha256": "f19f544f5287c9c9ca98f391fdb92478a1012a31969b82feb23e5524c380f45e",
+          "bytes": 304746
+        },
+        "results/model_summary.csv": {
+          "archive_member": "results/model_summary.csv",
+          "sha256": "65406c52e1ba128916ae5765bc4d223b3df8b18497794b0e95b335e9ea25d9c6",
+          "bytes": 8733
+        },
+        "results/paired_comparisons.csv": {
+          "archive_member": "results/paired_comparisons.csv",
+          "sha256": "5b29c97ed08420ab5c50bdeb2a47d74db3e47b93fb14054ead71c90bb7ff3d1a",
+          "bytes": 33148
+        },
+        "results/paired_country_differences.csv.gz": {
+          "archive_member": "results/paired_country_differences.csv.gz",
+          "sha256": "a0b9c3ce6d9deaa5e8a571770b7dc78e694ca717b4614abc529587798bcac715",
+          "bytes": 83192
+        },
+        "results/predictions.csv": {
+          "archive_member": "results/predictions.csv",
+          "sha256": "68c9f632a9cf8caa134e968dbe238acac7cc58cdd57261d83710745baafe91b2",
+          "bytes": 493507
+        },
+        "results/predictive_coverage.csv": {
+          "archive_member": "results/predictive_coverage.csv",
+          "sha256": "99adaa74a41dcc4c2af523e19a1de31d7b32724f0ddc33da4087671f9874c25e",
+          "bytes": 15163
+        },
+        "results/predictive_intervals.csv.gz": {
+          "archive_member": "results/predictive_intervals.csv.gz",
+          "sha256": "bd145ef8d531cd9b5346f7d766e352961872d7ae8d30287e948459b166e1657f",
+          "bytes": 844717
+        },
+        "run_analysis.py": {
+          "archive_member": "run_analysis.py",
+          "sha256": "3be2556088b883020913ad5829caca2a5b524d0bebbefd86e00b3e2885c8f70a",
+          "bytes": 11007
+        },
+        "time_synthetic.py": {
+          "archive_member": "time_synthetic.py",
+          "sha256": "c829359d3921c0d43e58179a23e99902d759e53c5de93bfd5ca283567d9f9586",
+          "bytes": 1478
+        }
+      },
+      "original_file_bytes": 1962000,
+      "portable_replay_exit_code": 0,
+      "portable_replay_last_output": "{\"status\": \"passed\", \"metric_bindings\": 14274, \"max_score_error\": 4.547473508864641e-13, \"paired_bootstrap_bindings\": 840, \"coverage_rows\": 156, \"scope\": \"aggregate table replay; excludes independent source recovery, encoder retraining and posterior interval resimulation\"}\n",
+      "folder": "modules/hierarchical_readout_gnn",
+      "replay_script": "replay_aggregates.py",
+      "replay_scope": "Coordinate-to-component point scores, conditional country-bootstrap summaries and saved interval coverage. No neural encoder retraining or posterior resimulation."
+    },
+    {
+      "id": "ising_entropy",
+      "current_supplementary_section": "S33",
+      "replay_args": [],
+      "dependencies": [
+        "numpy",
+        "pandas"
+      ],
+      "scope": "Eight public full-distribution entropy calculations and conditional bootstrap-summary ranges. No original Ising refits or private training-fold/replicate vectors.",
+      "full_model_replay_self_contained": false,
+      "upstream_dependencies": "Earlier ENDES Ising fitted training-fold/bootstrap probability vectors; public full-model distributions included.",
+      "source_archive": "revision_2026/04_mental_health/endes_ising_entropy_2026_10_22/Ising_entropy_code_aggregate_2026_10_22.zip",
+      "source_archive_sha256": "7a8017f4845f063cfa4bab6252e36e951e180d6b9dab48234ed5c6ee9a7891e3",
+      "included_source_files": {
+        "ORIGINAL_README.md": {
+          "archive_member": "README.md",
+          "sha256": "2a6471b9011e2bfa6abf348552ea68a3f5f861692a9f6c5f1ab521bb592dba5d",
+          "bytes": 1727
+        },
+        "RESULTS.md": {
+          "archive_member": "RESULTS.md",
+          "sha256": "67d6fb23e32dcc843e40138b056170ecdbfa2bc8f2b3c0e271229669ff068425",
+          "bytes": 5747
+        },
+        "PROTOCOL.md": {
+          "archive_member": "PROTOCOL.md",
+          "sha256": "e8e9585bba889010bfd07e05c4de026c6f4c404fe41190bf96d445aac07af8ee",
+          "bytes": 5524
+        },
+        "entropy.py": {
+          "archive_member": "entropy.py",
+          "sha256": "e1a3b817b318865df9c6518e5a86e8118e972fb662c2c721c43abf1b378a3bc4",
+          "bytes": 3313
+        },
+        "analyze_entropy.py": {
+          "archive_member": "analyze_entropy.py",
+          "sha256": "a9d63ae12af60251284009cbf8ca38e302626dc56805334e0c2d506cb0fccc51",
+          "bytes": 6259
+        },
+        "replay_aggregates.py": {
+          "archive_member": "replay_aggregates.py",
+          "sha256": "6fd59d2b76c3520c7ff209fbffa50ad9ceebcb92edb2d4c6d9d8e620fbf849cc",
+          "bytes": 3408
+        },
+        "ENVIRONMENT.json": {
+          "archive_member": "ENVIRONMENT.json",
+          "sha256": "e4e18c0fc31266cf55555c0000774cf15952d1c3d8c21ac45dab757941bfd6d6",
+          "bytes": 113
+        },
+        "results/bootstrap_item_entropy.csv": {
+          "archive_member": "results/bootstrap_item_entropy.csv",
+          "sha256": "9d16a1fcfc61e766d9e9d053fd50d25a3027d6f48f9c9637d604891137d202b7",
+          "bytes": 127395
+        },
+        "results/bootstrap_metrics.csv": {
+          "archive_member": "results/bootstrap_metrics.csv",
+          "sha256": "af29098e82fe4d5378cd06b1bd078fd4fc3c180fd984ef16bd0dfd6eb79740af",
+          "bytes": 45322
+        },
+        "results/bootstrap_ranges.csv": {
+          "archive_member": "results/bootstrap_ranges.csv",
+          "sha256": "0ff96cf88a21ea8ab74a477d150ed1c9c2185d0474f65dc7da393099334e5127",
+          "bytes": 3574
+        },
+        "results/distribution_metrics.csv": {
+          "archive_member": "results/distribution_metrics.csv",
+          "sha256": "44f8313ffe84377578ac46c3944bf6167d0a9bfe4cedc619f2415561e6cada27",
+          "bytes": 27853
+        },
+        "results/item_entropy.csv": {
+          "archive_member": "results/item_entropy.csv",
+          "sha256": "a97742c9529ef79fbd7b8e7e27e625ac6abbd408329a6f87b9a4ce35f5b6c6bf",
+          "bytes": 89584
+        },
+        "public_inputs/full_pattern_probabilities_equal_person_common_acceptance.csv": {
+          "archive_member": "public_inputs/full_pattern_probabilities_equal_person_common_acceptance.csv",
+          "sha256": "9baa1edf1321a05227f20a2690ddfe020623dc73e68475439d6e2ad32d4e5c4b",
+          "bytes": 1826
+        },
+        "public_inputs/full_pattern_probabilities_equal_person_independent.csv": {
+          "archive_member": "public_inputs/full_pattern_probabilities_equal_person_independent.csv",
+          "sha256": "727dc714177995bbe3cec3a3946301dd13629723286b2b53bb526c87b76ff9b4",
+          "bytes": 1624
+        },
+        "public_inputs/full_pattern_probabilities_equal_person_ising.csv": {
+          "archive_member": "public_inputs/full_pattern_probabilities_equal_person_ising.csv",
+          "sha256": "095dbbb2211aeb40f371d5e884bfd58a7cc9ac029af52bbf788c8ec378c96795",
+          "bytes": 1444
+        },
+        "public_inputs/full_pattern_probabilities_released_weight_common_acceptance.csv": {
+          "archive_member": "public_inputs/full_pattern_probabilities_released_weight_common_acceptance.csv",
+          "sha256": "245e3b5771a2e7761435230a55d10c3298ee71acaf93c6b56e6ec3a6a6ae572b",
+          "bytes": 1922
+        },
+        "public_inputs/full_pattern_probabilities_released_weight_independent.csv": {
+          "archive_member": "public_inputs/full_pattern_probabilities_released_weight_independent.csv",
+          "sha256": "b1bf32ce5f442aedf5a797c4e3e7eba08b174e4f20f97dfb7956d1768b7c11c0",
+          "bytes": 1731
+        },
+        "public_inputs/full_pattern_probabilities_released_weight_ising.csv": {
+          "archive_member": "public_inputs/full_pattern_probabilities_released_weight_ising.csv",
+          "sha256": "2fd08dfef9ac8f7d3558dd1e312a9b7bda90199b137af69166561169d1f348f0",
+          "bytes": 1542
+        },
+        "public_inputs/joint_pattern_feasibility.csv": {
+          "archive_member": "public_inputs/joint_pattern_feasibility.csv",
+          "sha256": "3b7c3358cd05b4bbbec5de4689f8652212b1b6389570680593949f1d7d6c1f75",
+          "bytes": 940
+        }
+      },
+      "original_file_bytes": 330848,
+      "portable_replay_exit_code": 0,
+      "portable_replay_last_output": "{\n  \"status\": \"passed\",\n  \"full_distributions_replayed\": 8,\n  \"scalar_bindings\": 288,\n  \"bootstrap_range_rows\": 36,\n  \"max_error\": 4.440892098500626e-16,\n  \"scope\": \"Public full-distribution summaries, conditional item entropies and bootstrap summary percentiles only; no training-fold source reconstruction, original model refitting or original raw respondent replay.\"\n}\n",
+      "folder": "modules/ising_entropy",
+      "replay_script": "replay_aggregates.py",
+      "replay_scope": "Eight public full-distribution entropy calculations and conditional bootstrap-summary ranges. No original Ising refits or private training-fold/replicate vectors."
+    }
+  ],
+  "total_original_file_bytes": 18964980
+}

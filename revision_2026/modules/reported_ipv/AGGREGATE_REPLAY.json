@@ -1,0 +1,407 @@
+{
+  "checks": {
+    "calibration_confusion_at_fixed_threshold": true,
+    "calibration_weighted_means": true,
+    "config_primary_flags": true,
+    "constant_prevalence_losses": true,
+    "exact_public_table_schemas": true,
+    "fold_count_margins": true,
+    "initialization_loss_convexity_only": true,
+    "initialization_probability_mean": true,
+    "metric_confusion_arithmetic": true,
+    "observed_pair_differences": true,
+    "paired_percentile_intervals_from_all_public_draws": true,
+    "primary_losses_pooled_by_women": true,
+    "unique_expected_keys": true
+  },
+  "ensemble_convexity_bounds": [
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.07779648558203286,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.07779653313121376,
+      "model": "random_A"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.28772022603250946,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.28772042437437034,
+      "model": "random_A"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.07780007115941086,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.07780012984651367,
+      "model": "random_D"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.2877450013871795,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.28774530921314606,
+      "model": "random_D"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.07765649998178073,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.07765651672449703,
+      "model": "real_A"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.2869929809447664,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.28699306456958973,
+      "model": "real_A"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.07766037511233488,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.0776605013325476,
+      "model": "real_D"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.2870193582612463,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.28702002539808485,
+      "model": "real_D"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.07762037207955975,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.07762038140532461,
+      "model": "self_A"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.2867771684325189,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.2867772226019754,
+      "model": "self_A"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.07762472287653614,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.0776247554741748,
+      "model": "self_D"
+    },
+    {
+      "domain": "all_2024",
+      "ensemble_loss": 0.28679697632077383,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.2867971514114857,
+      "model": "self_D"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.08344383965059776,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08344388867998746,
+      "model": "random_A"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.30340403092241236,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.3034042639553369,
+      "model": "random_A"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.083445047553786,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08344510625384484,
+      "model": "random_D"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.3034196903718299,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.3034200249294894,
+      "model": "random_D"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.08328128711169104,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08328130367006988,
+      "model": "real_A"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.3027053051622726,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.30270541377135,
+      "model": "real_A"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.08328336684896546,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.0832834922448178,
+      "model": "real_D"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.30272353022735365,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.3027243032466242,
+      "model": "real_D"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.08324779321946141,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08324780251550658,
+      "model": "self_A"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.30254935123999993,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.30254941211634834,
+      "model": "self_A"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.0832554068463174,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08325543983172022,
+      "model": "self_D"
+    },
+    {
+      "domain": "new_psu_2024",
+      "ensemble_loss": 0.30258654534416796,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.30258674529206353,
+      "model": "self_D"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.08309499993758318,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08309512336929754,
+      "model": "random_A"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.30271281314861187,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.3027135032411669,
+      "model": "random_A"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.08309369564904022,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.0830937607495436,
+      "model": "random_D"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.3027101485017971,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.3027105147352751,
+      "model": "random_D"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.08292555442553469,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08292560499056906,
+      "model": "real_A"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.30195621082108026,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.30195651859793254,
+      "model": "real_A"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.08292273110239984,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08292276090718718,
+      "model": "real_D"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.3019346977091462,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.3019348781969982,
+      "model": "real_D"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.08289455662318101,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08289458337892965,
+      "model": "self_A"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.301743380068547,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.3017435396345444,
+      "model": "self_A"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.08289051759712024,
+      "loss": "Brier",
+      "mean_initialization_loss": 0.08289056698765218,
+      "model": "self_D"
+    },
+    {
+      "domain": "primary",
+      "ensemble_loss": 0.3017175912603931,
+      "loss": "log_loss",
+      "mean_initialization_loss": 0.3017178596498283,
+      "model": "self_D"
+    }
+  ],
+  "imports_producer_or_core": false,
+  "primary_Brier_contrasts": [
+    {
+      "difference": -6.318361848879628e-05,
+      "domain": "all_2024",
+      "lower": -0.00017498112641599757,
+      "model": "logistic_A",
+      "reference": "logistic_D",
+      "upper": 4.070049168489314e-05
+    },
+    {
+      "difference": -4.460338813905285e-06,
+      "domain": "all_2024",
+      "lower": -0.00034776564762688744,
+      "model": "real_A",
+      "reference": "logistic_A",
+      "upper": 0.0003245217545639406
+    },
+    {
+      "difference": -0.0001399856002521349,
+      "domain": "all_2024",
+      "lower": -0.00021568684373893913,
+      "model": "real_A",
+      "reference": "random_A",
+      "upper": -6.401325802606919e-05
+    },
+    {
+      "difference": 3.6127902220975394e-05,
+      "domain": "all_2024",
+      "lower": 9.287260321542285e-07,
+      "model": "real_A",
+      "reference": "self_A",
+      "upper": 7.021183203596534e-05
+    },
+    {
+      "difference": -0.00011649152709487798,
+      "domain": "new_psu_2024",
+      "lower": -0.0003577999132772031,
+      "model": "logistic_A",
+      "reference": "logistic_D",
+      "upper": 0.00010679732165475077
+    },
+    {
+      "difference": 0.00013404666777749874,
+      "domain": "new_psu_2024",
+      "lower": -0.0005088063127573195,
+      "model": "real_A",
+      "reference": "logistic_A",
+      "upper": 0.0007853674000408272
+    },
+    {
+      "difference": -0.00016255253890672117,
+      "domain": "new_psu_2024",
+      "lower": -0.0003075907790632368,
+      "model": "real_A",
+      "reference": "random_A",
+      "upper": -3.2073763307565005e-05
+    },
+    {
+      "difference": 3.349389222963295e-05,
+      "domain": "new_psu_2024",
+      "lower": -2.6329622549937577e-05,
+      "model": "real_A",
+      "reference": "self_A",
+      "upper": 9.390864389385925e-05
+    },
+    {
+      "difference": 6.082574145963027e-05,
+      "domain": "primary",
+      "lower": -4.181209802876888e-05,
+      "model": "logistic_A",
+      "reference": "logistic_D",
+      "upper": 0.00016992898522517918
+    },
+    {
+      "difference": 1.9367719316848442e-05,
+      "domain": "primary",
+      "lower": -0.0003255793032904481,
+      "model": "real_A",
+      "reference": "logistic_A",
+      "upper": 0.0003733876570902709
+    },
+    {
+      "difference": -0.00016944551204849112,
+      "domain": "primary",
+      "lower": -0.0002451879193200869,
+      "model": "real_A",
+      "reference": "random_A",
+      "upper": -9.487902510262642e-05
+    },
+    {
+      "difference": 3.099780235367444e-05,
+      "domain": "primary",
+      "lower": -7.109120213331585e-06,
+      "model": "real_A",
+      "reference": "self_A",
+      "upper": 7.284072279978883e-05
+    }
+  ],
+  "public_inputs_sha256": {
+    "CONFIG.json": "751f752a4395059e466969d874daf1b4c0c12ea25615a9027415386123dd060c",
+    "results/bootstrap_draws.csv.gz": "cad227d353d5095f79fa262c1ce50ec21bcef4fe7ffda78cfbef08c4010ba885",
+    "results/calibration.csv": "4bbaeb9655b1518a045f6863fcee72350cb423e8cd3e8e0d604630c499554f99",
+    "results/class_counts.csv": "03b4da737c295f935dd735adc18facdb1e193c4f277a15c8e905f82180306763",
+    "results/fold_inventory.csv": "670074c0de71faf008ce2e73fdfc10d0033d6ce6a20b4f67eb03bd93934b618f",
+    "results/fold_metrics.csv": "426fcd73797791c35317965f0368b9750a379d8c3808e1135b8c1dd1d66a22c8",
+    "results/initialization_metrics.csv": "3629c4f157ed3039b1d6c447be9993ab8836f764beacaacff9ac9e3c33acbf8a",
+    "results/metrics.csv": "627511bfdaa94c7837a82742283453b908844814c005ef5d1dc52e1b281ed741",
+    "results/paired_comparisons.csv": "ae9a0ff3c80e69f97d8dc131b9df3f73efc81d5f8dd752f91ae6c31c98103021"
+  },
+  "reads_individual_data": false,
+  "report_binding_scope": "No report bindings were present; no prose-binding audit claimed.",
+  "report_numeric_bindings_verified": 0,
+  "source_preparation_and_model_fitting_replayed": false,
+  "status": "passed",
+  "verification_limits": [
+    "Public aggregate arithmetic only; no independent respondent-source preparation, cohort identities, temporal overlap or leakage audit.",
+    "No model optimization, prediction/state replay, graph construction or neighbour-identity verification.",
+    "Fold Brier/log loss and probability means are pooled by participant counts; AUC and average precision are not recovered from fold averages.",
+    "Exact ensemble losses and rankings cannot be reconstructed from seed-level aggregate losses; mean probability and convexity bounds alone are checked.",
+    "Calibration bins recover observed/predicted marginal means and fixed-threshold confusion; exact probability-level losses and ranking metrics are not recovered.",
+    "Percentile intervals are recomputed from stored public bootstrap contrasts; original PSU resampling and individual loss contributions are not reconstructed.",
+    "Fixed-prediction intervals do not include model refitting, graph selection, national sampling or prospective uncertainty.",
+    "The new-PSU 2024 evaluation is a subset of all-2024 evaluation, not an independent cohort; no within-person follow-up or future-risk validation is established.",
+    "No manuscript prose audit is claimed; report binding scope is limited to the explicit manifest-selected values and renderings."
+  ],
+  "verified_rows": {
+    "bootstrap_draws": 264000,
+    "calibration": 330,
+    "class_counts": 4,
+    "fold_inventory": 6,
+    "fold_metrics": 55,
+    "initialization_metrics": 54,
+    "metrics": 33,
+    "paired_comparisons": 132
+  }
+}

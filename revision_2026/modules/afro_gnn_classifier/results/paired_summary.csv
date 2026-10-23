@@ -1,0 +1,11 @@
+first,second,metric,difference,lower,upper,countries,improved_countries,worse_countries,equal_countries,uncertainty
+G_real,D1_cap,brier,-0.0008397534200932957,-0.007405336970585022,0.006471712744358927,39,23,16,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+G_real,D1_cap,log_loss,-0.0054712456244617865,-0.023309042448995912,0.012197113206712348,39,23,16,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+G_real,MLP,brier,-8.982347648479972e-05,-0.0009059980412370969,0.0008063941739112434,39,21,18,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+G_real,MLP,log_loss,-0.0005091753994517493,-0.0024667923575902467,0.0015195666428936161,39,22,17,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+G_real,G_random,brier,-0.0004698641420074411,-0.001756894991754026,0.0006569080303561816,39,24,15,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+G_real,G_random,log_loss,-0.0015837887277784662,-0.0050433339495010825,0.0011125266342080383,39,24,15,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+G_real,G_self,brier,-0.0005814764166818576,-0.0017849766191669926,0.0004532157126919307,39,21,18,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+G_real,G_self,log_loss,-0.0020794396668894458,-0.005815425002672012,0.0006832622380906128,39,23,16,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+MLP,D1_cap,brier,-0.0007499299436084961,-0.006766043868300483,0.005808878473870424,39,24,15,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap
+MLP,D1_cap,log_loss,-0.004962070225010037,-0.021138788091829123,0.011106361334060956,39,22,17,0,paired_country_bootstrap_conditional_on_fixed_fits_and_cap

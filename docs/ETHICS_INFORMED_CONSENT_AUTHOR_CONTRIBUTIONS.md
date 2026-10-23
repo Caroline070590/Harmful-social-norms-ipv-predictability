@@ -1,19 +1,19 @@
-# Declarations to add after the References and in the submission system
+# Secondary-analysis declarations
 
-## Ethical Approval
+These factual declarations describe the current focused working manuscript. They replace the earlier submission-template wording retained in repository history.
 
-This article does not contain any studies with human participants performed by any of the authors.
+## Ethics approval and consent to participate
 
-## Informed Consent
+This study is a secondary analysis of published aggregate estimates and de-identified public survey releases. No participants were recruited or contacted for this analysis. Original study procedures, including ethics and consent arrangements, are described in the original providers’ study documentation.
 
-This article does not contain any studies with human participants performed by any of the authors.
+The author did not obtain separate ethics approval or a waiver for this secondary analysis; no formal exemption determination is claimed. Public availability alone is not asserted to establish an ethics exemption.
 
-## Author Contributions
+## Consent for publication
 
-For a single-author submission, the following can be used:
+No identifiable individual information is presented. The current public code/results additions exclude respondent source records and private respondent-level fitted artifacts.
 
-The author conceptualized the study, curated and harmonized the datasets, developed the analytical workflow, performed the machine-learning and statistical analyses, generated the figures, interpreted the results, and wrote and revised the manuscript.
+## Author contributions
 
-If the submission system requires initials, use:
+The author solely conceived the study, performed the analysis, interpreted the results and wrote the manuscript. The manuscript discloses assistance from computational and editorial AI tools; scientific verification and approval remain the author’s responsibility.
 
-C.L.A. conceptualized the study, curated and harmonized the datasets, developed the analytical workflow, performed the machine-learning and statistical analyses, generated the figures, interpreted the results, and wrote and revised the manuscript.
+These statements do not represent an institutional ethics determination or signed approval of a final submission. Data access and reuse scope are described in [DATA_AVAILABILITY_STATEMENT.md](DATA_AVAILABILITY_STATEMENT.md).

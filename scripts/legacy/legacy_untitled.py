@@ -523,8 +523,6 @@ if __name__ == "__main__":
 #   pip install pycountry
 # ------------------------------------------------------------
 
-from __future__ import annotations
-
 import re
 import os
 from pathlib import Path
@@ -1379,8 +1377,6 @@ if __name__ == "__main__":
 # - Meta-analysis expects your previous scripts wrote "spearman_bootstrap_*.csv"
 #   with columns: Hofstede_dim, Spearman_rho, n (CI cols optional).
 # ------------------------------------------------------------
-
-from __future__ import annotations
 
 import re
 from pathlib import Path

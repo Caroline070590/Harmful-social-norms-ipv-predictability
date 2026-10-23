@@ -1,0 +1,1521 @@
+{
+  "scope": "Code inspection and selected public aggregate result tables only. No advertised portable fitting/replay closure, no source inputs or individual records. Original bytes preserved from previously checked public archives; current local-file hash also checked where present. No new model fit/download.",
+  "groups": {
+    "endes_concurrent": {
+      "current_roles": [
+        "Separate within-woman concurrent depressive-symptom prediction beyond demographics and measured recent IPV; PHQ-9 score, not diagnosis or a causal mediation test."
+      ],
+      "current_sections": [
+        "Main mental-health complement",
+        "S21",
+        "S37"
+      ],
+      "portable_model_fitting": false
+    },
+    "endes_interview_year": {
+      "current_roles": [
+        "Observed actual2023-to2024interview-year transport in different cohorts, including new-PSU and endorsement-domain sensitivities; no within-person prognosis or pandemic effect."
+      ],
+      "current_sections": [
+        "Main mental-health complement",
+        "S25",
+        "S37"
+      ],
+      "portable_model_fitting": false
+    },
+    "covid_stress": {
+      "current_roles": [
+        "COVIDiSTRESS2020 female perceived-stress feasibility/prediction sensitivity; six overlapping country contexts. PSS measures perceived stress rather than clinical anxiety/depression.",
+        "Separate representation-learning comparison with simple algorithms; no violence exposure, personal justification or brain measurement in these respondents."
+      ],
+      "current_sections": [
+        "S8",
+        "S10",
+        "S37"
+      ],
+      "portable_model_fitting": false
+    },
+    "gfs_symptoms": {
+      "current_roles": [
+        "Separate Global Flourishing Study women: symptom burden, COVID-related bereavement, follow-up selection and contextual prediction. Distinct participants from national attitude surveys and ENDES; not evidence of an individual norms-to-symptoms pathway.",
+        "Separate GFS algorithm/representation-learning comparison including nested country validation; neural/embedding fitting requires provider respondent inputs."
+      ],
+      "current_sections": [
+        "S5",
+        "S6",
+        "S9",
+        "S14",
+        "S37",
+        "S10"
+      ],
+      "portable_model_fitting": false
+    },
+    "un_women": {
+      "current_roles": [
+        "Separate UN Women rapid-gender-assessment symptoms and self-reported violence/broad mental-health impacts, including a Colombia exploratory analysis. These outcomes/populations differ from attitudes and from prospective IPV incidence."
+      ],
+      "current_sections": [
+        "S6",
+        "S7",
+        "S37"
+      ],
+      "portable_model_fitting": false
+    }
+  },
+  "files": {
+    "endes_concurrent/prepare_cohort.py": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prepare_cohort.py",
+      "sha256": "c11492ac4ad8db8fa1069b2c32ef2de95cf297e17c7fc210e9da0d6a3f849355",
+      "bytes": 13305,
+      "matches_current_study_file": true
+    },
+    "endes_concurrent/PREPARATION_PROTOCOL.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/PREPARATION_PROTOCOL.md",
+      "sha256": "1634952dccf87547f04baa65a2e311c675ee1ad3416fb062c1642ed94691ab91",
+      "bytes": 2073,
+      "matches_current_study_file": true
+    },
+    "endes_concurrent/SOURCE_AND_DESIGN_REVIEW.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/SOURCE_AND_DESIGN_REVIEW.md",
+      "sha256": "ad6669c8a4f09558ba0da0a8d0b32452b29f952675630e229d8fab52f1dc2742",
+      "bytes": 9391,
+      "matches_current_study_file": true
+    },
+    "endes_concurrent/prediction/run_prediction.py": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/run_prediction.py",
+      "sha256": "82edc82a607fa48b6a3e1483290ffa243b9a411e15c51e6816ac37d9a9f52d53",
+      "bytes": 14120,
+      "matches_current_study_file": true
+    },
+    "endes_concurrent/prediction/CONFIG.json": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/CONFIG.json",
+      "sha256": "f9d037ba69a286f6176e543198255fc61c754d19c6e2d178fb86a9f282e27089",
+      "bytes": 793,
+      "matches_current_study_file": true
+    },
+    "endes_concurrent/prediction/PROTOCOL.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/PROTOCOL.md",
+      "sha256": "5b8e0585cfcb4c7c714c7521a145200765240527632589e5eda754f33ed963c7",
+      "bytes": 6429,
+      "matches_current_study_file": true
+    },
+    "endes_concurrent/prediction/RESULTS.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/RESULTS.md",
+      "sha256": "cefb018973aacec03c15f2b73506390cee53beb0e6f6b5e95e9e62d4b26e7d4c",
+      "bytes": 6342,
+      "matches_current_study_file": true
+    },
+    "endes_concurrent/prediction/results/metrics.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/results/metrics.csv",
+      "sha256": "3d9ddc370b7ed2431d3770f2ba5244401f819ee283e071a1e440412b16382b6a",
+      "bytes": 10248,
+      "matches_current_study_file": true,
+      "rows": 88,
+      "columns": [
+        "algorithm",
+        "model",
+        "seed",
+        "variant",
+        "n",
+        "clipped",
+        "RMSE",
+        "MAE",
+        "bias",
+        "R2"
+      ]
+    },
+    "endes_concurrent/prediction/results/fold_counts.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/results/fold_counts.csv",
+      "sha256": "da949501e5b27124a11adb441ce5f3bab47b41e7b1a50f09bad98c6bdd112749",
+      "bytes": 420,
+      "matches_current_study_file": true,
+      "rows": 15,
+      "columns": [
+        "seed",
+        "fold",
+        "training_women",
+        "test_women",
+        "training_PSUs",
+        "test_PSUs"
+      ]
+    },
+    "endes_concurrent/prediction/results/fold_metrics.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/results/fold_metrics.csv",
+      "sha256": "3925a0e1497ba4086fe191baf39cdfc1391150bb0a5630ad41d9837304a8fd0e",
+      "bytes": 33359,
+      "matches_current_study_file": true,
+      "rows": 300,
+      "columns": [
+        "algorithm",
+        "model",
+        "seed",
+        "fold",
+        "variant",
+        "n",
+        "RMSE",
+        "MAE",
+        "bias",
+        "R2"
+      ]
+    },
+    "endes_concurrent/prediction/results/paired_comparisons.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/results/paired_comparisons.csv",
+      "sha256": "14a00d00ddc75c6d0209674b34b8af72f31e1b32b12c04af9112081ab33983fe",
+      "bytes": 4367,
+      "matches_current_study_file": true,
+      "rows": 20,
+      "columns": [
+        "algorithm",
+        "model",
+        "reference",
+        "metric",
+        "difference",
+        "lower",
+        "upper",
+        "draws",
+        "uncertainty_scope"
+      ]
+    },
+    "endes_concurrent/prediction/results/attitude_response_counts.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_endes_gat/ENDES_GAT_code_aggregate_results.zip",
+      "archive_sha256": "7c38f5d062f5d97074a364b01c4ae7366b6d0c7309d3c9537d3b91c42efcbdc4",
+      "archive_member": "revision_2026/04_mental_health/endes_public/prediction/results/attitude_response_counts.csv",
+      "sha256": "a5859dc234ede7b5c03fcef029af316fae1b7ed7cdb9c6318a94b427a6da39ef",
+      "bytes": 1195,
+      "matches_current_study_file": true,
+      "rows": 16,
+      "columns": [
+        "variable",
+        "category",
+        "n",
+        "denominator",
+        "scope"
+      ]
+    },
+    "endes_interview_year/prepare_cohort.py": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/prepare_cohort.py",
+      "sha256": "80f7f41cd6996f7900a95d362b26d3ab2aac16f90a5ba0a49b98f1b0f07d6751",
+      "bytes": 14365,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/audit_temporal_sources.py": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/audit_temporal_sources.py",
+      "sha256": "2e22336cc20804f457cc7f4a0791cf7c2bdde4174702827ceeb24719036f00c7",
+      "bytes": 10829,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/PROTOCOL.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/PROTOCOL.md",
+      "sha256": "decc57624e3353e1e61d6f8255612b685e9b760644425599fc56a2dccccba86b",
+      "bytes": 7279,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/PREPARATION_PROTOCOL.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/PREPARATION_PROTOCOL.md",
+      "sha256": "37c646a68ce227a45f41ecdc0df22c28ad9538fa25272d2c294b10750621d268",
+      "bytes": 3984,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/TEMPORAL_DATE_AMENDMENT.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/TEMPORAL_DATE_AMENDMENT.md",
+      "sha256": "e230d0279e9defd16a91d9c9d36b2ec3bce62a3944b4df3f66b278cdc3b08001",
+      "bytes": 1748,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/SOURCE_AND_DESIGN_REVIEW.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/SOURCE_AND_DESIGN_REVIEW.md",
+      "sha256": "c20fa0c536c7ae5aad4859b88b83cd5ef2d7aaa9c14a00170fa0e9af3cec1b5b",
+      "bytes": 10226,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/prediction/evaluate_temporal.py": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/prediction/evaluate_temporal.py",
+      "sha256": "ebe82d20e04f1d241bc89419b01f748e664503b4cb02dafb02fb7c6bc57b1363",
+      "bytes": 14783,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/prediction/CONFIG.json": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/prediction/CONFIG.json",
+      "sha256": "f49074c33043228b3c2ba6f6e42fa15c137dc304c528d13fcc6eb2282f4636e0",
+      "bytes": 1475,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/prediction/RESULTS.md": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/prediction/RESULTS.md",
+      "sha256": "528dee459b15a06707bd956430177cbb27e37a135ce43f4520be068cd7ac20bd",
+      "bytes": 14038,
+      "matches_current_study_file": true
+    },
+    "endes_interview_year/prediction/results/metrics.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/prediction/results/metrics.csv",
+      "sha256": "f2667276ffdcf18bb737b48a7e642410f23f4a76bcb700bee7d67433a348e9c6",
+      "bytes": 11192,
+      "matches_current_study_file": true,
+      "rows": 88,
+      "columns": [
+        "domain",
+        "algorithm",
+        "model",
+        "variant",
+        "women",
+        "PSUs",
+        "clipped_rows",
+        "RMSE",
+        "MAE",
+        "bias",
+        "R2"
+      ]
+    },
+    "endes_interview_year/prediction/results/paired_comparisons.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/prediction/results/paired_comparisons.csv",
+      "sha256": "78fd91176111c2ecea739b6aaa3d7f87026ce0567b0e7a3af90c0eeeb1d3dfd3",
+      "bytes": 22969,
+      "matches_current_study_file": true,
+      "rows": 80,
+      "columns": [
+        "domain",
+        "algorithm",
+        "model",
+        "reference",
+        "metric",
+        "difference",
+        "lower",
+        "upper",
+        "valid_draws",
+        "excluded_zero_denominator_draws",
+        "uncertainty_scope"
+      ]
+    },
+    "endes_interview_year/prediction/results/target_domain_counts.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/prediction/results/target_domain_counts.csv",
+      "sha256": "73bf78585eb5eac7d20caae91a39d33d8d0d3b092945958d265a6e054924ea19",
+      "bytes": 154,
+      "matches_current_study_file": true,
+      "rows": 4,
+      "columns": [
+        "domain",
+        "women",
+        "PSUs",
+        "strata",
+        "endorsers"
+      ]
+    },
+    "endes_interview_year/prediction/results/interval_readiness.csv": {
+      "archive": "revision_2026/analysis_completion_2026_10_20_temporal_network/Temporal_ENDES_Observed_GraphSAGE_code_results.zip",
+      "archive_sha256": "5c94097f9dfdefcf644fcc5884f3c4a035a7dfb7a20fe9d77b556d57bf41e440",
+      "archive_member": "revision_2026/04_mental_health/endes_temporal_replication/prediction/results/interval_readiness.csv",
+      "sha256": "f34edeaf99182ee7024a079b91886970a6a81cecf082c3cce77804e13ef7ea0e",
+      "bytes": 276,
+      "matches_current_study_file": true,
+      "rows": 4,
+      "columns": [
+        "domain",
+        "women",
+        "PSUs",
+        "intervals_available",
+        "reason"
+      ]
+    },
+    "covid_stress/scripts/prepare_cohort.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/scripts/prepare_cohort.py",
+      "sha256": "3037fd61845df0096139c791e67b3368444e4ea3bc51603c4659a991b1a3ae53",
+      "bytes": 5892,
+      "matches_current_study_file": true
+    },
+    "covid_stress/scripts/stress_robustness.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/scripts/stress_robustness.py",
+      "sha256": "54512344c395a9ab74fd6eb7dda888f926c56575cf9b0db427883f6081bb3582",
+      "bytes": 3546,
+      "matches_current_study_file": true
+    },
+    "covid_stress/analysis/README.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/analysis/README.md",
+      "sha256": "f28c0442afd78a963620d36cf3cbec9612352f5b958f9e17042728774577cf4f",
+      "bytes": 3292,
+      "matches_current_study_file": true
+    },
+    "covid_stress/analysis/cohort_country_summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/analysis/cohort_country_summary.csv",
+      "sha256": "5f3fb87b418f66fce9d1d5aa95e83f1c82f11a9ae8e3234a499e23976a5cf156",
+      "bytes": 355,
+      "matches_current_study_file": true,
+      "rows": 6,
+      "columns": [
+        "country",
+        "n",
+        "mean_pss",
+        "sd_pss",
+        "historical_gap"
+      ]
+    },
+    "covid_stress/analysis/exclusion_ledger.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/analysis/exclusion_ledger.csv",
+      "sha256": "bd36bda94371e14c52d7835cca391fcec9957851f05ea616392c995b324324c7",
+      "bytes": 368,
+      "matches_current_study_file": true,
+      "rows": 6,
+      "columns": [
+        "step",
+        "before",
+        "retained",
+        "excluded"
+      ]
+    },
+    "covid_stress/analysis/cohort_missingness.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/analysis/cohort_missingness.csv",
+      "sha256": "18c2da5f025b1fd238b35e2ded16f08fc10145e29481d839dcd90ac562901135",
+      "bytes": 434,
+      "matches_current_study_file": true,
+      "rows": 23,
+      "columns": [
+        "variable",
+        "missing"
+      ]
+    },
+    "covid_stress/robustness/config.json": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/robustness/config.json",
+      "sha256": "7088ba770392d903def6c1857a384a4fd585544c5285c58ecc8b0a32f1cca5f1",
+      "bytes": 384,
+      "matches_current_study_file": true
+    },
+    "covid_stress/robustness/README.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/robustness/README.md",
+      "sha256": "8bdbea77a29918d1f4492a22f5d13956082fe32b346b995cbd49c97d44fcd2c3",
+      "bytes": 1637,
+      "matches_current_study_file": true
+    },
+    "covid_stress/robustness/per_country_metrics.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/robustness/per_country_metrics.csv",
+      "sha256": "8277f07baf23fdf39af4ff772b0185894a73a0ecdfce18189a62dc2bc8d95fb3",
+      "bytes": 19397,
+      "matches_current_study_file": true,
+      "rows": 154,
+      "columns": [
+        "cohort",
+        "country",
+        "features",
+        "model",
+        "train_n",
+        "test_n",
+        "MAE",
+        "RMSE",
+        "R2"
+      ]
+    },
+    "covid_stress/robustness/summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/covid19/robustness/summary.csv",
+      "sha256": "ff4d20a7f6caadd861085f24c91773f9075acf93fb9c3e9a19553225dcce8f51",
+      "bytes": 3132,
+      "matches_current_study_file": true,
+      "rows": 28,
+      "columns": [
+        "cohort",
+        "features",
+        "model",
+        "countries",
+        "macro_MAE",
+        "macro_RMSE",
+        "macro_R2"
+      ]
+    },
+    "covid_stress/scripts/benchmark_covid_embeddings.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/scripts/benchmark_covid_embeddings.py",
+      "sha256": "b79d761c02b4c23b5d8149cbc0e75470934ec0b99b05de18a53fbd493a0d43eb",
+      "bytes": 9563,
+      "matches_current_study_file": true
+    },
+    "covid_stress/covid_pilot/config.json": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/covid_pilot/config.json",
+      "sha256": "f9428b2b79bbd15f1584fa9e135ee93421cbbb56582b556aa5c8c1d225841e96",
+      "bytes": 661,
+      "matches_current_study_file": true
+    },
+    "covid_stress/covid_pilot/README.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/covid_pilot/README.md",
+      "sha256": "547e4f6e6f31b889798074c3d476998faf81a91ed64d5f486f1b557800996f82",
+      "bytes": 3826,
+      "matches_current_study_file": true
+    },
+    "covid_stress/covid_pilot/macro_country_summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/covid_pilot/macro_country_summary.csv",
+      "sha256": "4c11b11eae1b0a7f94138f7f676dca1e64b608fc30c3c2c47c85a2c97e5d87c8",
+      "bytes": 1142,
+      "matches_current_study_file": true,
+      "rows": 11,
+      "columns": [
+        "features",
+        "model",
+        "country_count",
+        "macro_MAE",
+        "macro_RMSE",
+        "macro_R2"
+      ]
+    },
+    "covid_stress/covid_pilot/per_country_metrics.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/covid_pilot/per_country_metrics.csv",
+      "sha256": "aa2af06cd42b18aabb89bc6c5191d4484eb807d6d4c050315126e81014cf5302",
+      "bytes": 10624,
+      "matches_current_study_file": true,
+      "rows": 90,
+      "columns": [
+        "held_out_country",
+        "features",
+        "model",
+        "seed",
+        "train_n",
+        "test_n",
+        "MAE",
+        "RMSE",
+        "R2"
+      ]
+    },
+    "gfs_symptoms/scripts/prepare_gfs.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/scripts/prepare_gfs.py",
+      "sha256": "765ac4db44607aa6857a0be3a3e45161e76d16d4f278f8da0c5bf408b949661d",
+      "bytes": 6143,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/scripts/temporal_context_sensitivity.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/scripts/temporal_context_sensitivity.py",
+      "sha256": "447611510d6e59734fcb9eff998d4e25bbe39f2666258b7bd29d0d6822e31c1b",
+      "bytes": 5834,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/scripts/report_longitudinal_extension.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/scripts/report_longitudinal_extension.py",
+      "sha256": "73b0d9a9c52f7feaae22f8b979e63aa306b4dd8da7d056a01fbadd3d11b62830",
+      "bytes": 6828,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/PROTOCOL.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/PROTOCOL.md",
+      "sha256": "c28a0ec7cd4a725349db0078736756d19de93f61c6e89dc2273cde654973804e",
+      "bytes": 4693,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/LONGITUDINAL_AMENDMENT_2026_10_19.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/LONGITUDINAL_AMENDMENT_2026_10_19.md",
+      "sha256": "6b478fecf618a931b1078f7554f2a995bfe1a134cb098b07f4af8e767315b3c5",
+      "bytes": 3426,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/README.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/README.md",
+      "sha256": "4993f25f52ff49a7320e2fd6e7b81fa06291957351f94a389cc1e88bbcb6e49d",
+      "bytes": 6271,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/analysis/country_coverage.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/country_coverage.csv",
+      "sha256": "37c2d6f61ad43764232f7e75727881b264fb1b740876dedf8ff1c6989e65e6fa",
+      "bytes": 1984,
+      "matches_current_study_file": true,
+      "rows": 23,
+      "columns": [
+        "country",
+        "all_rows",
+        "women",
+        "eligible",
+        "complete_model",
+        "first_date",
+        "last_date",
+        "first_followup",
+        "last_followup",
+        "context_year",
+        "historical_norm",
+        "min_year_gap",
+        "max_year_gap"
+      ]
+    },
+    "gfs_symptoms/analysis/country_crude_bereavement_associations.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/country_crude_bereavement_associations.csv",
+      "sha256": "5271ac116dad7ce4d59ecd19855610ae48983e7243550f87d2f0e79e049cc66c",
+      "bytes": 1590,
+      "matches_current_study_file": true,
+      "rows": 18,
+      "columns": [
+        "country",
+        "outcome",
+        "n",
+        "OR",
+        "lower",
+        "upper"
+      ]
+    },
+    "gfs_symptoms/analysis/covid_bereavement_associations.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/covid_bereavement_associations.csv",
+      "sha256": "099342c534db3211d5a17636962f98c26c68a693c660fa2e840aeca2e09d0635",
+      "bytes": 1126,
+      "matches_current_study_file": true,
+      "rows": 6,
+      "columns": [
+        "outcome",
+        "specification",
+        "n",
+        "countries",
+        "log_OR",
+        "SE",
+        "OR",
+        "lower",
+        "upper",
+        "p",
+        "residual_df",
+        "converged",
+        "holm_p_primary"
+      ]
+    },
+    "gfs_symptoms/analysis/followup_retention.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/followup_retention.csv",
+      "sha256": "1cd511080ab48c27f6b2be3e502484bbfa01a12e23b102e57925af19e049b609",
+      "bytes": 391,
+      "matches_current_study_file": true,
+      "rows": 9,
+      "columns": [
+        "country",
+        "baseline_women",
+        "paired_women",
+        "unweighted_retention_fraction"
+      ]
+    },
+    "gfs_symptoms/analysis/longitudinal_paired_descriptives.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/longitudinal_paired_descriptives.csv",
+      "sha256": "2b2b9ac33ab575c7b3df1da849e2b834b3f4db8d87badedcc468af9a22f0f34d",
+      "bytes": 2668,
+      "matches_current_study_file": true,
+      "rows": 27,
+      "columns": [
+        "country",
+        "outcome",
+        "n",
+        "estimate",
+        "SE",
+        "lower",
+        "upper"
+      ]
+    },
+    "gfs_symptoms/analysis/weighted_country_estimates.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/weighted_country_estimates.csv",
+      "sha256": "e4e8568733ec09489598fbe583102e3cc605f3a82f53344b1b980c5adbfb01a6",
+      "bytes": 3921,
+      "matches_current_study_file": true,
+      "rows": 36,
+      "columns": [
+        "country",
+        "outcome",
+        "n",
+        "estimate",
+        "SE",
+        "lower",
+        "upper",
+        "design_df"
+      ]
+    },
+    "gfs_symptoms/analysis/leave_country_out_association.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/leave_country_out_association.csv",
+      "sha256": "c3b4cacb981375cd522a804e94ec0000997a79d71fe5bad66fd626e1c426f8ff",
+      "bytes": 1887,
+      "matches_current_study_file": true,
+      "rows": 20,
+      "columns": [
+        "outcome",
+        "excluded_country",
+        "n",
+        "OR",
+        "lower",
+        "upper",
+        "converged"
+      ]
+    },
+    "gfs_symptoms/analysis/singleton_variance_sensitivity.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/singleton_variance_sensitivity.csv",
+      "sha256": "095bb98823a8d99f6f2eaf227d1ef2b83765fd3a68df8c5cebffc99810137bd1",
+      "bytes": 644,
+      "matches_current_study_file": true,
+      "rows": 6,
+      "columns": [
+        "outcome",
+        "singleton_method",
+        "OR",
+        "SE",
+        "lower",
+        "upper"
+      ]
+    },
+    "gfs_symptoms/analysis/calendar_time_sensitivity.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/analysis/calendar_time_sensitivity.csv",
+      "sha256": "56b08334b036454b502aee7c8bac875116310385e923413a7b3d8f87e7b31b84",
+      "bytes": 299,
+      "matches_current_study_file": true,
+      "rows": 2,
+      "columns": [
+        "outcome",
+        "n",
+        "OR",
+        "lower",
+        "upper",
+        "converged",
+        "status"
+      ]
+    },
+    "gfs_symptoms/longitudinal_extension/RESULTS.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/longitudinal_extension/RESULTS.md",
+      "sha256": "7c2261465775182a423462c9cc71bec42d56c44dafe2fe6fd2ae3f4fe12a7a35",
+      "bytes": 3474,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/longitudinal_extension/followup_bereavement_associations.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/longitudinal_extension/followup_bereavement_associations.csv",
+      "sha256": "9a0094c3062999857db8602870370c1871457f7bc81ee9bdb21c1337aee13845",
+      "bytes": 908,
+      "matches_current_study_file": true,
+      "rows": 4,
+      "columns": [
+        "specification",
+        "n",
+        "countries",
+        "coefficient_phq4_points",
+        "SE",
+        "lower",
+        "upper",
+        "p",
+        "residual_df",
+        "converged",
+        "baseline_min",
+        "baseline_max",
+        "followup_min",
+        "followup_max",
+        "interval_missing"
+      ]
+    },
+    "gfs_symptoms/longitudinal_extension/sample_coverage.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/longitudinal_extension/sample_coverage.csv",
+      "sha256": "e4332c1a75daba39a94ecf0d10afd35db6665020bf0383d42f78d2b570345bcb",
+      "bytes": 476,
+      "matches_current_study_file": true,
+      "rows": 9,
+      "columns": [
+        "country",
+        "baseline_eligible",
+        "paired_with_weight",
+        "complete_longitudinal_model",
+        "retention_fraction"
+      ]
+    },
+    "gfs_symptoms/country_profile_extension/PROTOCOL.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/PROTOCOL.md",
+      "sha256": "0747036f57939bc7c732ccc12531ac21c0f308f039d74f6c0b6123be842595ee",
+      "bytes": 7704,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/country_profile_extension/RESULTS.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/RESULTS.md",
+      "sha256": "5d5c18c5f695db78b917ac648881c9daad05d870678683d674a9a6757b18d00c",
+      "bytes": 6170,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/country_profile_extension/run_extension.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/run_extension.py",
+      "sha256": "d9568a5e7cf553b32cbb864af8b38691baa4da917e765a8890bfc5eac944fd1e",
+      "bytes": 21673,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/country_profile_extension/country_correlations.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/country_correlations.csv",
+      "sha256": "c426c69cfb234dad166dd98cb44488b010a2b8007d36d89d6d8f82db0803a979",
+      "bytes": 2427,
+      "matches_current_study_file": true,
+      "rows": 18,
+      "columns": [
+        "feature",
+        "outcome",
+        "time",
+        "countries",
+        "rho",
+        "exact_p",
+        "deletion_rho_min",
+        "deletion_rho_max",
+        "family",
+        "holm_p"
+      ]
+    },
+    "gfs_symptoms/country_profile_extension/country_symptom_estimates.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/country_symptom_estimates.csv",
+      "sha256": "5f4594f3a131bdebe3e05df2ca7f0f2e9d91ff05c36b8209425cad43d3090112",
+      "bytes": 5559,
+      "matches_current_study_file": true,
+      "rows": 54,
+      "columns": [
+        "country",
+        "outcome",
+        "n",
+        "estimate",
+        "SE",
+        "lower",
+        "upper",
+        "design_df"
+      ]
+    },
+    "gfs_symptoms/country_profile_extension/prediction_country_metrics.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/prediction_country_metrics.csv",
+      "sha256": "e40b968bd86cfce8c4362d70ee4cfa6b41f385a90d5300f821f84f063ac4278d",
+      "bytes": 10610,
+      "matches_current_study_file": true,
+      "rows": 108,
+      "columns": [
+        "held_out_country",
+        "outcome",
+        "model",
+        "train_n",
+        "test_n",
+        "MAE",
+        "RMSE",
+        "R2"
+      ]
+    },
+    "gfs_symptoms/country_profile_extension/prediction_context_summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/prediction_context_summary.csv",
+      "sha256": "d26852e26483650d8ca244093b248a3b5e67472f87a26ede2f572772037fd6ad",
+      "bytes": 614,
+      "matches_current_study_file": true,
+      "rows": 6,
+      "columns": [
+        "outcome",
+        "model",
+        "countries",
+        "mean_MAE_change",
+        "countries_improved",
+        "min_MAE_change",
+        "max_MAE_change"
+      ]
+    },
+    "gfs_symptoms/country_profile_extension/prediction_summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/prediction_summary.csv",
+      "sha256": "0b73c29179cf306d140b888a7472b0cee0acc8a435099cc3679386e85d14d972",
+      "bytes": 1272,
+      "matches_current_study_file": true,
+      "rows": 12,
+      "columns": [
+        "outcome",
+        "model",
+        "countries",
+        "macro_MAE",
+        "macro_RMSE",
+        "macro_R2",
+        "median_R2"
+      ]
+    },
+    "gfs_symptoms/country_profile_extension/sample_coverage.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/country_profile_extension/sample_coverage.csv",
+      "sha256": "457f5fb261d9f7f3d02167cb26c4a738bf904369cfc4d2e871553c0e8c24dfba",
+      "bytes": 685,
+      "matches_current_study_file": true,
+      "rows": 9,
+      "columns": [
+        "country",
+        "paired_women",
+        "complete_model_women",
+        "baseline_min",
+        "baseline_max",
+        "followup_min",
+        "followup_max"
+      ]
+    },
+    "gfs_symptoms/attrition_sensitivity/PROTOCOL.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/attrition_sensitivity/PROTOCOL.md",
+      "sha256": "6a7112d327db02ba01900e3b3e9f5d94ac28cb437777c2de9053422baf63465e",
+      "bytes": 6774,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/attrition_sensitivity/RESULTS.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/attrition_sensitivity/RESULTS.md",
+      "sha256": "ec47780fcdb4a7f2d90ffc5541dc5a950b29ae119b98417e940ab4b8357fb992",
+      "bytes": 5589,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/attrition_sensitivity/build_artifacts.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/attrition_sensitivity/build_artifacts.py",
+      "sha256": "56e3bf272500d70155a8b9d75322a54b69d8d5bd8452bddc52fe45610c320f26",
+      "bytes": 6560,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/attrition_sensitivity/check_and_report.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/attrition_sensitivity/check_and_report.py",
+      "sha256": "edf069ac32169035a152d675ce34d521dc2218e8e63d218b4031071cee8b534d",
+      "bytes": 17658,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/attrition_sensitivity/followup_attrition_sensitivity.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/attrition_sensitivity/followup_attrition_sensitivity.csv",
+      "sha256": "27e7499678a2243037eb003effaf50e82a17797fdc6cf7f7a3ee1fff21c361a4",
+      "bytes": 1194,
+      "matches_current_study_file": true,
+      "rows": 4,
+      "columns": [
+        "specification",
+        "n",
+        "baseline_target_n",
+        "coefficient_phq4_points",
+        "SE",
+        "lower",
+        "upper",
+        "residual_df",
+        "conditional_weight_SE",
+        "variance_method",
+        "target"
+      ]
+    },
+    "gfs_symptoms/attrition_sensitivity/retention_by_country.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/attrition_sensitivity/retention_by_country.csv",
+      "sha256": "c41716c78e0521a0fae65f70764b86f9a96bcab83d97e893030168dbf9f37a9a",
+      "bytes": 1393,
+      "matches_current_study_file": true,
+      "rows": 9,
+      "columns": [
+        "country",
+        "baseline_complete",
+        "retained",
+        "unweighted_retention",
+        "baseline_weighted_retention",
+        "target_baseline_weight_mass",
+        "missing_followup_symptoms",
+        "missing_positive_longitudinal_weight",
+        "min_probability",
+        "max_probability",
+        "below_probability_005",
+        "retained_below_probability_005"
+      ]
+    },
+    "gfs_symptoms/attrition_sensitivity/weight_diagnostics.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/attrition_sensitivity/weight_diagnostics.csv",
+      "sha256": "ed0875bd6feb0f47c503d2936b5e4e42e2f2556741657f82df83b60adfe45317",
+      "bytes": 5527,
+      "matches_current_study_file": true,
+      "rows": 40,
+      "columns": [
+        "country",
+        "specification",
+        "n",
+        "sum_weight",
+        "min_weight",
+        "median_weight",
+        "max_weight",
+        "kish_effective_n"
+      ]
+    },
+    "gfs_symptoms/temporal_context/protocol.json": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/temporal_context/protocol.json",
+      "sha256": "306046a41b235dbe017dfe0b30fa92250c0854342201de3d9b9c38ea31d79f83",
+      "bytes": 514,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/temporal_context/per_country_metrics.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/temporal_context/per_country_metrics.csv",
+      "sha256": "0246bff751520d19062626460c9559d16bb0845f090e7ac3ded7d8644d692b0d",
+      "bytes": 4926,
+      "matches_current_study_file": true,
+      "rows": 54,
+      "columns": [
+        "country",
+        "context",
+        "model",
+        "MAE",
+        "R2",
+        "train_n",
+        "test_n"
+      ]
+    },
+    "gfs_symptoms/temporal_context/summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/gfs_public/temporal_context/summary.csv",
+      "sha256": "22f8a4d9bba4fb6ef64ac9653e2c64bfd6dbde76cdfc63826d59c0c6ce887253",
+      "bytes": 493,
+      "matches_current_study_file": true,
+      "rows": 6,
+      "columns": [
+        "context",
+        "model",
+        "countries",
+        "macro_MAE",
+        "macro_R2"
+      ]
+    },
+    "gfs_symptoms/scripts/benchmark_gfs.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/scripts/benchmark_gfs.py",
+      "sha256": "a50afadf2786911e5c1b2badf5d9a09e21107abeca96324bfeb4ff52c3d8e27c",
+      "bytes": 9077,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/gfs_public/config.json": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/gfs_public/config.json",
+      "sha256": "056feb276c89c4b2fbd383632b0048560f8b0d1331fe9c5498fa6fb6d07b9fcc",
+      "bytes": 717,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/gfs_public/macro_country_summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/gfs_public/macro_country_summary.csv",
+      "sha256": "21505fa19b018f6e06e1b5fecb8db6a8471afeca3e17abf4bb47b27f180bc634",
+      "bytes": 1187,
+      "matches_current_study_file": true,
+      "rows": 11,
+      "columns": [
+        "features",
+        "model",
+        "countries",
+        "macro_MAE",
+        "macro_RMSE",
+        "macro_R2"
+      ]
+    },
+    "gfs_symptoms/gfs_public/per_country_metrics.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/gfs_public/per_country_metrics.csv",
+      "sha256": "0843bcc8bdddc4e8a8128580a66e8c2626bfcf58c8e4ab46fd00b2b83045de61",
+      "bytes": 16490,
+      "matches_current_study_file": true,
+      "rows": 135,
+      "columns": [
+        "held_out_country",
+        "features",
+        "model",
+        "seed",
+        "train_n",
+        "test_n",
+        "MAE",
+        "RMSE",
+        "R2"
+      ]
+    },
+    "gfs_symptoms/nested_gfs/PROTOCOL.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/nested_gfs/PROTOCOL.md",
+      "sha256": "fc6a901295ae0a0feb8411bca88356fe5c1991e79fb889025c77e48d55a536f6",
+      "bytes": 3133,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/nested_gfs/RESULTS.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/nested_gfs/RESULTS.md",
+      "sha256": "8afaa3e79ff2ca27a7ef907045468df88ddb005889bbe793c7ac0969a26cc65a",
+      "bytes": 2345,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/nested_gfs/run_nested.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/nested_gfs/run_nested.py",
+      "sha256": "099cb5b6d7a3a117623197f86150742cdbbea5daf3bcad0e0c140a7a25b576be",
+      "bytes": 9490,
+      "matches_current_study_file": true
+    },
+    "gfs_symptoms/nested_gfs/results/per_country_metrics.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/nested_gfs/results/per_country_metrics.csv",
+      "sha256": "ec9f887c170663478ec6a5585201dcc2e0b7e0b0378006e149da814b0f1e8cd5",
+      "bytes": 3986,
+      "matches_current_study_file": true,
+      "rows": 54,
+      "columns": [
+        "held_out",
+        "label",
+        "MAE",
+        "RMSE",
+        "R2"
+      ]
+    },
+    "gfs_symptoms/nested_gfs/results/summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/06_optional_cebra/nested_gfs/results/summary.csv",
+      "sha256": "246492f1ea3c8cb3daa25962b3a79b3c135d2a20b8ac81e3ff3cbdd223ce7d5f",
+      "bytes": 445,
+      "matches_current_study_file": true,
+      "rows": 6,
+      "columns": [
+        "label",
+        "countries",
+        "mean_MAE",
+        "mean_RMSE",
+        "mean_R2"
+      ]
+    },
+    "un_women/README.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/README.md",
+      "sha256": "c304992fb5f27448363eda73e6b616cf911924c53a9573a7f95cc89d301e41e4",
+      "bytes": 4658,
+      "matches_current_study_file": true
+    },
+    "un_women/BOTH_QUESTIONS_DESIGN.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/BOTH_QUESTIONS_DESIGN.md",
+      "sha256": "069ec49a521a92bfb6ed70096e55365a92b2c9700a60abb67955f0de711d5d42",
+      "bytes": 7538,
+      "matches_current_study_file": true
+    },
+    "un_women/colombia_exploratory/PROTOCOL.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/PROTOCOL.md",
+      "sha256": "010f698f92700959076791122d88cfb1709006cc7950f650371f5452dfb5de5f",
+      "bytes": 4520,
+      "matches_current_study_file": true
+    },
+    "un_women/colombia_exploratory/prepare_pilot.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/prepare_pilot.py",
+      "sha256": "a8c6806ddfdb6162f98bf6e8539681bc854f53450ad144893f64c54916eb6b56",
+      "bytes": 5127,
+      "matches_current_study_file": true
+    },
+    "un_women/colombia_exploratory/report_and_check.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/report_and_check.py",
+      "sha256": "16c76611d05712ec677ef95d52914b5a85fa76727a435b9ca57d5d3020e76186",
+      "bytes": 15585,
+      "matches_current_study_file": true
+    },
+    "un_women/colombia_exploratory/RESULTS.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/RESULTS.md",
+      "sha256": "a57670e42752bdf16ac8d5a16810b7e9fc59d414ad30d0fdb742f3dd27676b11",
+      "bytes": 6202,
+      "matches_current_study_file": true
+    },
+    "un_women/colombia_exploratory/TIMING_SENSITIVITY_AMENDMENT.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/TIMING_SENSITIVITY_AMENDMENT.md",
+      "sha256": "c9c55845db9e702046f61c5d4593a50dea67561283885cf29dfe6c66c24aeb0d",
+      "bytes": 821,
+      "matches_current_study_file": true
+    },
+    "un_women/colombia_exploratory/adjusted_symptom_associations.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/adjusted_symptom_associations.csv",
+      "sha256": "cd20bd969a9f01c01b3ccc6840b8e3a45c7e2ee29f5c58b820dc2e3f3ca017a2",
+      "bytes": 394,
+      "matches_current_study_file": true,
+      "rows": 2,
+      "columns": [
+        "outcome",
+        "n",
+        "direct_positive",
+        "difference",
+        "SE",
+        "lower",
+        "upper",
+        "p",
+        "residual_df",
+        "converged",
+        "holm_p"
+      ]
+    },
+    "un_women/colombia_exploratory/reported_worsening.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/reported_worsening.csv",
+      "sha256": "82296125a93ff63a583b9738031421bd4159d6511c3cd9a7dfdb2553dc55d5eb",
+      "bytes": 6507,
+      "matches_current_study_file": true,
+      "rows": 53,
+      "columns": [
+        "country",
+        "outcome",
+        "n_valid",
+        "n_yes",
+        "estimate",
+        "SE",
+        "lower",
+        "upper",
+        "df"
+      ]
+    },
+    "un_women/colombia_exploratory/sample_coverage.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/sample_coverage.csv",
+      "sha256": "fc2cc3de03b965daa483a8909e279f69c20b249f9fe43ef38104be9841d7d33c",
+      "bytes": 468,
+      "matches_current_study_file": true,
+      "rows": 13,
+      "columns": [
+        "country",
+        "released_women",
+        "valid_weight",
+        "valid_direct_ipv",
+        "symptoms_complete",
+        "complete_primary_models"
+      ]
+    },
+    "un_women/colombia_exploratory/unadjusted_symptom_means.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/unadjusted_symptom_means.csv",
+      "sha256": "4a32a8484aa91cb58fe8a2f73c5dd0f587362410325daef975c8786b8a6d573b",
+      "bytes": 452,
+      "matches_current_study_file": true,
+      "rows": 4,
+      "columns": [
+        "outcome",
+        "direct_ipv",
+        "n",
+        "estimate",
+        "SE",
+        "lower",
+        "upper",
+        "df"
+      ]
+    },
+    "un_women/colombia_exploratory/post_primary_timing_sensitivity.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/post_primary_timing_sensitivity.csv",
+      "sha256": "64d4c2b9a87f2eda45ca9ebb4d317113f70a6ab80c107d3d75d736da1bad93cd",
+      "bytes": 356,
+      "matches_current_study_file": true,
+      "rows": 2,
+      "columns": [
+        "outcome",
+        "n",
+        "direct_positive",
+        "difference",
+        "SE",
+        "lower",
+        "upper",
+        "p_unadjusted",
+        "residual_df",
+        "converged"
+      ]
+    },
+    "un_women/colombia_exploratory/broad_mental_impact_descriptive.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/colombia_exploratory/broad_mental_impact_descriptive.csv",
+      "sha256": "9a749457af5dd55cc8b81259422fad5bbc3dbfa9e6110a1da86e5bbd8eee0c4a",
+      "bytes": 219,
+      "matches_current_study_file": true,
+      "rows": 2,
+      "columns": [
+        "direct_ipv",
+        "n",
+        "estimate",
+        "SE",
+        "lower",
+        "upper",
+        "df"
+      ]
+    },
+    "un_women/context_prediction/PROTOCOL.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/context_prediction/PROTOCOL.md",
+      "sha256": "dfdca7abf757ee121df56c08a526d83b62b30cc3de10bc4683dfe692faac4bd8",
+      "bytes": 5337,
+      "matches_current_study_file": true
+    },
+    "un_women/context_prediction/RESULTS.md": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/context_prediction/RESULTS.md",
+      "sha256": "c973e0a6629f5195d079ef6351ebc19e6a9554f20a055336bb27dfd0bfbcd979",
+      "bytes": 5604,
+      "matches_current_study_file": true
+    },
+    "un_women/context_prediction/run_comparison.py": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/context_prediction/run_comparison.py",
+      "sha256": "8b75b6b02ae76a517741afbc6220471030e790aa1549c74c434cba704b70d166",
+      "bytes": 19591,
+      "matches_current_study_file": true
+    },
+    "un_women/context_prediction/country_metrics.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/context_prediction/country_metrics.csv",
+      "sha256": "79c8835f2d3ae903c09ff9a5633dcde294429541eb18e3ce58d96abe5a92287c",
+      "bytes": 20418,
+      "matches_current_study_file": true,
+      "rows": 108,
+      "columns": [
+        "cohort",
+        "held_out_country",
+        "outcome",
+        "model",
+        "train_n",
+        "test_n",
+        "MAE",
+        "RMSE",
+        "R2",
+        "prediction_weighted_mean",
+        "prediction_min",
+        "prediction_max",
+        "predictions_outside_bounds"
+      ]
+    },
+    "un_women/context_prediction/prediction_summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/context_prediction/prediction_summary.csv",
+      "sha256": "d350359fee4ae99b696bc0b2b11848a57706ad282292700dbebb0b387cc89066",
+      "bytes": 2311,
+      "matches_current_study_file": true,
+      "rows": 16,
+      "columns": [
+        "cohort",
+        "outcome",
+        "model",
+        "countries",
+        "women",
+        "macro_MAE",
+        "macro_RMSE",
+        "macro_R2",
+        "median_R2",
+        "predictions_outside_bounds"
+      ]
+    },
+    "un_women/context_prediction/context_increment_by_country.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/context_prediction/context_increment_by_country.csv",
+      "sha256": "89430946088339a7809e9fea3b6d5927ae1a1cce8cfaba2a1f4edea675c59907",
+      "bytes": 12679,
+      "matches_current_study_file": true,
+      "rows": 52,
+      "columns": [
+        "cohort",
+        "held_out_country",
+        "outcome",
+        "model",
+        "train_n",
+        "test_n",
+        "MAE",
+        "RMSE",
+        "R2",
+        "prediction_weighted_mean",
+        "prediction_min",
+        "prediction_max",
+        "predictions_outside_bounds",
+        "individual_MAE",
+        "MAE_change",
+        "improved"
+      ]
+    },
+    "un_women/context_prediction/context_increment_summary.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/context_prediction/context_increment_summary.csv",
+      "sha256": "778e5de768649e683892a856f632fd4743b8f5d2edceea8fa91ffd4a1a870a49",
+      "bytes": 1072,
+      "matches_current_study_file": true,
+      "rows": 8,
+      "columns": [
+        "cohort",
+        "outcome",
+        "model",
+        "countries",
+        "mean_MAE_change",
+        "countries_improved",
+        "min_MAE_change",
+        "max_MAE_change"
+      ]
+    },
+    "un_women/context_prediction/sample_coverage.csv": {
+      "archive": "revision_2026/07_manuscript/Communications_Psychology_code_aggregate_results.zip",
+      "archive_sha256": "cd527e92ce62bd94eb42f3cfab40a73f895f7b3fbceafe65e5bfa681e2308dcd",
+      "archive_member": "revision_2026/04_mental_health/women_covid_vaw/context_prediction/sample_coverage.csv",
+      "sha256": "b15e8035d38e968b4f8f4fcafb8b0d2e9ab6c938c6dbd072ad8a5262c92c3dda",
+      "bytes": 642,
+      "matches_current_study_file": true,
+      "rows": 13,
+      "columns": [
+        "country",
+        "released_women",
+        "missing_symptoms",
+        "complete_symptoms_missing_predictors",
+        "otherwise_complete_invalid_weight",
+        "complete_women",
+        "national_context",
+        "all_contexts"
+      ]
+    }
+  },
+  "excluded": [
+    "individual respondent records and identifiers",
+    "per-person predictions or embeddings",
+    "raw/provider source downloads and source inputs",
+    "data_local directories",
+    "neural/other fitted model states and model_records",
+    "posterior blocks",
+    "bootstrap replicate arrays",
+    "EEG/fMRI",
+    "figures/source reports"
+  ],
+  "original_file_count": 107,
+  "original_bytes": 606889
+}

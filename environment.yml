@@ -19,3 +19,7 @@ dependencies:
   - notebook
   - nbformat
   - openpyxl
+  - requests
+  - pip
+  - pip:
+    - kagglehub

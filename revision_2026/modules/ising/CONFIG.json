@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-22",
+  "status": "retrospective_exploratory_protocol_before_fitting",
+  "source_cohort_sha256": "35e022e42c8c420eb17aab9c7d43ef4ad65443a805620e2a1ba027dbc9843828",
+  "source_cohort": "../endes_education_attitudes_2026_10_21/data_local/attitude_cohort.csv.gz",
+  "items": [
+    "V744A",
+    "V744B",
+    "V744C",
+    "V744D",
+    "V744E"
+  ],
+  "item_labels": [
+    "Goes out without telling him",
+    "Neglects children",
+    "Argues with him",
+    "Refuses sex",
+    "Burns food"
+  ],
+  "weightings": [
+    "released_weight",
+    "equal_person"
+  ],
+  "assignment_seeds": [
+    42,
+    43,
+    44
+  ],
+  "folds": 5,
+  "primary_partition": 42,
+  "primary_weighting": "released_weight",
+  "models": [
+    "independent",
+    "common_acceptance",
+    "ising"
+  ],
+  "intercept_prior_sd": 5.0,
+  "ising_interaction_prior_sd": 1.0,
+  "common_acceptance_scale_prior_sd": 2.0,
+  "quadrature_points": 1921,
+  "common_scale_bounds": [
+    0.001,
+    10.0
+  ],
+  "common_initial_scales": [
+    0.5,
+    1.5,
+    3.0
+  ],
+  "maxiter": 3000,
+  "ftol": 1e-13,
+  "gtol": 1e-07,
+  "stability_bootstrap_draws": 200,
+  "prediction_bootstrap_draws": 2000,
+  "bootstrap_seed": 20261022,
+  "manuscript_integration": false,
+  "quadrature_check_points": 3841,
+  "quadrature_absolute_tolerance": 1e-08,
+  "quadrature_relative_tolerance": 1e-05,
+  "quadrature_NLL_tolerance": 1e-06
+}

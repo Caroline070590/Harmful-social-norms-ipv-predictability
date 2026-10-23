@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-20",
+  "estimand": "equal-person prediction in observed eligible linked respondents; not national population inference",
+  "outcome": "phq9_total",
+  "bounds": [0, 27],
+  "feature_models": ["M0", "M1", "M2", "M3", "M4"],
+  "primary_comparison": ["M3", "M1"],
+  "primary_algorithm": "ridge",
+  "algorithms": ["ridge", "hist_gradient_boosting"],
+  "ridge_alpha": 10.0,
+  "boosting": {"max_iter": 200, "learning_rate": 0.05, "max_leaf_nodes": 7, "min_samples_leaf": 40, "l2_regularization": 10.0, "early_stopping": false},
+  "outer_folds": 5,
+  "assignment_seeds": [42, 43, 44],
+  "bootstrap_draws": 2000,
+  "bootstrap_seed": 20261020,
+  "model_selection_using_outer_outcomes": false,
+  "religion_available": false,
+  "joint_intersection_population_weight_verified": false
+}

@@ -1,0 +1,7 @@
+context,model,countries,macro_MAE,macro_R2
+historical_original,hist_gradient_boosting,9,2.6682947939636823,-0.026875320551271495
+historical_original,ridge,9,2.661961599322939,-0.027397422984541682
+individual_only,hist_gradient_boosting,9,2.6536363443845534,-0.02389711331386631
+individual_only,ridge,9,2.643810921076185,-0.018141291967099252
+latest_prebaseline,hist_gradient_boosting,9,2.690372055494608,-0.04724646305555296
+latest_prebaseline,ridge,9,2.6627541420726986,-0.028249385323309464

@@ -1,0 +1,89 @@
+{
+  "scope": "post-primary retrospective exploratory national country-scenario hierarchy",
+  "evaluations": [
+    "chronological42",
+    "external19"
+  ],
+  "donor_cases": [
+    "questionnaire_compatible",
+    "omit_india"
+  ],
+  "items": [
+    "WE_AWBT_W_BFD",
+    "WE_AWBT_W_ARG",
+    "WE_AWBT_W_OUT",
+    "WE_AWBT_W_NEG",
+    "WE_AWBT_W_REF"
+  ],
+  "features": [
+    "calendar",
+    "hdi",
+    "electoral_democracy",
+    "liberal_democracy",
+    "women_political_empowerment"
+  ],
+  "models": {
+    "B0": "calendar only all coordinates",
+    "B1": "calendar all coordinates; structural context national mean only",
+    "B2": "calendar and structural context all coordinates"
+  },
+  "priors": {
+    "primary": {
+      "a0": 2.0,
+      "b0": 100.0
+    },
+    "smaller_variance_prior": {
+      "a0": 2.0,
+      "b0": 50.0
+    },
+    "larger_variance_prior": {
+      "a0": 2.0,
+      "b0": 200.0
+    }
+  },
+  "lambda_grid": [
+    0.0,
+    0.25,
+    1.0,
+    4.0,
+    16.0
+  ],
+  "lambda_prior_probabilities": [
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2
+  ],
+  "conditional_prior_variances": {
+    "intercept": 25.0,
+    "standardized_slope": 1.0
+  },
+  "prior_intercept_means": [
+    25.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "omitted_surveys_all_cases": [
+    "NP2011DHS"
+  ],
+  "posterior_predictive_draws": 20000,
+  "prediction_seed": 202610220,
+  "bootstrap_draws": 10000,
+  "bootstrap_seed": 202610221,
+  "expected_target_counts": {
+    "chronological42": 42,
+    "external19": 19
+  },
+  "reference_case": "questionnaire_compatible",
+  "case_weights_for_preprocessing_only": "one total per eligible donor country",
+  "likelihood_weights": "one per donor round; country random intercept covariance models repeated countries",
+  "unknown_country_handling": "analytically integrate unseen country random intercept; do not estimate from held-out records",
+  "point_estimate": "analytic posterior predictive mean, bounded to [0,100] for primary loss; raw saved",
+  "inference": "exact normal-inverse-gamma updates and finite prior-mixture integration, no MCMC or ADVI",
+  "predictive_interval_accuracy_check": "compare independent first-half and second-half 2.5/97.5% quantiles of all five scenarios, mean, four contrast coordinates; if maximum endpoint difference >2pp, repeat using 100000 seeded draws; retain any residual failure as disclosed imprecision, not model selection",
+  "predictive_interval_endpoint_tolerance_pp": 2.0,
+  "maximum_posterior_predictive_draws": 100000
+}

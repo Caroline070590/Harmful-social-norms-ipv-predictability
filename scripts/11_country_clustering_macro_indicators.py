@@ -342,8 +342,6 @@ if __name__ == "__main__":
 #   pip install pycountry   (for country names in labels)
 # ------------------------------------------------------------
 
-from __future__ import annotations
-
 from pathlib import Path
 from typing import Optional, List, Set, Tuple
 
@@ -2974,8 +2972,6 @@ if __name__ == "__main__":
 #   pip install numpy pandas matplotlib scipy scikit-learn pycountry
 # --------------------------------------------------------------------------------
 
-from __future__ import annotations
-
 from pathlib import Path
 from typing import Optional, List, Set, Tuple, Dict
 from dataclasses import dataclass
@@ -3607,8 +3603,6 @@ if __name__ == "__main__":
 # Dependencies:
 #   pip install numpy pandas matplotlib scipy scikit-learn pycountry
 # --------------------------------------------------------------------------------
-
-from __future__ import annotations
 
 from pathlib import Path
 from typing import Optional, List, Set, Tuple, Dict
@@ -4284,8 +4278,6 @@ if __name__ == "__main__":
 # Keeps dendrogram/text as vector in PDF by rasterizing only the heatmap.
 # ------------------------------------------------------------
 
-from __future__ import annotations
-
 from pathlib import Path
 from typing import Optional, List, Set, Tuple, Dict
 from dataclasses import dataclass
@@ -4790,8 +4782,6 @@ if __name__ == "__main__":
 #  - Colormap (blue/red) is for heatmaps, not dendrograms.
 # ------------------------------------------------------------
 
-from __future__ import annotations
-
 from pathlib import Path
 from typing import Optional, List, Set, Tuple, Dict
 from dataclasses import dataclass
@@ -5192,8 +5182,6 @@ if __name__ == "__main__":
 #    computed across countries (rows).
 # ------------------------------------------------------------
 
-from __future__ import annotations
-
 from pathlib import Path
 from typing import Optional, List, Set, Tuple, Dict
 
@@ -5519,8 +5507,6 @@ if __name__ == "__main__":
 # Output:
 #   - CountrySimilarity_2panel.(png/pdf)
 # ------------------------------------------------------------
-
-from __future__ import annotations
 
 from pathlib import Path
 from typing import Optional, Dict, List
@@ -5898,8 +5884,6 @@ if __name__ == "__main__":
 #   - P1P2_Rectangular_metricSimilarityProfile.(png/pdf)
 #   - P1P2_CountrySimilarity.(png/pdf)
 # ------------------------------------------------------------
-
-from __future__ import annotations
 
 from pathlib import Path
 from typing import Optional, Dict, List

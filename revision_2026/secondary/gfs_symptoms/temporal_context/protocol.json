@@ -1,0 +1,7 @@
+{
+  "status": "post_primary_exploratory_sensitivity",
+  "selection": "latest DHS survey with fieldwork ending before earliest eligible baseline interview, available national female any-reason indicator; fall back to earlier survey if missing",
+  "not_assumed": "publication before baseline or real-time forecasting; release dates recorded",
+  "no_outcome_based_selection": true,
+  "models": "same capped samples, covariates, weights and fixed ridge/HGB settings as primary benchmark; no additional CEBRA tuning"
+}

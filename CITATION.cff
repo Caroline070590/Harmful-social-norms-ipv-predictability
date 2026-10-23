@@ -1,20 +1,17 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it using the information below."
-title: "Harmful Social Norms IPV Predictability"
+message: "Please cite this repository and identify the commit used. The README links the earlier preprint and distinguishes the current working manuscript."
+title: "Structural context and women’s endorsement of justifications for intimate partner violence: analysis code and aggregate results"
 authors:
   - family-names: "Alves"
     given-names: "Caroline Lourenco"
-version: "1.0.0"
-date-released: "2026-06-16"
 url: "https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability"
 repository-code: "https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability"
-abstract: "Reproducibility package containing code, processed data, external country-level indicators, analysis outputs, figures, and documentation for the manuscript: When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence."
+abstract: "Working research-code repository separating prediction of women's national average endorsement of intimate-partner-violence justifications from prediction of their relative pattern across situations. Includes the historical aggregate benchmark and a scoped current official-source workflow. Original respondent inputs require provider access. This citation does not identify a new numbered release or journal publication."
 keywords:
-  - gender norms
   - intimate partner violence
-  - violence against women
+  - violence justification
   - social norms
+  - cross-national prediction
   - machine learning
-  - cross-national analysis
-  - demographic stratification
+  - aggregate data
   - reproducibility

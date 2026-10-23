@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "scope": "Aggregate score differences and all stored conditional percentile ranges only; no original-source, individual-prediction or model retraining replay.",
+  "metric_rows": 2304,
+  "paired_rows": 84,
+  "bootstrap_rows": 168000
+}

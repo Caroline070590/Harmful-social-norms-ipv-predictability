@@ -1,0 +1,21 @@
+{
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "cebra_iterations": 1000,
+  "embedding_dimensions": 3,
+  "hidden_units": 32,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "conditional": "delta",
+  "delta": 0.3,
+  "distance": "cosine",
+  "device": "cpu",
+  "ridge_alpha": 10.0,
+  "evaluation": "leave one country out; primary output macro average over six countries",
+  "design_status": "exploratory fixed-setting pilot; no confirmatory inference; no causal claims",
+  "null_control": "shuffle only representation-training labels; readout still fits true training outcomes",
+  "input_sha256": "b1b919d2c951d1a9b42d09c3013756e7f5e6cc58c0b759d913d04d05c626c8e4"
+}

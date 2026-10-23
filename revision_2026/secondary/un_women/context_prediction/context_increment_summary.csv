@@ -1,0 +1,9 @@
+cohort,outcome,model,countries,mean_MAE_change,countries_improved,min_MAE_change,max_MAE_change
+complete_profiles_6,depressive_item_sum,education_contrast_pp,6,0.12937326862238652,2,-0.016905646089204973,0.7055533286504718
+complete_profiles_6,depressive_item_sum,national_female_acceptance,6,0.05894994161500119,1,-0.01003903949819307,0.20342882091456715
+complete_profiles_6,depressive_item_sum,rural_contrast_pp,6,0.16421635099966392,3,-0.041016825209457375,0.960464335281153
+complete_profiles_6,worry_item,education_contrast_pp,6,0.050042169481590425,3,-0.026576469220552235,0.3192378029237244
+complete_profiles_6,worry_item,national_female_acceptance,6,0.02267247764143147,2,-0.019423606313353936,0.09896902148516973
+complete_profiles_6,worry_item,rural_contrast_pp,6,0.06025253333780208,4,-0.03231956570822769,0.412722497338033
+national_8,depressive_item_sum,national_female_acceptance,8,0.07074862546147748,2,-0.0023505756826578406,0.4385289103543337
+national_8,worry_item,national_female_acceptance,8,0.021896303548655127,1,-0.003214106104220349,0.15712461888517693

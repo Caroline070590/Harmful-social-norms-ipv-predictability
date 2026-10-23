@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-message: "Please cite this repository and identify the commit used. The README links the earlier preprint and distinguishes the current working manuscript."
+message: "If you use this code, please cite this repository and identify the commit used."
 title: "Structural context and women’s endorsement of justifications for intimate partner violence: analysis code and aggregate results"
 authors:
   - family-names: "Alves"
     given-names: "Caroline Lourenco"
 url: "https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability"
 repository-code: "https://github.com/Caroline070590/Harmful-social-norms-ipv-predictability"
-abstract: "Working research-code repository separating prediction of women's national average endorsement of intimate-partner-violence justifications from prediction of their relative pattern across situations. Includes the historical aggregate benchmark and a scoped current official-source workflow. Original respondent inputs require provider access. This citation does not identify a new numbered release or journal publication."
+abstract: "Analysis code and public aggregate results for a study of whether structural context predicts women's national average endorsement of justifications for intimate partner violence and the relative pattern across five situations, using official survey estimates with country-and-time and external validation. Individual-level source data require provider access."
 keywords:
   - intimate partner violence
   - violence justification

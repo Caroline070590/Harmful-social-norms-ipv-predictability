@@ -1,67 +1,58 @@
 # Structural context and women’s endorsement of justifications for intimate partner violence
 
-Analysis code and public aggregate results for the current working manuscript by **Caroline L. Alves**, Department of Basic Neurosciences, University of Geneva, Switzerland.
+Analysis code and public aggregate results for the manuscript by **Caroline L. Alves**, Department of Basic Neurosciences, University of Geneva, Switzerland.
 
-The central question is whether structural context predicts both **women’s national average endorsement** of violence justifications and **the relative pattern across five situations**. The official-source analyses more consistently support gains in mean-endorsement prediction; added value for the relative scenario profile remains uncertain. The results do not establish causal effects, forecast future violence or demonstrate consistent graph-neural-network superiority.
+The study asks whether structural context predicts both **women’s national average endorsement** of justifications for intimate partner violence and **the relative pattern across five situations** (going out without telling the husband, neglecting the children, arguing, refusing sex and burning the food). Structural context more consistently improves prediction of the national average; additional prediction of the relative pattern remains uncertain. The results do not establish causal effects, forecast future violence or demonstrate consistent graph-neural-network superiority.
 
-## Start with the current analysis
+## Quick start
 
-The [`revision_2026/`](revision_2026/) directory supplies the updated, explicitly scoped workflow. The existing top-level notebooks, result folders and manuscript PDFs document the earlier analysis and are retained separately.
-
-From the repository root:
+Tested with Python 3.9.7, NumPy 1.26, pandas 2.1 and SciPy 1.13. From the repository root:
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-python -m pip install -r revision_2026/requirements.txt
-python revision_2026/reproduce.py check
-python revision_2026/reproduce.py national --output reproduced/national
-python revision_2026/reproduce.py aggregates --output reproduced/aggregate_checks
+python -m pip install -r analysis/requirements.txt
+python analysis/reproduce.py check
+python analysis/reproduce.py national --output reproduced/national
+python analysis/reproduce.py aggregates --output reproduced/aggregate_checks
 ```
 
-The check command validates the supplied inventory, Python syntax and declared replay entry points. The national command refits the fixed models from prepared official national inputs and checks predictions, scores and donor membership. Its bootstrap comparison replays saved country-error tables. The aggregates command checks supporting result calculations in temporary copies without retraining neural models. See [`docs/CURRENT_ANALYSES.md`](docs/CURRENT_ANALYSES.md) for the exact scope. These commands do not download respondent records or refit every model in the manuscript.
-
-| Reproduction task | Scope |
+| Command | What it does |
 |---|---|
-| Current national mean/profile analysis | Official aggregate inputs and the documented public workflow in `revision_2026/`. |
-| Supporting aggregate comparisons | Public summaries and code identified in the current module inventory; saved-summary replay is distinguished from model fitting. |
-| Respondent-level model refitting | Requires original provider releases, source documentation and module-specific environments; individual records and private fitted states are not newly distributed here. |
-| Historical benchmark notebooks | Earlier interactive workflow under `notebooks/` and extracted scripts under `scripts/`; these are not the revised national-analysis entry point. |
+| `check` | Verifies every supplied file against `analysis/MANIFEST.json`, compiles all Python code and confirms the replay entry points. No fitting or downloads. |
+| `national` | Refits the fixed national models from the official aggregate inputs for all 42 country-and-time and 19 external targets, and checks the predictions, country scores and donor membership against the saved results. The bootstrap stage replays saved country-error tables with the original random-number sequence. |
+| `aggregates` | Recomputes the published aggregate results of the seven supporting model analyses in temporary copies, without individual records or neural retraining. |
 
-The primary official test contains **42 country-and-time targets**, predicted using earlier surveys from other countries. External evaluation contains **19 MICS targets**. These are **61 target evaluations in 58 distinct countries**, because three countries occur in both domains. Outcomes had been examined during earlier work, so the validation is retrospective and exploratory.
+Outputs are written to the folder you choose (it must be outside `analysis/`).
 
-## Why the historical Kaggle input is retained
+## Main analysis
 
-The earlier workflow used the Kaggle-distributed *Violence Against Women & Girls* compilation. Each row is a published country/survey/sex/demographic-group/item **percentage**, not an individual woman or an observed violence event. The identified input permits reproduction and evaluation of the historical benchmark.
+The **national mean** is the average of the five published endorsement percentages; the **centered profile** is each situation’s deviation from that mean. A model can predict that a country has generally higher endorsement while still failing to predict which situations receive relatively greater endorsement.
 
-Official estimates have authority for the revised source-based analyses. The complete comparison matched **11,187 nonmissing historical cells** to unique official DHS API records: **11,132 (99.51%)** agreed at one-decimal precision, and **55** differed, all in India or Turkey. Agreement does not establish questionnaire or population equivalence. The distributor’s extraction procedure and the original local download date remain unverified. Native age and employment categories are preserved rather than silently pooled.
+- **Country-and-time validation:** 42 latest-survey targets, each predicted using only earlier surveys from other countries and excluding the target country’s own attitude history.
+- **External validation:** 19 MICS-family targets. Together these are 61 target evaluations in 58 distinct countries.
+- Outcomes had been examined during earlier work, so the validation is retrospective and exploratory.
 
-The historical repository already contains the compilation and processed aggregate tables. The current additions distinguish those existing assets from provider-retrieved respondent inputs. See [`docs/DATA_README.md`](docs/DATA_README.md) and [`docs/DATA_AVAILABILITY_STATEMENT.md`](docs/DATA_AVAILABILITY_STATEMENT.md) for provenance, access and reuse scope.
+Official estimates from the [DHS Program API](https://api.dhsprogram.com/) are the source for all national inputs. A historical aggregate compilation distributed on Kaggle (*Violence Against Women & Girls*) was compared with these official estimates: 11,187 nonmissing cells matched unique official records, of which 11,132 (99.51%) agreed at one-decimal precision and 55 differed (all in India or Turkey). Numerical agreement does not establish questionnaire or population equivalence. The compilation is not redistributed here; it can be obtained from its provider.
 
-## Current and historical materials
+## Repository contents
 
-| Location | Purpose |
+| Location | Contents |
 |---|---|
-| `revision_2026/` | Current public code, aggregate inputs/results and scoped reproduction commands. |
-| `docs/CURRENT_ANALYSES.md` | Scientific analysis map and reproduction limits. |
-| `data/`, `results/`, `figures/` | Existing historical tables, outputs and artwork; earlier figure numbers do not identify current figures. |
-| `notebooks/`, `scripts/` | Earlier interactive analyses and extracted Python code, including legacy explorations. |
-| `manuscript/` | Historical submitted/supporting documents; these are not automatically the current focused draft. |
+| `analysis/central/` | National mean/profile models: inputs, source ledgers, original fitting code and the reproduction runner. |
+| `analysis/modules/` | Supporting analyses: Bayesian country–scenario hierarchy, Afrobarometer acceptance classifier, reported-IPV classifier, Ising joint-response model and entropy, Ising-informed GNN and hierarchical-readout GNN. |
+| `analysis/secondary/` | Separate mental-health and COVID-19 analyses (ENDES, COVIDiSTRESS, Global Flourishing Study, UN Women): original code and public summaries. |
+| `analysis/MANIFEST.json`, `analysis/module_index.json` | File hashes and the module inventory with each module’s scope. |
+| `docs/` | [Analysis map](docs/ANALYSES.md), [data availability](docs/DATA_AVAILABILITY.md) and [declarations](docs/DECLARATIONS.md). |
 
-Separate respondent studies supply individual-level checks and mental-health context. Their participants are not linked to the aggregate attitude samples. EEG and fMRI are outside the current focused paper.
+All supplied data are country-, fold- or model-level aggregates. No respondent records, individual predictions or fitted respondent-level model states are included. Refitting the individual-level analyses requires the original provider releases (INEI ENDES, Afrobarometer, Global Flourishing Study, UN Women, COVIDiSTRESS) under their access conditions; each module documents its own requirements.
 
-Top-level `requirements.txt` and `environment.yml` describe broad historical dependencies, not a pinned numerical environment for all current analyses. Use the current minimal requirements for the quick start and each module’s documented dependencies for additional fits.
+## Citation
 
-## Citation and status
+Please cite the repository and the commit used; machine-readable metadata are in [`CITATION.cff`](CITATION.cff).
 
-This is a working research-code repository, not a claim of journal acceptance or a new numbered software release. Machine-readable citation metadata are in [`CITATION.cff`](CITATION.cff).
-
-The earlier manuscript is:
-
-Alves, C. L. *When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence*. medRxiv, 2026. [Earlier preprint](https://www.medrxiv.org/content/10.64898/2026.01.25.26344795v1.full).
-
-The repository previously identified that historical package as v1.0.0, dated 16 June 2026. That metadata does not describe a new release of the revised manuscript. The current focused title appears at the top of this page.
+An earlier version of this work was posted as a preprint with a different title and scope: Alves, C. L. *When Are Harmful Social Norms Predictable? Cross-National Structure in Attitudes Justifying Intimate Partner Violence*. medRxiv, 2026. [Preprint](https://www.medrxiv.org/content/10.64898/2026.01.25.26344795v1.full).
 
 ## Reuse
 
-Earlier repository documentation declares MIT terms for code and computational notebooks and CC BY 4.0 for documentation and generated figures. Corresponding standalone license-text files are not presently included. These declarations do not relicense third-party datasets, dependencies, source documents or third-party artwork. Those materials retain their providers’ terms; public availability and aggregate format alone do not grant unrestricted reuse.
+Code is provided under MIT terms and documentation under CC BY 4.0, as previously declared for this repository. These terms do not relicense third-party datasets, dependencies or source documents, which retain their providers’ terms.
